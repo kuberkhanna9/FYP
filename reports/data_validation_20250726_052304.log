@@ -1,0 +1,437 @@
+2025-07-26 05:23:04,934 - INFO - Data validation configuration initialized
+2025-07-26 05:23:05,104 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:23:05,160 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:23:05,217 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:23:05,274 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:23:05,325 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:23:05,383 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:23:05,433 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:23:05,498 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:23:05,568 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:23:05,633 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:23:05,693 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:23:05,755 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:23:05,804 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:23:05,858 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:23:05,912 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:23:05,970 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:23:06,031 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:23:06,088 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:23:06,153 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:23:06,295 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:23:06,388 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:23:06,444 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:23:06,502 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:23:06,550 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:23:06,609 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:23:06,659 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:23:06,727 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:23:06,780 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:23:06,845 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:23:06,899 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:23:06,960 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:23:07,028 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:23:07,096 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:23:07,167 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:23:07,240 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:23:07,298 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:23:07,377 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:23:07,445 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:23:07,517 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:23:07,655 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:23:07,711 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:23:07,773 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:23:07,827 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:23:07,889 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:23:07,958 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:23:08,015 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:23:08,091 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:23:08,160 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:23:08,220 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:23:08,275 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:23:08,336 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:23:08,389 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:23:08,455 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:23:08,512 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:23:08,577 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:23:08,638 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:23:08,696 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:23:08,752 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:23:08,810 - INFO - Validated META data: 2651 rows
+2025-07-26 05:23:08,870 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:23:08,924 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:23:08,979 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:23:09,038 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:23:09,091 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:23:09,149 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:23:09,207 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:23:09,259 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:23:09,322 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:23:09,394 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:23:09,453 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:23:09,509 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:23:09,571 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:23:09,626 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:23:09,685 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:23:09,741 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:23:09,801 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:23:09,874 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:23:09,945 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:23:10,023 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:23:10,093 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:23:10,179 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:23:10,248 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:23:10,304 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:23:10,348 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:23:10,397 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:23:10,449 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:23:10,504 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:23:10,566 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:23:10,645 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:23:10,695 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:23:10,756 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:23:10,811 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:23:10,871 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:23:10,928 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:23:10,979 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:23:11,039 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:23:11,099 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:23:11,112 - WARNING - Communication_Services: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,123 - WARNING - Consumer_Discretionary: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,132 - WARNING - Consumer_Staples: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,143 - WARNING - Energy: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,159 - WARNING - Financials: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,172 - WARNING - Healthcare: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,180 - WARNING - Industrials: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,193 - WARNING - Materials: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,205 - WARNING - Real_Estate: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,215 - WARNING - Technology: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:23:11,226 - WARNING - Utilities: Missing columns: {'Sector', 'Ticker'}
+
+Initial Data Validation Summary
+==================================================
+
+Stock Data:
+- Passed: 97 stocks
+- Failed: 0 stocks
+
+
+Sector Data:
+- Passed: 0 sectors
+- Failed: 11 sectors
+
+Failed Sector Validations:
+- Communication_Services: missing_columns
+- Consumer_Discretionary: missing_columns
+- Consumer_Staples: missing_columns
+- Energy: missing_columns
+- Financials: missing_columns
+- Healthcare: missing_columns
+- Industrials: missing_columns
+- Materials: missing_columns
+- Real_Estate: missing_columns
+- Technology: missing_columns
+- Utilities: missing_columns
+2025-07-26 05:23:11,262 - WARNING - AAPL: Sector Technology not found in sector data
+2025-07-26 05:23:11,264 - WARNING - ABNB: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,266 - WARNING - ADBE: Sector Technology not found in sector data
+2025-07-26 05:23:11,268 - WARNING - ADI: Sector Technology not found in sector data
+2025-07-26 05:23:11,269 - WARNING - ADP: Sector Technology not found in sector data
+2025-07-26 05:23:11,271 - WARNING - ADSK: Sector Technology not found in sector data
+2025-07-26 05:23:11,271 - WARNING - AEP: Sector Utilities not found in sector data
+2025-07-26 05:23:11,273 - WARNING - ALGN: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,274 - WARNING - AMAT: Sector Technology not found in sector data
+2025-07-26 05:23:11,276 - WARNING - AMD: Sector Technology not found in sector data
+2025-07-26 05:23:11,279 - WARNING - AMGN: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,286 - WARNING - AMZN: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,289 - WARNING - ANSS: Sector Technology not found in sector data
+2025-07-26 05:23:11,290 - WARNING - ASML: Sector Technology not found in sector data
+2025-07-26 05:23:11,291 - WARNING - AVGO: Sector Technology not found in sector data
+2025-07-26 05:23:11,292 - WARNING - BIIB: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,293 - WARNING - BKNG: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,294 - WARNING - BKR: Sector Energy not found in sector data
+2025-07-26 05:23:11,295 - WARNING - CDNS: Sector Technology not found in sector data
+2025-07-26 05:23:11,297 - WARNING - CHTR: Sector Communication Services not found in sector data
+2025-07-26 05:23:11,298 - WARNING - CMCSA: Sector Communication Services not found in sector data
+2025-07-26 05:23:11,299 - WARNING - COST: Sector Consumer Staples not found in sector data
+2025-07-26 05:23:11,300 - WARNING - CPRT: Sector Industrials not found in sector data
+2025-07-26 05:23:11,302 - WARNING - CRWD: Sector Technology not found in sector data
+2025-07-26 05:23:11,303 - WARNING - CSCO: Sector Technology not found in sector data
+2025-07-26 05:23:11,304 - WARNING - CSX: Sector Industrials not found in sector data
+2025-07-26 05:23:11,305 - WARNING - CTAS: Sector Industrials not found in sector data
+2025-07-26 05:23:11,306 - WARNING - CTSH: Sector Technology not found in sector data
+2025-07-26 05:23:11,308 - WARNING - CVNA: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,309 - WARNING - DASH: Sector Technology not found in sector data
+2025-07-26 05:23:11,310 - WARNING - DDOG: Sector Technology not found in sector data
+2025-07-26 05:23:11,311 - WARNING - DLTR: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,312 - WARNING - DOCU: Sector Technology not found in sector data
+2025-07-26 05:23:11,314 - WARNING - DXCM: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,315 - WARNING - EA: Sector Technology not found in sector data
+2025-07-26 05:23:11,317 - WARNING - EBAY: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,318 - WARNING - ENPH: Sector Technology not found in sector data
+2025-07-26 05:23:11,319 - WARNING - EXC: Sector Utilities not found in sector data
+2025-07-26 05:23:11,320 - WARNING - FANG: Sector Energy not found in sector data
+2025-07-26 05:23:11,321 - WARNING - FAST: Sector Industrials not found in sector data
+2025-07-26 05:23:11,323 - WARNING - FTNT: Sector Technology not found in sector data
+2025-07-26 05:23:11,324 - WARNING - GILD: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,325 - WARNING - GOOG: Sector Technology not found in sector data
+2025-07-26 05:23:11,326 - WARNING - GOOGL: Sector Technology not found in sector data
+2025-07-26 05:23:11,326 - WARNING - HON: Sector Industrials not found in sector data
+2025-07-26 05:23:11,327 - WARNING - IDXX: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,328 - WARNING - ILMN: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,329 - WARNING - INTC: Sector Technology not found in sector data
+2025-07-26 05:23:11,333 - WARNING - INTU: Sector Technology not found in sector data
+2025-07-26 05:23:11,337 - WARNING - ISRG: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,338 - WARNING - KDP: Sector Consumer Staples not found in sector data
+2025-07-26 05:23:11,342 - WARNING - KHC: Sector Consumer Staples not found in sector data
+2025-07-26 05:23:11,343 - WARNING - KLAC: Sector Technology not found in sector data
+2025-07-26 05:23:11,344 - WARNING - LRCX: Sector Technology not found in sector data
+2025-07-26 05:23:11,345 - WARNING - MAR: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,347 - WARNING - MCHP: Sector Technology not found in sector data
+2025-07-26 05:23:11,348 - WARNING - MDLZ: Sector Consumer Staples not found in sector data
+2025-07-26 05:23:11,350 - WARNING - MELI: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,351 - WARNING - META: Sector Technology not found in sector data
+2025-07-26 05:23:11,353 - WARNING - MNST: Sector Consumer Staples not found in sector data
+2025-07-26 05:23:11,357 - WARNING - MRNA: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,359 - WARNING - MRVL: Sector Technology not found in sector data
+2025-07-26 05:23:11,360 - WARNING - MSFT: Sector Technology not found in sector data
+2025-07-26 05:23:11,362 - WARNING - MTCH: Sector Technology not found in sector data
+2025-07-26 05:23:11,364 - WARNING - MU: Sector Technology not found in sector data
+2025-07-26 05:23:11,365 - WARNING - NFLX: Sector Communication Services not found in sector data
+2025-07-26 05:23:11,366 - WARNING - NVDA: Sector Technology not found in sector data
+2025-07-26 05:23:11,367 - WARNING - NXPI: Sector Technology not found in sector data
+2025-07-26 05:23:11,368 - WARNING - ODFL: Sector Industrials not found in sector data
+2025-07-26 05:23:11,369 - WARNING - OKTA: Sector Technology not found in sector data
+2025-07-26 05:23:11,370 - WARNING - ORLY: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,372 - WARNING - PANW: Sector Technology not found in sector data
+2025-07-26 05:23:11,373 - WARNING - PAYX: Sector Technology not found in sector data
+2025-07-26 05:23:11,375 - WARNING - PCAR: Sector Industrials not found in sector data
+2025-07-26 05:23:11,376 - WARNING - PEP: Sector Consumer Staples not found in sector data
+2025-07-26 05:23:11,377 - WARNING - PYPL: Sector Technology not found in sector data
+2025-07-26 05:23:11,378 - WARNING - QCOM: Sector Technology not found in sector data
+2025-07-26 05:23:11,381 - WARNING - RBLX: Sector Technology not found in sector data
+2025-07-26 05:23:11,383 - WARNING - REGN: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,384 - WARNING - ROKU: Sector Technology not found in sector data
+2025-07-26 05:23:11,386 - WARNING - ROST: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,388 - WARNING - SBUX: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,390 - WARNING - SIRI: Sector Communication Services not found in sector data
+2025-07-26 05:23:11,391 - WARNING - SNAP: Sector Technology  not found in sector data
+2025-07-26 05:23:11,392 - WARNING - SNPS: Sector Technology not found in sector data
+2025-07-26 05:23:11,396 - WARNING - TEAM: Sector Technology not found in sector data
+2025-07-26 05:23:11,399 - WARNING - TMUS: Sector Communication Services not found in sector data
+2025-07-26 05:23:11,400 - WARNING - TSLA: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:23:11,402 - WARNING - TTD: Sector Technology not found in sector data
+2025-07-26 05:23:11,404 - WARNING - TXN: Sector Technology not found in sector data
+2025-07-26 05:23:11,405 - WARNING - VRSK: Sector Technology not found in sector data
+2025-07-26 05:23:11,405 - WARNING - VRTX: Sector Healthcare not found in sector data
+2025-07-26 05:23:11,407 - WARNING - WBD: Sector Communication Services not found in sector data
+2025-07-26 05:23:11,457 - WARNING - WDAY: Sector Technology not found in sector data
+2025-07-26 05:23:11,470 - WARNING - XEL: Sector Utilities not found in sector data
+2025-07-26 05:23:11,480 - WARNING - ZM: Sector Technology not found in sector data
+2025-07-26 05:23:11,494 - WARNING - ZS: Sector Technology not found in sector data
+2025-07-26 05:24:43,037 - INFO - Data validation configuration initialized
+2025-07-26 05:24:43,230 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:24:43,307 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:24:43,388 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:24:43,472 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:24:43,546 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:24:43,632 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:24:43,717 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:24:43,799 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:24:43,881 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:24:43,962 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:24:44,050 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:24:44,134 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:24:44,212 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:24:44,357 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:24:44,432 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:24:44,492 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:24:44,565 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:24:44,638 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:24:44,702 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:24:44,752 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:24:44,818 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:24:44,888 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:24:44,962 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:24:45,032 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:24:45,094 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:24:45,158 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:24:45,222 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:24:45,290 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:24:45,358 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:24:45,409 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:24:45,466 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:24:45,529 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:24:45,606 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:24:45,695 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:24:45,786 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:24:45,901 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:24:46,030 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:24:46,117 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:24:46,208 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:24:46,290 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:24:46,387 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:24:46,476 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:24:46,561 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:24:46,641 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:24:46,719 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:24:46,793 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:24:46,877 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:24:46,962 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:24:47,035 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:24:47,093 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:24:47,160 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:24:47,246 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:24:47,320 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:24:47,373 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:24:47,425 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:24:47,474 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:24:47,525 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:24:47,603 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:24:47,676 - INFO - Validated META data: 2651 rows
+2025-07-26 05:24:47,748 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:24:47,810 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:24:47,883 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:24:47,962 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:24:48,040 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:24:48,134 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:24:48,211 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:24:48,289 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:24:48,392 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:24:48,469 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:24:48,539 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:24:48,605 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:24:48,674 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:24:48,749 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:24:48,833 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:24:48,928 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:24:48,994 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:24:49,078 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:24:49,152 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:24:49,232 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:24:49,308 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:24:49,401 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:24:49,470 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:24:49,545 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:24:49,626 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:24:49,715 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:24:49,798 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:24:49,871 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:24:49,962 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:24:50,049 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:24:50,124 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:24:50,207 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:24:50,292 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:24:50,419 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:24:50,576 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:24:50,654 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:24:50,835 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:24:50,892 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:24:50,912 - WARNING - Communication_Services: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,923 - WARNING - Consumer_Discretionary: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,935 - WARNING - Consumer_Staples: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,945 - WARNING - Energy: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,956 - WARNING - Financials: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,967 - WARNING - Healthcare: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,978 - WARNING - Industrials: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,988 - WARNING - Materials: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:50,999 - WARNING - Real_Estate: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:51,014 - WARNING - Technology: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:51,027 - WARNING - Utilities: Missing columns: {'Sector', 'Ticker'}
+2025-07-26 05:24:51,076 - WARNING - AAPL: Sector Technology not found in sector data
+2025-07-26 05:24:51,077 - WARNING - ABNB: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,080 - WARNING - ADBE: Sector Technology not found in sector data
+2025-07-26 05:24:51,083 - WARNING - ADI: Sector Technology not found in sector data
+2025-07-26 05:24:51,084 - WARNING - ADP: Sector Technology not found in sector data
+2025-07-26 05:24:51,086 - WARNING - ADSK: Sector Technology not found in sector data
+2025-07-26 05:24:51,088 - WARNING - AEP: Sector Utilities not found in sector data
+2025-07-26 05:24:51,089 - WARNING - ALGN: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,090 - WARNING - AMAT: Sector Technology not found in sector data
+2025-07-26 05:24:51,091 - WARNING - AMD: Sector Technology not found in sector data
+2025-07-26 05:24:51,093 - WARNING - AMGN: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,095 - WARNING - AMZN: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,096 - WARNING - ANSS: Sector Technology not found in sector data
+2025-07-26 05:24:51,098 - WARNING - ASML: Sector Technology not found in sector data
+2025-07-26 05:24:51,099 - WARNING - AVGO: Sector Technology not found in sector data
+2025-07-26 05:24:51,101 - WARNING - BIIB: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,102 - WARNING - BKNG: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,104 - WARNING - BKR: Sector Energy not found in sector data
+2025-07-26 05:24:51,105 - WARNING - CDNS: Sector Technology not found in sector data
+2025-07-26 05:24:51,107 - WARNING - CHTR: Sector Communication Services not found in sector data
+2025-07-26 05:24:51,108 - WARNING - CMCSA: Sector Communication Services not found in sector data
+2025-07-26 05:24:51,109 - WARNING - COST: Sector Consumer Staples not found in sector data
+2025-07-26 05:24:51,111 - WARNING - CPRT: Sector Industrials not found in sector data
+2025-07-26 05:24:51,112 - WARNING - CRWD: Sector Technology not found in sector data
+2025-07-26 05:24:51,113 - WARNING - CSCO: Sector Technology not found in sector data
+2025-07-26 05:24:51,115 - WARNING - CSX: Sector Industrials not found in sector data
+2025-07-26 05:24:51,117 - WARNING - CTAS: Sector Industrials not found in sector data
+2025-07-26 05:24:51,119 - WARNING - CTSH: Sector Technology not found in sector data
+2025-07-26 05:24:51,120 - WARNING - CVNA: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,122 - WARNING - DASH: Sector Technology not found in sector data
+2025-07-26 05:24:51,123 - WARNING - DDOG: Sector Technology not found in sector data
+2025-07-26 05:24:51,125 - WARNING - DLTR: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,126 - WARNING - DOCU: Sector Technology not found in sector data
+2025-07-26 05:24:51,127 - WARNING - DXCM: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,128 - WARNING - EA: Sector Technology not found in sector data
+2025-07-26 05:24:51,129 - WARNING - EBAY: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,131 - WARNING - ENPH: Sector Technology not found in sector data
+2025-07-26 05:24:51,133 - WARNING - EXC: Sector Utilities not found in sector data
+2025-07-26 05:24:51,134 - WARNING - FANG: Sector Energy not found in sector data
+2025-07-26 05:24:51,136 - WARNING - FAST: Sector Industrials not found in sector data
+2025-07-26 05:24:51,138 - WARNING - FTNT: Sector Technology not found in sector data
+2025-07-26 05:24:51,139 - WARNING - GILD: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,140 - WARNING - GOOG: Sector Technology not found in sector data
+2025-07-26 05:24:51,142 - WARNING - GOOGL: Sector Technology not found in sector data
+2025-07-26 05:24:51,143 - WARNING - HON: Sector Industrials not found in sector data
+2025-07-26 05:24:51,145 - WARNING - IDXX: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,146 - WARNING - ILMN: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,147 - WARNING - INTC: Sector Technology not found in sector data
+2025-07-26 05:24:51,149 - WARNING - INTU: Sector Technology not found in sector data
+2025-07-26 05:24:51,150 - WARNING - ISRG: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,151 - WARNING - KDP: Sector Consumer Staples not found in sector data
+2025-07-26 05:24:51,153 - WARNING - KHC: Sector Consumer Staples not found in sector data
+2025-07-26 05:24:51,155 - WARNING - KLAC: Sector Technology not found in sector data
+2025-07-26 05:24:51,156 - WARNING - LRCX: Sector Technology not found in sector data
+2025-07-26 05:24:51,159 - WARNING - MAR: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,160 - WARNING - MCHP: Sector Technology not found in sector data
+2025-07-26 05:24:51,161 - WARNING - MDLZ: Sector Consumer Staples not found in sector data
+2025-07-26 05:24:51,162 - WARNING - MELI: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,164 - WARNING - META: Sector Technology not found in sector data
+2025-07-26 05:24:51,165 - WARNING - MNST: Sector Consumer Staples not found in sector data
+2025-07-26 05:24:51,168 - WARNING - MRNA: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,170 - WARNING - MRVL: Sector Technology not found in sector data
+2025-07-26 05:24:51,171 - WARNING - MSFT: Sector Technology not found in sector data
+2025-07-26 05:24:51,172 - WARNING - MTCH: Sector Technology not found in sector data
+2025-07-26 05:24:51,174 - WARNING - MU: Sector Technology not found in sector data
+2025-07-26 05:24:51,175 - WARNING - NFLX: Sector Communication Services not found in sector data
+2025-07-26 05:24:51,180 - WARNING - NVDA: Sector Technology not found in sector data
+2025-07-26 05:24:51,182 - WARNING - NXPI: Sector Technology not found in sector data
+2025-07-26 05:24:51,184 - WARNING - ODFL: Sector Industrials not found in sector data
+2025-07-26 05:24:51,185 - WARNING - OKTA: Sector Technology not found in sector data
+2025-07-26 05:24:51,188 - WARNING - ORLY: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,189 - WARNING - PANW: Sector Technology not found in sector data
+2025-07-26 05:24:51,191 - WARNING - PAYX: Sector Technology not found in sector data
+2025-07-26 05:24:51,192 - WARNING - PCAR: Sector Industrials not found in sector data
+2025-07-26 05:24:51,193 - WARNING - PEP: Sector Consumer Staples not found in sector data
+2025-07-26 05:24:51,194 - WARNING - PYPL: Sector Technology not found in sector data
+2025-07-26 05:24:51,195 - WARNING - QCOM: Sector Technology not found in sector data
+2025-07-26 05:24:51,198 - WARNING - RBLX: Sector Technology not found in sector data
+2025-07-26 05:24:51,200 - WARNING - REGN: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,201 - WARNING - ROKU: Sector Technology not found in sector data
+2025-07-26 05:24:51,206 - WARNING - ROST: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,207 - WARNING - SBUX: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,209 - WARNING - SIRI: Sector Communication Services not found in sector data
+2025-07-26 05:24:51,212 - WARNING - SNAP: Sector Technology  not found in sector data
+2025-07-26 05:24:51,213 - WARNING - SNPS: Sector Technology not found in sector data
+2025-07-26 05:24:51,215 - WARNING - TEAM: Sector Technology not found in sector data
+2025-07-26 05:24:51,217 - WARNING - TMUS: Sector Communication Services not found in sector data
+2025-07-26 05:24:51,218 - WARNING - TSLA: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:24:51,219 - WARNING - TTD: Sector Technology not found in sector data
+2025-07-26 05:24:51,221 - WARNING - TXN: Sector Technology not found in sector data
+2025-07-26 05:24:51,222 - WARNING - VRSK: Sector Technology not found in sector data
+2025-07-26 05:24:51,224 - WARNING - VRTX: Sector Healthcare not found in sector data
+2025-07-26 05:24:51,226 - WARNING - WBD: Sector Communication Services not found in sector data
+2025-07-26 05:24:51,227 - WARNING - WDAY: Sector Technology not found in sector data
+2025-07-26 05:24:51,228 - WARNING - XEL: Sector Utilities not found in sector data
+2025-07-26 05:24:51,229 - WARNING - ZM: Sector Technology not found in sector data
+2025-07-26 05:24:51,231 - WARNING - ZS: Sector Technology not found in sector data

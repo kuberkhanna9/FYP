@@ -1,0 +1,107 @@
+NASDAQ-100 Sector Volatility Analysis
+==================================================
+
+Risk Metrics by Sector:
+------------------------------
+
+XLB:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 66.000
+- High_Vol_Pct: 2.485
+- Skewness: -0.413
+- Kurtosis: 9.449
+- Jarque_Bera: 9951.601
+
+XLC:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 44.000
+- High_Vol_Pct: 2.465
+- Skewness: -0.484
+- Kurtosis: 6.880
+- Jarque_Bera: 3587.740
+
+XLE:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 77.000
+- High_Vol_Pct: 2.899
+- Skewness: -0.871
+- Kurtosis: 15.520
+- Jarque_Bera: 26981.699
+
+XLF:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 79.000
+- High_Vol_Pct: 2.974
+- Skewness: -0.567
+- Kurtosis: 14.923
+- Jarque_Bera: 24776.926
+
+XLI:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 75.000
+- High_Vol_Pct: 2.824
+- Skewness: -0.533
+- Kurtosis: 13.716
+- Jarque_Bera: 20937.880
+
+XLK:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 59.000
+- High_Vol_Pct: 2.221
+- Skewness: -0.295
+- Kurtosis: 9.899
+- Jarque_Bera: 10877.834
+
+XLP:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 52.000
+- High_Vol_Pct: 1.958
+- Skewness: -0.476
+- Kurtosis: 14.801
+- Jarque_Bera: 24335.120
+
+XLRE:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 54.000
+- High_Vol_Pct: 2.192
+- Skewness: -1.043
+- Kurtosis: 18.115
+- Jarque_Bera: 34107.788
+
+XLU:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 48.000
+- High_Vol_Pct: 1.807
+- Skewness: -0.315
+- Kurtosis: 15.109
+- Jarque_Bera: 25297.048
+
+XLV:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 62.000
+- High_Vol_Pct: 2.334
+- Skewness: -0.434
+- Kurtosis: 9.057
+- Jarque_Bera: 9157.090
+
+XLY:
+- VaR: nan
+- ES: nan
+- High_Vol_Days: 87.000
+- High_Vol_Pct: 3.276
+- Skewness: -0.592
+- Kurtosis: 9.178
+- Jarque_Bera: 9472.842
+
+Strong Sector Correlations:
+------------------------------

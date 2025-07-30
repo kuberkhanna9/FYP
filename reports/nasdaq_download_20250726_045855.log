@@ -1,0 +1,384 @@
+2025-07-26 04:58:55,549 - INFO - Loaded 98 tickers across 9 sectors
+2025-07-26 04:58:55,551 - INFO - Configured to download 98 stocks from 2015-01-01 to 2025-07-26
+2025-07-26 04:58:55,601 - INFO - Processing AAPL (Technology)
+2025-07-26 04:58:55,615 - INFO - Loaded existing data for AAPL
+2025-07-26 04:58:55,626 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 04:58:55,629 - INFO - Processing MSFT (Technology)
+2025-07-26 04:58:55,644 - INFO - Loaded existing data for MSFT
+2025-07-26 04:58:55,649 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 04:58:55,651 - INFO - Processing AMZN (Consumer Discretionary)
+2025-07-26 04:58:55,666 - INFO - Loaded existing data for AMZN
+2025-07-26 04:58:55,676 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 04:58:55,677 - INFO - Processing NVDA (Technology)
+2025-07-26 04:58:55,736 - INFO - Loaded existing data for NVDA
+2025-07-26 04:58:55,743 - WARNING - NVDA data quality issues:
+2025-07-26 04:58:55,752 - WARNING - - 29 potential outliers in Open prices
+2025-07-26 04:58:55,753 - WARNING - - 27 potential outliers in High prices
+2025-07-26 04:58:55,755 - WARNING - - 31 potential outliers in Low prices
+2025-07-26 04:58:55,756 - WARNING - - 29 potential outliers in Close prices
+2025-07-26 04:58:55,758 - INFO - Processing META (Technology)
+2025-07-26 04:58:55,769 - INFO - Loaded existing data for META
+2025-07-26 04:58:55,776 - WARNING - META data quality issues:
+2025-07-26 04:58:55,777 - WARNING - - 40 potential outliers in Open prices
+2025-07-26 04:58:55,778 - WARNING - - 39 potential outliers in High prices
+2025-07-26 04:58:55,779 - WARNING - - 39 potential outliers in Low prices
+2025-07-26 04:58:55,781 - WARNING - - 39 potential outliers in Close prices
+2025-07-26 04:58:55,782 - INFO - Processing GOOGL (Technology)
+2025-07-26 04:58:55,790 - INFO - Loaded existing data for GOOGL
+2025-07-26 04:58:55,795 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 04:58:55,797 - INFO - Processing GOOG (Technology)
+2025-07-26 04:58:55,804 - INFO - Loaded existing data for GOOG
+2025-07-26 04:58:55,812 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 04:58:55,813 - INFO - Processing TSLA (Consumer Discretionary)
+2025-07-26 04:58:55,821 - INFO - Loaded existing data for TSLA
+2025-07-26 04:58:55,828 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 04:58:55,830 - INFO - Processing AVGO (Technology)
+2025-07-26 04:58:55,840 - INFO - Loaded existing data for AVGO
+2025-07-26 04:58:55,847 - WARNING - AVGO data quality issues:
+2025-07-26 04:58:55,848 - WARNING - - 80 potential outliers in Open prices
+2025-07-26 04:58:55,849 - WARNING - - 82 potential outliers in High prices
+2025-07-26 04:58:55,850 - WARNING - - 79 potential outliers in Low prices
+2025-07-26 04:58:55,851 - WARNING - - 79 potential outliers in Close prices
+2025-07-26 04:58:55,852 - INFO - Processing PEP (Consumer Staples)
+2025-07-26 04:58:55,863 - INFO - Loaded existing data for PEP
+2025-07-26 04:58:55,870 - INFO - Validated PEP data: 2651 rows
+2025-07-26 04:58:55,872 - INFO - Processing COST (Consumer Staples)
+2025-07-26 04:58:55,882 - INFO - Loaded existing data for COST
+2025-07-26 04:58:55,936 - INFO - Validated COST data: 2651 rows
+2025-07-26 04:58:55,937 - INFO - Processing CSCO (Technology)
+2025-07-26 04:58:55,951 - INFO - Loaded existing data for CSCO
+2025-07-26 04:58:55,959 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 04:58:55,961 - INFO - Processing TMUS (Communication Services)
+2025-07-26 04:58:55,976 - INFO - Loaded existing data for TMUS
+2025-07-26 04:58:55,984 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 04:58:55,986 - INFO - Processing ADBE (Technology)
+2025-07-26 04:58:55,996 - INFO - Loaded existing data for ADBE
+2025-07-26 04:58:56,002 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 04:58:56,009 - INFO - Processing NFLX (Communication Services)
+2025-07-26 04:58:56,022 - INFO - Loaded existing data for NFLX
+2025-07-26 04:58:56,032 - WARNING - NFLX data quality issues:
+2025-07-26 04:58:56,033 - WARNING - - 55 potential outliers in Open prices
+2025-07-26 04:58:56,034 - WARNING - - 56 potential outliers in High prices
+2025-07-26 04:58:56,035 - WARNING - - 55 potential outliers in Low prices
+2025-07-26 04:58:56,036 - WARNING - - 55 potential outliers in Close prices
+2025-07-26 04:58:56,039 - INFO - Processing CMCSA (Communication Services)
+2025-07-26 04:58:56,049 - INFO - Loaded existing data for CMCSA
+2025-07-26 04:58:56,055 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 04:58:56,057 - INFO - Processing AMD (Technology)
+2025-07-26 04:58:56,069 - INFO - Loaded existing data for AMD
+2025-07-26 04:58:56,079 - WARNING - AMD data quality issues:
+2025-07-26 04:58:56,082 - WARNING - - 1 potential outliers in High prices
+2025-07-26 04:58:56,084 - INFO - Processing TXN (Technology)
+2025-07-26 04:58:56,095 - INFO - Loaded existing data for TXN
+2025-07-26 04:58:56,102 - INFO - Validated TXN data: 2651 rows
+2025-07-26 04:58:56,103 - INFO - Processing INTC (Technology)
+2025-07-26 04:58:56,116 - INFO - Loaded existing data for INTC
+2025-07-26 04:58:56,121 - INFO - Validated INTC data: 2651 rows
+2025-07-26 04:58:56,122 - INFO - Processing QCOM (Technology)
+2025-07-26 04:58:56,132 - INFO - Loaded existing data for QCOM
+2025-07-26 04:58:56,139 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 04:58:56,142 - INFO - Processing INTU (Technology)
+2025-07-26 04:58:56,153 - INFO - Loaded existing data for INTU
+2025-07-26 04:58:56,162 - INFO - Validated INTU data: 2651 rows
+2025-07-26 04:58:56,164 - INFO - Processing AMGN (Healthcare)
+2025-07-26 04:58:56,175 - INFO - Loaded existing data for AMGN
+2025-07-26 04:58:56,180 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 04:58:56,182 - INFO - Processing HON (Industrials)
+2025-07-26 04:58:56,193 - INFO - Loaded existing data for HON
+2025-07-26 04:58:56,200 - INFO - Validated HON data: 2651 rows
+2025-07-26 04:58:56,200 - INFO - Processing AMAT (Technology)
+2025-07-26 04:58:56,211 - INFO - Loaded existing data for AMAT
+2025-07-26 04:58:56,217 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 04:58:56,217 - INFO - Processing ISRG (Healthcare)
+2025-07-26 04:58:56,227 - INFO - Loaded existing data for ISRG
+2025-07-26 04:58:56,235 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 04:58:56,236 - INFO - Processing SBUX (Consumer Discretionary)
+2025-07-26 04:58:56,247 - INFO - Loaded existing data for SBUX
+2025-07-26 04:58:56,251 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 04:58:56,253 - INFO - Processing ADP (Technology)
+2025-07-26 04:58:56,265 - INFO - Loaded existing data for ADP
+2025-07-26 04:58:56,271 - INFO - Validated ADP data: 2651 rows
+2025-07-26 04:58:56,273 - INFO - Processing MDLZ (Consumer Staples)
+2025-07-26 04:58:56,287 - INFO - Loaded existing data for MDLZ
+2025-07-26 04:58:56,296 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 04:58:56,297 - INFO - Processing ADI (Technology)
+2025-07-26 04:58:56,306 - INFO - Loaded existing data for ADI
+2025-07-26 04:58:56,312 - INFO - Validated ADI data: 2651 rows
+2025-07-26 04:58:56,313 - INFO - Processing BKNG (Consumer Discretionary)
+2025-07-26 04:58:56,321 - INFO - Loaded existing data for BKNG
+2025-07-26 04:58:56,327 - WARNING - BKNG data quality issues:
+2025-07-26 04:58:56,328 - WARNING - - 44 potential outliers in Open prices
+2025-07-26 04:58:56,329 - WARNING - - 45 potential outliers in High prices
+2025-07-26 04:58:56,331 - WARNING - - 45 potential outliers in Low prices
+2025-07-26 04:58:56,332 - WARNING - - 45 potential outliers in Close prices
+2025-07-26 04:58:56,333 - INFO - Processing GILD (Healthcare)
+2025-07-26 04:58:56,342 - INFO - Loaded existing data for GILD
+2025-07-26 04:58:56,349 - WARNING - GILD data quality issues:
+2025-07-26 04:58:56,350 - WARNING - - 74 potential outliers in Open prices
+2025-07-26 04:58:56,351 - WARNING - - 76 potential outliers in High prices
+2025-07-26 04:58:56,352 - WARNING - - 75 potential outliers in Low prices
+2025-07-26 04:58:56,353 - WARNING - - 79 potential outliers in Close prices
+2025-07-26 04:58:56,356 - INFO - Processing REGN (Healthcare)
+2025-07-26 04:58:56,365 - INFO - Loaded existing data for REGN
+2025-07-26 04:58:56,371 - WARNING - REGN data quality issues:
+2025-07-26 04:58:56,372 - WARNING - - 21 potential outliers in Open prices
+2025-07-26 04:58:56,373 - WARNING - - 20 potential outliers in High prices
+2025-07-26 04:58:56,375 - WARNING - - 20 potential outliers in Low prices
+2025-07-26 04:58:56,376 - WARNING - - 21 potential outliers in Close prices
+2025-07-26 04:58:56,377 - INFO - Processing VRTX (Healthcare)
+2025-07-26 04:58:56,385 - INFO - Loaded existing data for VRTX
+2025-07-26 04:58:56,389 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 04:58:56,390 - INFO - Processing PANW (Technology)
+2025-07-26 04:58:56,400 - INFO - Loaded existing data for PANW
+2025-07-26 04:58:56,407 - INFO - Validated PANW data: 2651 rows
+2025-07-26 04:58:56,408 - INFO - Processing SNPS (Technology)
+2025-07-26 04:58:56,417 - INFO - Loaded existing data for SNPS
+2025-07-26 04:58:56,423 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 04:58:56,425 - INFO - Processing CDNS (Technology)
+2025-07-26 04:58:56,436 - INFO - Loaded existing data for CDNS
+2025-07-26 04:58:56,441 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 04:58:56,443 - INFO - Processing KLAC (Technology)
+2025-07-26 04:58:56,452 - INFO - Loaded existing data for KLAC
+2025-07-26 04:58:56,457 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 04:58:56,460 - INFO - Processing MELI (Consumer Discretionary)
+2025-07-26 04:58:56,469 - INFO - Loaded existing data for MELI
+2025-07-26 04:58:56,476 - INFO - Validated MELI data: 2651 rows
+2025-07-26 04:58:56,477 - INFO - Processing LRCX (Technology)
+2025-07-26 04:58:56,487 - INFO - Loaded existing data for LRCX
+2025-07-26 04:58:56,497 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 04:58:56,498 - INFO - Processing MU (Technology)
+2025-07-26 04:58:56,511 - INFO - Loaded existing data for MU
+2025-07-26 04:58:56,517 - WARNING - MU data quality issues:
+2025-07-26 04:58:56,518 - WARNING - - 6 potential outliers in Open prices
+2025-07-26 04:58:56,519 - WARNING - - 3 potential outliers in High prices
+2025-07-26 04:58:56,520 - WARNING - - 6 potential outliers in Low prices
+2025-07-26 04:58:56,522 - WARNING - - 5 potential outliers in Close prices
+2025-07-26 04:58:56,525 - INFO - Processing ASML (Technology)
+2025-07-26 04:58:56,535 - INFO - Loaded existing data for ASML
+2025-07-26 04:58:56,542 - INFO - Validated ASML data: 2651 rows
+2025-07-26 04:58:56,543 - INFO - Processing CHTR (Communication Services)
+2025-07-26 04:58:56,553 - INFO - Loaded existing data for CHTR
+2025-07-26 04:58:56,562 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 04:58:56,564 - INFO - Processing MAR (Consumer Discretionary)
+2025-07-26 04:58:56,573 - INFO - Loaded existing data for MAR
+2025-07-26 04:58:56,581 - INFO - Validated MAR data: 2651 rows
+2025-07-26 04:58:56,583 - INFO - Processing ORLY (Consumer Discretionary)
+2025-07-26 04:58:56,593 - INFO - Loaded existing data for ORLY
+2025-07-26 04:58:56,599 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 04:58:56,600 - INFO - Processing MNST (Consumer Staples)
+2025-07-26 04:58:56,609 - INFO - Loaded existing data for MNST
+2025-07-26 04:58:56,616 - INFO - Validated MNST data: 2651 rows
+2025-07-26 04:58:56,617 - INFO - Processing FTNT (Technology)
+2025-07-26 04:58:56,627 - INFO - Loaded existing data for FTNT
+2025-07-26 04:58:56,635 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 04:58:56,637 - INFO - Processing CTAS (Industrials)
+2025-07-26 04:58:56,650 - INFO - Loaded existing data for CTAS
+2025-07-26 04:58:56,656 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 04:58:56,658 - INFO - Processing PAYX (Technology)
+2025-07-26 04:58:56,667 - INFO - Loaded existing data for PAYX
+2025-07-26 04:58:56,673 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 04:58:56,674 - INFO - Processing MRVL (Technology)
+2025-07-26 04:58:56,685 - INFO - Loaded existing data for MRVL
+2025-07-26 04:58:56,692 - WARNING - MRVL data quality issues:
+2025-07-26 04:58:56,693 - WARNING - - 27 potential outliers in Open prices
+2025-07-26 04:58:56,694 - WARNING - - 31 potential outliers in High prices
+2025-07-26 04:58:56,697 - WARNING - - 31 potential outliers in Low prices
+2025-07-26 04:58:56,698 - WARNING - - 31 potential outliers in Close prices
+2025-07-26 04:58:56,701 - INFO - Processing ABNB (Consumer Discretionary)
+2025-07-26 04:58:56,708 - INFO - Loaded existing data for ABNB
+2025-07-26 04:58:56,715 - WARNING - ABNB data quality issues:
+2025-07-26 04:58:56,716 - WARNING - - 2 potential outliers in Open prices
+2025-07-26 04:58:56,717 - WARNING - - 2 potential outliers in High prices
+2025-07-26 04:58:56,718 - WARNING - - 2 potential outliers in Low prices
+2025-07-26 04:58:56,718 - WARNING - - 1 potential outliers in Close prices
+2025-07-26 04:58:56,719 - INFO - Processing ADSK (Technology)
+2025-07-26 04:58:56,733 - INFO - Loaded existing data for ADSK
+2025-07-26 04:58:56,739 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 04:58:56,740 - INFO - Processing ODFL (Industrials)
+2025-07-26 04:58:56,750 - INFO - Loaded existing data for ODFL
+2025-07-26 04:58:56,755 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 04:58:56,756 - INFO - Processing IDXX (Healthcare)
+2025-07-26 04:58:56,803 - INFO - Loaded existing data for IDXX
+2025-07-26 04:58:56,810 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 04:58:56,812 - INFO - Processing BIIB (Healthcare)
+2025-07-26 04:58:56,825 - INFO - Loaded existing data for BIIB
+2025-07-26 04:58:56,831 - WARNING - BIIB data quality issues:
+2025-07-26 04:58:56,832 - WARNING - - 3 potential outliers in Open prices
+2025-07-26 04:58:56,833 - WARNING - - 4 potential outliers in High prices
+2025-07-26 04:58:56,834 - WARNING - - 3 potential outliers in Low prices
+2025-07-26 04:58:56,835 - WARNING - - 3 potential outliers in Close prices
+2025-07-26 04:58:56,836 - INFO - Processing KDP (Consumer Staples)
+2025-07-26 04:58:56,846 - INFO - Loaded existing data for KDP
+2025-07-26 04:58:56,852 - INFO - Validated KDP data: 2651 rows
+2025-07-26 04:58:56,854 - INFO - Processing KHC (Consumer Staples)
+2025-07-26 04:58:56,864 - INFO - Loaded existing data for KHC
+2025-07-26 04:58:56,869 - INFO - Validated KHC data: 2525 rows
+2025-07-26 04:58:56,870 - INFO - Processing DXCM (Healthcare)
+2025-07-26 04:58:56,880 - INFO - Loaded existing data for DXCM
+2025-07-26 04:58:56,885 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 04:58:56,887 - INFO - Processing NXPI (Technology)
+2025-07-26 04:58:56,896 - INFO - Loaded existing data for NXPI
+2025-07-26 04:58:56,901 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 04:58:56,903 - INFO - Processing MCHP (Technology)
+2025-07-26 04:58:56,912 - INFO - Loaded existing data for MCHP
+2025-07-26 04:58:56,918 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 04:58:56,918 - INFO - Processing WDAY (Technology)
+2025-07-26 04:58:56,928 - INFO - Loaded existing data for WDAY
+2025-07-26 04:58:56,935 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 04:58:56,936 - INFO - Processing PCAR (Industrials)
+2025-07-26 04:58:56,947 - INFO - Loaded existing data for PCAR
+2025-07-26 04:58:56,965 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 04:58:56,967 - INFO - Processing ROST (Consumer Discretionary)
+2025-07-26 04:58:56,979 - INFO - Loaded existing data for ROST
+2025-07-26 04:58:56,984 - INFO - Validated ROST data: 2651 rows
+2025-07-26 04:58:56,985 - INFO - Processing CPRT (Industrials)
+2025-07-26 04:58:56,995 - INFO - Loaded existing data for CPRT
+2025-07-26 04:58:57,000 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 04:58:57,002 - INFO - Processing SIRI (Communication Services)
+2025-07-26 04:58:57,027 - INFO - Loaded existing data for SIRI
+2025-07-26 04:58:57,034 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 04:58:57,036 - INFO - Processing EXC (Utilities)
+2025-07-26 04:58:57,049 - INFO - Loaded existing data for EXC
+2025-07-26 04:58:57,057 - INFO - Validated EXC data: 2651 rows
+2025-07-26 04:58:57,059 - INFO - Processing AEP (Utilities)
+2025-07-26 04:58:57,070 - INFO - Loaded existing data for AEP
+2025-07-26 04:58:57,078 - INFO - Validated AEP data: 2651 rows
+2025-07-26 04:58:57,080 - INFO - Processing VRSK (Technology)
+2025-07-26 04:58:57,090 - INFO - Loaded existing data for VRSK
+2025-07-26 04:58:57,097 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 04:58:57,098 - INFO - Processing FAST (Industrials)
+2025-07-26 04:58:57,107 - INFO - Loaded existing data for FAST
+2025-07-26 04:58:57,113 - INFO - Validated FAST data: 2651 rows
+2025-07-26 04:58:57,114 - INFO - Processing DDOG (Technology)
+2025-07-26 04:58:57,120 - INFO - Loaded existing data for DDOG
+2025-07-26 04:58:57,125 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 04:58:57,126 - INFO - Processing ANSS (Technology)
+2025-07-26 04:58:57,136 - INFO - Loaded existing data for ANSS
+2025-07-26 04:58:57,142 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 04:58:57,143 - INFO - Processing DLTR (Consumer Discretionary)
+2025-07-26 04:58:57,152 - INFO - Loaded existing data for DLTR
+2025-07-26 04:58:57,158 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 04:58:57,159 - INFO - Processing CTSH (Technology)
+2025-07-26 04:58:57,167 - INFO - Loaded existing data for CTSH
+2025-07-26 04:58:57,173 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 04:58:57,174 - INFO - Processing WBD (Communication Services)
+2025-07-26 04:58:57,183 - INFO - Loaded existing data for WBD
+2025-07-26 04:58:57,188 - WARNING - WBD data quality issues:
+2025-07-26 04:58:57,189 - WARNING - - 24 potential outliers in Open prices
+2025-07-26 04:58:57,189 - WARNING - - 25 potential outliers in High prices
+2025-07-26 04:58:57,190 - WARNING - - 24 potential outliers in Low prices
+2025-07-26 04:58:57,192 - WARNING - - 24 potential outliers in Close prices
+2025-07-26 04:58:57,194 - INFO - Processing FANG (Energy)
+2025-07-26 04:58:57,202 - INFO - Loaded existing data for FANG
+2025-07-26 04:58:57,207 - INFO - Validated FANG data: 2651 rows
+2025-07-26 04:58:57,208 - INFO - Processing XEL (Utilities)
+2025-07-26 04:58:57,218 - INFO - Loaded existing data for XEL
+2025-07-26 04:58:57,224 - INFO - Validated XEL data: 2651 rows
+2025-07-26 04:58:57,226 - INFO - Processing TEAM (Technology)
+2025-07-26 04:58:57,235 - INFO - Loaded existing data for TEAM
+2025-07-26 04:58:57,242 - WARNING - TEAM data quality issues:
+2025-07-26 04:58:57,244 - WARNING - - 15 potential outliers in Open prices
+2025-07-26 04:58:57,245 - WARNING - - 12 potential outliers in High prices
+2025-07-26 04:58:57,246 - WARNING - - 16 potential outliers in Low prices
+2025-07-26 04:58:57,247 - WARNING - - 13 potential outliers in Close prices
+2025-07-26 04:58:57,248 - INFO - Processing ILMN (Healthcare)
+2025-07-26 04:58:57,257 - INFO - Loaded existing data for ILMN
+2025-07-26 04:58:57,264 - WARNING - ILMN data quality issues:
+2025-07-26 04:58:57,265 - WARNING - - 1 potential outliers in High prices
+2025-07-26 04:58:57,266 - INFO - Processing EA (Technology)
+2025-07-26 04:58:57,274 - INFO - Loaded existing data for EA
+2025-07-26 04:58:57,279 - INFO - Validated EA data: 2651 rows
+2025-07-26 04:58:57,280 - INFO - Processing BKR (Energy)
+2025-07-26 04:58:57,288 - INFO - Loaded existing data for BKR
+2025-07-26 04:58:57,294 - WARNING - BKR data quality issues:
+2025-07-26 04:58:57,296 - WARNING - - 1 potential outliers in Open prices
+2025-07-26 04:58:57,298 - INFO - Processing ALGN (Healthcare)
+2025-07-26 04:58:57,307 - INFO - Loaded existing data for ALGN
+2025-07-26 04:58:57,313 - WARNING - ALGN data quality issues:
+2025-07-26 04:58:57,314 - WARNING - - 1 potential outliers in Open prices
+2025-07-26 04:58:57,314 - WARNING - - 4 potential outliers in Low prices
+2025-07-26 04:58:57,315 - INFO - Processing EBAY (Consumer Discretionary)
+2025-07-26 04:58:57,325 - INFO - Loaded existing data for EBAY
+2025-07-26 04:58:57,332 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 04:58:57,333 - INFO - Processing ZS (Technology)
+2025-07-26 04:58:57,341 - INFO - Loaded existing data for ZS
+2025-07-26 04:58:57,346 - INFO - Validated ZS data: 1845 rows
+2025-07-26 04:58:57,347 - INFO - Processing CRWD (Technology)
+2025-07-26 04:58:57,353 - INFO - Loaded existing data for CRWD
+2025-07-26 04:58:57,359 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 04:58:57,361 - INFO - Processing PYPL (Technology)
+2025-07-26 04:58:57,369 - INFO - Loaded existing data for PYPL
+2025-07-26 04:58:57,375 - WARNING - PYPL data quality issues:
+2025-07-26 04:58:57,376 - WARNING - - 17 potential outliers in Open prices
+2025-07-26 04:58:57,377 - WARNING - - 18 potential outliers in High prices
+2025-07-26 04:58:57,378 - WARNING - - 25 potential outliers in Low prices
+2025-07-26 04:58:57,379 - WARNING - - 22 potential outliers in Close prices
+2025-07-26 04:58:57,381 - INFO - Processing CSX (Industrials)
+2025-07-26 04:58:57,390 - INFO - Loaded existing data for CSX
+2025-07-26 04:58:57,396 - INFO - Validated CSX data: 2651 rows
+2025-07-26 04:58:57,399 - INFO - Processing ATVI (Technology)
+2025-07-26 04:58:57,404 - INFO - Downloading data for ATVI (Technology)
+2025-07-26 04:59:05,746 - ERROR - $ATVI: possibly delisted; no timezone found
+2025-07-26 04:59:05,748 - ERROR - No data downloaded for ATVI
+2025-07-26 04:59:05,752 - WARNING - Failed to download 1 tickers: ATVI
+2025-07-26 04:59:05,753 - ERROR - Error processing ATVI: list indices must be integers or slices, not str
+2025-07-26 04:59:05,754 - INFO - Processing ZM (Technology)
+2025-07-26 04:59:05,765 - INFO - Loaded existing data for ZM
+2025-07-26 04:59:05,771 - WARNING - ZM data quality issues:
+2025-07-26 04:59:05,774 - WARNING - - 12 potential outliers in Open prices
+2025-07-26 04:59:05,775 - WARNING - - 15 potential outliers in High prices
+2025-07-26 04:59:05,776 - WARNING - - 12 potential outliers in Low prices
+2025-07-26 04:59:05,777 - WARNING - - 12 potential outliers in Close prices
+2025-07-26 04:59:05,777 - INFO - Processing MTCH (Technology)
+2025-07-26 04:59:05,790 - INFO - Loaded existing data for MTCH
+2025-07-26 04:59:05,798 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 04:59:05,799 - INFO - Processing ENPH (Technology)
+2025-07-26 04:59:05,810 - INFO - Loaded existing data for ENPH
+2025-07-26 04:59:05,817 - WARNING - ENPH data quality issues:
+2025-07-26 04:59:05,818 - WARNING - - 3 potential outliers in Open prices
+2025-07-26 04:59:05,819 - WARNING - - 3 potential outliers in High prices
+2025-07-26 04:59:05,821 - WARNING - - 3 potential outliers in Low prices
+2025-07-26 04:59:05,823 - WARNING - - 3 potential outliers in Close prices
+2025-07-26 04:59:05,824 - INFO - Processing MRNA (Healthcare)
+2025-07-26 04:59:05,832 - INFO - Loaded existing data for MRNA
+2025-07-26 04:59:05,842 - WARNING - MRNA data quality issues:
+2025-07-26 04:59:05,844 - WARNING - - 41 potential outliers in Open prices
+2025-07-26 04:59:05,845 - WARNING - - 41 potential outliers in High prices
+2025-07-26 04:59:05,846 - WARNING - - 40 potential outliers in Low prices
+2025-07-26 04:59:05,847 - WARNING - - 42 potential outliers in Close prices
+2025-07-26 04:59:05,849 - INFO - Processing OKTA (Technology)
+2025-07-26 04:59:05,859 - INFO - Loaded existing data for OKTA
+2025-07-26 04:59:05,866 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 04:59:05,868 - INFO - Processing DASH (Technology)
+2025-07-26 04:59:05,876 - INFO - Loaded existing data for DASH
+2025-07-26 04:59:05,882 - INFO - Validated DASH data: 1156 rows
+2025-07-26 04:59:05,883 - INFO - Processing ROKU (Technology)
+2025-07-26 04:59:05,895 - INFO - Loaded existing data for ROKU
+2025-07-26 04:59:05,901 - WARNING - ROKU data quality issues:
+2025-07-26 04:59:05,903 - WARNING - - 34 potential outliers in Open prices
+2025-07-26 04:59:05,905 - WARNING - - 29 potential outliers in High prices
+2025-07-26 04:59:05,906 - WARNING - - 35 potential outliers in Low prices
+2025-07-26 04:59:05,908 - WARNING - - 31 potential outliers in Close prices
+2025-07-26 04:59:05,909 - INFO - Processing TTD (Technology)
+2025-07-26 04:59:05,922 - INFO - Loaded existing data for TTD
+2025-07-26 04:59:05,928 - INFO - Validated TTD data: 2218 rows
+2025-07-26 04:59:05,930 - INFO - Processing CVNA (Consumer Discretionary)
+2025-07-26 04:59:05,937 - INFO - Loaded existing data for CVNA
+2025-07-26 04:59:05,942 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 04:59:05,943 - INFO - Processing RBLX (Technology)
+2025-07-26 04:59:05,948 - INFO - Loaded existing data for RBLX
+2025-07-26 04:59:05,953 - WARNING - RBLX data quality issues:
+2025-07-26 04:59:05,955 - WARNING - - 9 potential outliers in Open prices
+2025-07-26 04:59:05,956 - WARNING - - 12 potential outliers in High prices
+2025-07-26 04:59:05,957 - WARNING - - 8 potential outliers in Low prices
+2025-07-26 04:59:05,958 - WARNING - - 10 potential outliers in Close prices
+2025-07-26 04:59:05,959 - INFO - Processing DOCU (Technology)
+2025-07-26 04:59:05,967 - INFO - Loaded existing data for DOCU
+2025-07-26 04:59:05,974 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 04:59:05,976 - INFO - Processing SNAP (Technology )
+2025-07-26 04:59:05,985 - INFO - Loaded existing data for SNAP
+2025-07-26 04:59:05,993 - WARNING - SNAP data quality issues:
+2025-07-26 04:59:05,994 - WARNING - - 56 potential outliers in Open prices
+2025-07-26 04:59:05,995 - WARNING - - 54 potential outliers in High prices
+2025-07-26 04:59:05,996 - WARNING - - 57 potential outliers in Low prices
+2025-07-26 04:59:05,997 - WARNING - - 55 potential outliers in Close prices

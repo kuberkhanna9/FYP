@@ -1,0 +1,339 @@
+NASDAQ-100 Feature Selection Data Quality Report
+==================================================
+
+Dataset Overview:
+- Total records: 266,029
+- Date range: 2015-01-02 to 2025-07-25
+- Stocks: 108
+- Sectors: 11
+
+Data Quality Metrics:
+- Average days per stock: 2463.2
+- Minimum days per stock: 929
+- Average missing values: 0.60%
+
+Stocks with Quality Issues:
+
+AAPL:
+- Missing values: max 0.8%
+
+ABNB:
+- Missing values: max 1.7%
+
+ADBE:
+- Missing values: max 0.8%
+
+ADI:
+- Missing values: max 0.8%
+
+ADP:
+- Missing values: max 0.8%
+
+ADSK:
+- Missing values: max 0.8%
+
+AEP:
+- Missing values: max 0.8%
+
+ALGN:
+- Missing values: max 7.5%
+
+AMAT:
+- Missing values: max 0.8%
+
+AMD:
+- Missing values: max 0.8%
+
+AMGN:
+- Missing values: max 0.8%
+
+AMZN:
+- Missing values: max 0.8%
+
+ANSS:
+- Missing values: max 0.8%
+
+APD:
+- Missing values: max 0.8%
+
+ASML:
+- Missing values: max 0.8%
+
+AVGO:
+- Missing values: max 14.1%
+
+BIIB:
+- Missing values: max 1.7%
+
+BKNG:
+- Missing values: max 10.6%
+
+BKR:
+- Missing values: max 0.8%
+
+CDNS:
+- Missing values: max 0.8%
+
+CHTR:
+- Missing values: max 33.6%
+
+CMCSA:
+- Missing values: max 33.6%
+
+COIN:
+- Missing values: max 1.9%
+
+COST:
+- Missing values: max 0.8%
+
+CPRT:
+- Missing values: max 0.8%
+
+CRWD:
+- Missing values: max 1.3%
+
+CSCO:
+- Missing values: max 0.8%
+
+CSGP:
+- Missing values: max 8.0%
+
+CSX:
+- Missing values: max 0.8%
+
+CTAS:
+- Missing values: max 0.8%
+
+CTSH:
+- Missing values: max 0.8%
+
+CVNA:
+- Missing values: max 1.0%
+
+DASH:
+- Missing values: max 1.7%
+
+DDOG:
+- Missing values: max 1.4%
+
+DLTR:
+- Missing values: max 0.8%
+
+DOCU:
+- Missing values: max 11.5%
+
+DXCM:
+- Missing values: max 0.8%
+
+EA:
+- Missing values: max 0.8%
+
+EBAY:
+- Missing values: max 0.8%
+
+ENPH:
+- Missing values: max 0.8%
+
+EQIX:
+- Missing values: max 8.0%
+
+EXC:
+- Missing values: max 0.8%
+
+FANG:
+- Missing values: max 0.8%
+
+FAST:
+- Missing values: max 0.8%
+
+FCX:
+- Missing values: max 0.8%
+
+FTNT:
+- Missing values: max 0.8%
+
+GFS:
+- Missing values: max 2.1%
+
+GILD:
+- Missing values: max 3.2%
+
+GOOGL:
+- Missing values: max 0.8%
+
+GOOG:
+- Missing values: max 0.8%
+
+HON:
+- Missing values: max 0.8%
+
+IDXX:
+- Missing values: max 0.8%
+
+ILMN:
+- Missing values: max 0.8%
+
+INTC:
+- Missing values: max 0.8%
+
+INTU:
+- Missing values: max 0.8%
+
+ISRG:
+- Missing values: max 0.8%
+
+KDP:
+- Missing values: max 0.8%
+
+KHC:
+- Missing values: max 0.8%
+
+KLAC:
+- Missing values: max 1.0%
+
+LCID:
+- Missing values: max 1.6%
+
+LIN:
+- Missing values: max 0.8%
+
+LRCX:
+- Missing values: max 0.8%
+
+MAR:
+- Missing values: max 2.2%
+
+MCHP:
+- Missing values: max 0.8%
+
+MDLZ:
+- Missing values: max 0.8%
+
+MELI:
+- Missing values: max 0.8%
+
+META:
+- Missing values: max 6.5%
+
+MNST:
+- Missing values: max 0.8%
+
+MRNA:
+- Missing values: max 3.2%
+
+MRVL:
+- Missing values: max 0.8%
+
+MSFT:
+- Missing values: max 0.8%
+
+MTCH:
+- Missing values: max 2.4%
+
+MU:
+- Missing values: max 0.8%
+
+NFLX:
+- Missing values: max 33.6%
+
+NVDA:
+- Missing values: max 14.1%
+
+NXPI:
+- Missing values: max 0.8%
+
+ODFL:
+- Missing values: max 0.8%
+
+OKTA:
+- Missing values: max 3.3%
+
+ON:
+- Missing values: max 0.8%
+
+ORLY:
+- Missing values: max 0.8%
+
+PANW:
+- Missing values: max 2.0%
+
+PAYX:
+- Missing values: max 0.8%
+
+PCAR:
+- Missing values: max 4.3%
+
+PEP:
+- Missing values: max 0.8%
+
+PLD:
+- Missing values: max 8.0%
+
+PYPL:
+- Missing values: max 14.0%
+
+QCOM:
+- Missing values: max 0.8%
+
+RBLX:
+- Missing values: max 1.8%
+
+REGN:
+- Missing values: max 1.1%
+
+RIVN:
+- Missing values: max 2.2%
+
+ROKU:
+- Missing values: max 12.7%
+
+ROST:
+- Missing values: max 0.8%
+
+SBUX:
+- Missing values: max 0.8%
+
+SIRI:
+- Missing values: max 33.6%
+
+SNAP:
+- Missing values: max 14.9%
+
+SNPS:
+- Missing values: max 0.8%
+
+TEAM:
+- Missing values: max 0.8%
+
+TMUS:
+- Missing values: max 33.6%
+
+TSLA:
+- Missing values: max 0.8%
+
+TTD:
+- Missing values: max 0.9%
+
+TXN:
+- Missing values: max 0.8%
+
+VRSK:
+- Missing values: max 0.8%
+
+VRTX:
+- Missing values: max 0.8%
+
+WBD:
+- Missing values: max 33.6%
+
+WDAY:
+- Missing values: max 0.8%
+
+XEL:
+- Missing values: max 0.8%
+
+ZM:
+- Missing values: max 6.4%
+
+ZS:
+- Missing values: max 1.1%

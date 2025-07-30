@@ -1,0 +1,67 @@
+
+Initial Data Validation Summary
+==================================================
+
+Stock Data:
+- Passed: 97 stocks
+- Failed: 0 stocks
+
+
+Sector Data:
+- Passed: 11 sectors
+- Failed: 0 sectors
+
+
+Cross-Validation Summary
+==================================================
+
+Total stocks analyzed: 72
+- Passed: 59 stocks
+- Failed: 38 stocks
+
+Correlation Statistics:
+- Mean: 0.549
+- Median: 0.644
+- Std Dev: 0.278
+- Min: -0.036
+- Max: 0.876
+
+Failed Cross-Validations:
+- ABNB: sector_not_found
+- AMZN: sector_not_found
+- BKNG: sector_not_found
+- CHTR: sector_not_found
+- CMCSA: sector_not_found
+- COST: sector_not_found
+- CRWD: low_correlation
+- CVNA: sector_not_found
+- DASH: low_correlation
+- DDOG: low_correlation
+- DLTR: sector_not_found
+- DOCU: low_correlation
+- EBAY: sector_not_found
+- KDP: sector_not_found
+- KHC: sector_not_found
+- MAR: sector_not_found
+- MDLZ: sector_not_found
+- MELI: sector_not_found
+- MNST: sector_not_found
+- MRNA: low_correlation
+- NFLX: sector_not_found
+- OKTA: low_correlation
+- ORLY: sector_not_found
+- PEP: sector_not_found
+- PYPL: low_correlation
+- RBLX: low_correlation
+- ROKU: low_correlation
+- ROST: sector_not_found
+- SBUX: sector_not_found
+- SIRI: sector_not_found
+- SNAP: sector_not_found
+- TEAM: low_correlation
+- TMUS: sector_not_found
+- TSLA: sector_not_found
+- TTD: low_correlation
+- WBD: sector_not_found
+- ZM: low_correlation
+- ZS: low_correlation

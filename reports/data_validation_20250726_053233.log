@@ -1,0 +1,1678 @@
+2025-07-26 05:32:33,096 - INFO - Data validation configuration initialized
+2025-07-26 05:32:33,262 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:32:33,331 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:32:33,405 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:32:33,461 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:32:33,523 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:32:33,589 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:32:33,643 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:32:33,712 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:32:33,786 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:32:33,855 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:32:33,919 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:32:33,971 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:32:34,028 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:32:34,083 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:32:34,134 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:32:34,192 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:32:34,274 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:32:34,341 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:32:34,399 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:32:34,455 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:32:34,500 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:32:34,567 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:32:34,633 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:32:34,693 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:32:34,765 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:32:34,824 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:32:34,872 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:32:34,921 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:32:34,970 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:32:35,012 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:32:35,062 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:32:35,136 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:32:35,185 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:32:35,230 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:32:35,282 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:32:35,332 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:32:35,384 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:32:35,437 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:32:35,487 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:32:35,543 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:32:35,591 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:32:35,656 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:32:35,714 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:32:35,771 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:32:35,828 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:32:35,887 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:32:35,947 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:32:36,018 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:32:36,086 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:32:36,152 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:32:36,214 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:32:36,270 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:32:36,337 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:32:36,403 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:32:36,455 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:32:36,514 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:32:36,569 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:32:36,633 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:32:36,701 - INFO - Validated META data: 2651 rows
+2025-07-26 05:32:36,758 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:32:36,811 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:32:36,871 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:32:36,943 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:32:37,003 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:32:37,050 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:32:37,107 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:32:37,169 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:32:37,247 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:32:37,305 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:32:37,364 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:32:37,413 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:32:37,463 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:32:37,516 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:32:37,579 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:32:37,652 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:32:37,716 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:32:37,762 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:32:37,803 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:32:37,858 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:32:37,916 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:32:37,973 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:32:38,037 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:32:38,104 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:32:38,158 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:32:38,209 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:32:38,267 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:32:38,317 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:32:38,373 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:32:38,439 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:32:38,499 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:32:38,554 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:32:38,616 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:32:38,673 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:32:38,738 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:32:38,790 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:32:38,838 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:32:38,896 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:32:39,006 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:32:39,129 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:32:39,250 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:32:39,381 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:32:39,512 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:32:39,662 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:32:39,786 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:32:39,965 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:32:40,097 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:32:40,238 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:32:40,472 - INFO - Validated Utilities data: 2653 rows
+
+Initial Data Validation Summary
+==================================================
+
+Stock Data:
+- Passed: 97 stocks
+- Failed: 0 stocks
+
+
+Sector Data:
+- Passed: 11 sectors
+- Failed: 0 sectors
+
+2025-07-26 05:32:40,660 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:32:40,707 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:32:40,768 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:32:40,829 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:32:40,882 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:32:40,936 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:32:40,994 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:32:41,046 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:32:41,103 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:32:41,152 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:32:41,215 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:32:41,288 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:32:41,355 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:32:41,415 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:32:41,474 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:32:41,531 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:32:41,596 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:32:41,663 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:32:41,729 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:32:41,790 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:32:41,851 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:32:41,912 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:32:41,975 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:32:42,030 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:32:42,093 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:32:42,153 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:32:42,215 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:32:42,281 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:32:42,340 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:32:42,388 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:32:42,443 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:32:42,498 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:32:42,552 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:32:42,609 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:32:42,668 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:32:42,723 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:32:42,782 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:32:42,841 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:32:42,891 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:32:42,950 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:32:43,016 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:32:43,074 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:32:43,137 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:32:43,199 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:32:43,264 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:32:43,325 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:32:43,391 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:32:43,449 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:32:43,512 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:32:43,563 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:32:43,609 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:32:43,664 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:32:43,728 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:32:43,789 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:32:43,856 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:32:43,917 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:32:43,987 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:32:44,040 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:32:44,100 - INFO - Validated META data: 2651 rows
+2025-07-26 05:32:44,156 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:32:44,217 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:32:44,277 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:32:44,343 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:32:44,420 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:32:44,472 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:32:44,535 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:32:44,600 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:32:44,676 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:32:44,739 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:32:44,803 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:32:44,858 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:32:44,908 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:32:44,961 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:32:45,029 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:32:45,089 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:32:45,140 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:32:45,193 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:32:45,240 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:32:45,317 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:32:45,377 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:32:45,434 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:32:45,491 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:32:45,552 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:32:45,634 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:32:45,709 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:32:45,760 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:32:45,829 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:32:45,913 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:32:45,966 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:32:46,025 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:32:46,080 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:32:46,152 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:32:46,211 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:32:46,264 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:32:46,325 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:32:46,376 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:32:46,431 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:32:46,527 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:32:46,636 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:32:46,746 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:32:46,860 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:32:46,969 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:32:47,084 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:32:47,207 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:32:47,473 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:32:47,658 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:32:47,770 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:32:47,897 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:32:47,913 - ERROR - Error cross-validating AAPL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,918 - ERROR - Error cross-validating ABNB: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,925 - ERROR - Error cross-validating ADBE: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,931 - ERROR - Error cross-validating ADI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,937 - ERROR - Error cross-validating ADP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,945 - ERROR - Error cross-validating ADSK: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,953 - ERROR - Error cross-validating AEP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,962 - ERROR - Error cross-validating ALGN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,967 - ERROR - Error cross-validating AMAT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,977 - ERROR - Error cross-validating AMD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,984 - ERROR - Error cross-validating AMGN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,992 - ERROR - Error cross-validating AMZN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:47,998 - ERROR - Error cross-validating ANSS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,003 - ERROR - Error cross-validating ASML: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,016 - ERROR - Error cross-validating AVGO: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,025 - ERROR - Error cross-validating BIIB: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,032 - ERROR - Error cross-validating BKNG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,042 - ERROR - Error cross-validating BKR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,049 - ERROR - Error cross-validating CDNS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,058 - ERROR - Error cross-validating CHTR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:32:48,063 - ERROR - Error cross-validating CMCSA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:32:48,069 - ERROR - Error cross-validating COST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,076 - ERROR - Error cross-validating CPRT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,084 - ERROR - Error cross-validating CRWD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,093 - ERROR - Error cross-validating CSCO: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,099 - ERROR - Error cross-validating CSX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,107 - ERROR - Error cross-validating CTAS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,113 - ERROR - Error cross-validating CTSH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,120 - ERROR - Error cross-validating CVNA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,138 - ERROR - Error cross-validating DASH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,145 - ERROR - Error cross-validating DDOG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,151 - ERROR - Error cross-validating DLTR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,159 - ERROR - Error cross-validating DOCU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,164 - ERROR - Error cross-validating DXCM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,170 - ERROR - Error cross-validating EA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,178 - ERROR - Error cross-validating EBAY: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,184 - ERROR - Error cross-validating ENPH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,192 - ERROR - Error cross-validating EXC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,200 - ERROR - Error cross-validating FANG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,207 - ERROR - Error cross-validating FAST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,212 - ERROR - Error cross-validating FTNT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,218 - ERROR - Error cross-validating GILD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,226 - ERROR - Error cross-validating GOOG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,233 - ERROR - Error cross-validating GOOGL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,239 - ERROR - Error cross-validating HON: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,246 - ERROR - Error cross-validating IDXX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,259 - ERROR - Error cross-validating ILMN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,265 - ERROR - Error cross-validating INTC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,271 - ERROR - Error cross-validating INTU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,278 - ERROR - Error cross-validating ISRG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,286 - ERROR - Error cross-validating KDP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,293 - ERROR - Error cross-validating KHC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,300 - ERROR - Error cross-validating KLAC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,308 - ERROR - Error cross-validating LRCX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,317 - ERROR - Error cross-validating MAR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,325 - ERROR - Error cross-validating MCHP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,334 - ERROR - Error cross-validating MDLZ: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,343 - ERROR - Error cross-validating MELI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,351 - ERROR - Error cross-validating META: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,358 - ERROR - Error cross-validating MNST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,366 - ERROR - Error cross-validating MRNA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,372 - ERROR - Error cross-validating MRVL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,380 - ERROR - Error cross-validating MSFT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,387 - ERROR - Error cross-validating MTCH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,394 - ERROR - Error cross-validating MU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,400 - ERROR - Error cross-validating NFLX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:32:48,409 - ERROR - Error cross-validating NVDA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,416 - ERROR - Error cross-validating NXPI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,425 - ERROR - Error cross-validating ODFL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,431 - ERROR - Error cross-validating OKTA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,446 - ERROR - Error cross-validating ORLY: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,456 - ERROR - Error cross-validating PANW: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,464 - ERROR - Error cross-validating PAYX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,471 - ERROR - Error cross-validating PCAR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,478 - ERROR - Error cross-validating PEP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,484 - ERROR - Error cross-validating PYPL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,490 - ERROR - Error cross-validating QCOM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,494 - ERROR - Error cross-validating RBLX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,500 - ERROR - Error cross-validating REGN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,508 - ERROR - Error cross-validating ROKU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,515 - ERROR - Error cross-validating ROST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,522 - ERROR - Error cross-validating SBUX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,528 - ERROR - Error cross-validating SIRI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:32:48,537 - ERROR - Error cross-validating SNPS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,543 - ERROR - Error cross-validating TEAM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,550 - ERROR - Error cross-validating TMUS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:32:48,558 - ERROR - Error cross-validating TSLA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,565 - ERROR - Error cross-validating TTD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,571 - ERROR - Error cross-validating TXN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,578 - ERROR - Error cross-validating VRSK: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,582 - ERROR - Error cross-validating VRTX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,588 - ERROR - Error cross-validating WBD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:32:48,594 - ERROR - Error cross-validating WDAY: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,599 - ERROR - Error cross-validating XEL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,606 - ERROR - Error cross-validating ZM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:32:48,610 - ERROR - Error cross-validating ZS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:28,820 - INFO - Data validation configuration initialized
+2025-07-26 05:35:28,998 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:35:29,069 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:35:29,158 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:35:29,248 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:35:29,326 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:35:29,394 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:35:29,458 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:35:29,520 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:35:29,594 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:35:29,657 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:35:29,733 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:35:29,798 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:35:29,883 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:35:29,943 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:35:29,997 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:35:30,049 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:35:30,109 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:35:30,180 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:35:30,243 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:35:30,307 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:35:30,388 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:35:30,466 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:35:30,542 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:35:30,605 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:35:30,660 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:35:30,705 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:35:30,799 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:35:30,865 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:35:30,919 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:35:30,968 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:35:31,017 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:35:31,071 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:35:31,123 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:35:31,183 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:35:31,249 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:35:31,308 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:35:31,361 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:35:31,424 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:35:31,484 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:35:31,544 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:35:31,603 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:35:31,655 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:35:31,707 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:35:31,776 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:35:31,845 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:35:31,908 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:35:31,994 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:35:32,073 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:35:32,154 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:35:32,238 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:35:32,390 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:35:32,515 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:35:32,617 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:35:32,698 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:35:32,776 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:35:32,855 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:35:32,966 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:35:33,044 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:35:33,137 - INFO - Validated META data: 2651 rows
+2025-07-26 05:35:33,223 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:35:33,286 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:35:33,359 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:35:33,429 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:35:33,530 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:35:33,618 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:35:33,734 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:35:33,814 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:35:33,912 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:35:34,030 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:35:34,111 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:35:34,163 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:35:34,215 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:35:34,274 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:35:34,323 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:35:34,381 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:35:34,439 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:35:34,506 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:35:34,557 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:35:34,612 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:35:34,675 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:35:34,744 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:35:34,805 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:35:34,873 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:35:34,959 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:35:35,022 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:35:35,072 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:35:35,131 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:35:35,200 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:35:35,267 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:35:35,323 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:35:35,373 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:35:35,418 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:35:35,469 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:35:35,554 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:35:35,639 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:35:35,716 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:35:35,781 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:35:35,924 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:35:36,069 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:35:36,220 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:35:36,378 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:35:36,553 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:35:36,885 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:35:37,104 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:35:37,258 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:35:37,371 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:35:37,474 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:35:37,620 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:35:37,760 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:35:37,802 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:35:37,865 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:35:37,910 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:35:37,954 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:35:38,021 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:35:38,068 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:35:38,118 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:35:38,172 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:35:38,235 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:35:38,291 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:35:38,335 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:35:38,385 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:35:38,437 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:35:38,500 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:35:38,559 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:35:38,627 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:35:38,710 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:35:38,797 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:35:38,891 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:35:39,012 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:35:39,123 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:35:39,219 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:35:39,296 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:35:39,390 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:35:39,468 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:35:39,547 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:35:39,617 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:35:39,707 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:35:39,767 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:35:39,839 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:35:39,904 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:35:39,991 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:35:40,047 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:35:40,091 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:35:40,140 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:35:40,194 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:35:40,258 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:35:40,302 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:35:40,360 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:35:40,419 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:35:40,475 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:35:40,541 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:35:40,602 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:35:40,669 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:35:40,724 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:35:40,787 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:35:40,842 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:35:40,895 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:35:40,962 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:35:41,026 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:35:41,092 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:35:41,166 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:35:41,231 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:35:41,305 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:35:41,391 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:35:41,474 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:35:41,585 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:35:41,688 - INFO - Validated META data: 2651 rows
+2025-07-26 05:35:41,775 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:35:41,862 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:35:41,919 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:35:42,007 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:35:42,101 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:35:42,189 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:35:42,305 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:35:42,382 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:35:42,462 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:35:42,534 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:35:42,601 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:35:42,657 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:35:42,734 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:35:42,805 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:35:42,856 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:35:42,902 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:35:42,953 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:35:43,007 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:35:43,052 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:35:43,105 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:35:43,158 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:35:43,221 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:35:43,288 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:35:43,350 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:35:43,428 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:35:43,495 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:35:43,558 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:35:43,617 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:35:43,670 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:35:43,738 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:35:43,798 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:35:43,851 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:35:43,915 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:35:43,971 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:35:44,053 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:35:44,132 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:35:44,206 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:35:44,288 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:35:44,436 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:35:44,602 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:35:44,787 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:35:44,980 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:35:45,187 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:35:45,456 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:35:45,649 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:35:45,797 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:35:45,907 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:35:46,045 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:35:46,178 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:35:46,203 - ERROR - Error cross-validating AAPL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,212 - ERROR - Error cross-validating ABNB: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,223 - ERROR - Error cross-validating ADBE: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,232 - ERROR - Error cross-validating ADI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,242 - ERROR - Error cross-validating ADP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,251 - ERROR - Error cross-validating ADSK: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,259 - ERROR - Error cross-validating AEP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,269 - ERROR - Error cross-validating ALGN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,277 - ERROR - Error cross-validating AMAT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,287 - ERROR - Error cross-validating AMD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,296 - ERROR - Error cross-validating AMGN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,308 - ERROR - Error cross-validating AMZN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,319 - ERROR - Error cross-validating ANSS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,327 - ERROR - Error cross-validating ASML: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,337 - ERROR - Error cross-validating AVGO: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,345 - ERROR - Error cross-validating BIIB: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,353 - ERROR - Error cross-validating BKNG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,363 - ERROR - Error cross-validating BKR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,372 - ERROR - Error cross-validating CDNS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,383 - ERROR - Error cross-validating CHTR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:35:46,390 - ERROR - Error cross-validating CMCSA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:35:46,397 - ERROR - Error cross-validating COST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,407 - ERROR - Error cross-validating CPRT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,417 - ERROR - Error cross-validating CRWD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,425 - ERROR - Error cross-validating CSCO: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,434 - ERROR - Error cross-validating CSX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,442 - ERROR - Error cross-validating CTAS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,450 - ERROR - Error cross-validating CTSH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,459 - ERROR - Error cross-validating CVNA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,467 - ERROR - Error cross-validating DASH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,474 - ERROR - Error cross-validating DDOG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,483 - ERROR - Error cross-validating DLTR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,490 - ERROR - Error cross-validating DOCU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,498 - ERROR - Error cross-validating DXCM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,594 - ERROR - Error cross-validating EA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,605 - ERROR - Error cross-validating EBAY: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,615 - ERROR - Error cross-validating ENPH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,621 - ERROR - Error cross-validating EXC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,632 - ERROR - Error cross-validating FANG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,642 - ERROR - Error cross-validating FAST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,654 - ERROR - Error cross-validating FTNT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,663 - ERROR - Error cross-validating GILD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,674 - ERROR - Error cross-validating GOOG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,685 - ERROR - Error cross-validating GOOGL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,695 - ERROR - Error cross-validating HON: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,704 - ERROR - Error cross-validating IDXX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,716 - ERROR - Error cross-validating ILMN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,731 - ERROR - Error cross-validating INTC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,742 - ERROR - Error cross-validating INTU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,752 - ERROR - Error cross-validating ISRG: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,763 - ERROR - Error cross-validating KDP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,774 - ERROR - Error cross-validating KHC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,785 - ERROR - Error cross-validating KLAC: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,797 - ERROR - Error cross-validating LRCX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,809 - ERROR - Error cross-validating MAR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,820 - ERROR - Error cross-validating MCHP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,831 - ERROR - Error cross-validating MDLZ: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,838 - ERROR - Error cross-validating MELI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,849 - ERROR - Error cross-validating META: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,859 - ERROR - Error cross-validating MNST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,869 - ERROR - Error cross-validating MRNA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,879 - ERROR - Error cross-validating MRVL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,890 - ERROR - Error cross-validating MSFT: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,899 - ERROR - Error cross-validating MTCH: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,906 - ERROR - Error cross-validating MU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,915 - ERROR - Error cross-validating NFLX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:35:46,923 - ERROR - Error cross-validating NVDA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,933 - ERROR - Error cross-validating NXPI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,941 - ERROR - Error cross-validating ODFL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,949 - ERROR - Error cross-validating OKTA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,957 - ERROR - Error cross-validating ORLY: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,967 - ERROR - Error cross-validating PANW: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,977 - ERROR - Error cross-validating PAYX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,986 - ERROR - Error cross-validating PCAR: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:46,998 - ERROR - Error cross-validating PEP: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,007 - ERROR - Error cross-validating PYPL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,019 - ERROR - Error cross-validating QCOM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,029 - ERROR - Error cross-validating RBLX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,040 - ERROR - Error cross-validating REGN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,051 - ERROR - Error cross-validating ROKU: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,061 - ERROR - Error cross-validating ROST: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,071 - ERROR - Error cross-validating SBUX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,083 - ERROR - Error cross-validating SIRI: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:35:47,093 - ERROR - Error cross-validating SNPS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,106 - ERROR - Error cross-validating TEAM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,117 - ERROR - Error cross-validating TMUS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:35:47,126 - ERROR - Error cross-validating TSLA: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,141 - ERROR - Error cross-validating TTD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,156 - ERROR - Error cross-validating TXN: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,167 - ERROR - Error cross-validating VRSK: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,176 - ERROR - Error cross-validating VRTX: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,189 - ERROR - Error cross-validating WBD: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 97
+2025-07-26 05:35:47,201 - ERROR - Error cross-validating WDAY: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,213 - ERROR - Error cross-validating XEL: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,222 - ERROR - Error cross-validating ZM: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:35:47,236 - ERROR - Error cross-validating ZS: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 44
+2025-07-26 05:43:13,273 - INFO - Data validation configuration initialized
+2025-07-26 05:43:44,199 - INFO - Data validation configuration initialized
+2025-07-26 05:43:44,355 - ERROR - Error processing AAPL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,369 - ERROR - Error processing ABNB: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,388 - ERROR - Error processing ADBE: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,404 - ERROR - Error processing ADI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,422 - ERROR - Error processing ADP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,439 - ERROR - Error processing ADSK: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,458 - ERROR - Error processing AEP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,473 - ERROR - Error processing ALGN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,490 - ERROR - Error processing AMAT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,508 - ERROR - Error processing AMD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,527 - ERROR - Error processing AMGN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,541 - ERROR - Error processing AMZN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,561 - ERROR - Error processing ANSS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,583 - ERROR - Error processing ASML: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,601 - ERROR - Error processing AVGO: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,615 - ERROR - Error processing BIIB: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,632 - ERROR - Error processing BKNG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,649 - ERROR - Error processing BKR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,667 - ERROR - Error processing CDNS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,682 - ERROR - Error processing CHTR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,697 - ERROR - Error processing CMCSA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,712 - ERROR - Error processing COST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,727 - ERROR - Error processing CPRT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,741 - ERROR - Error processing CRWD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,757 - ERROR - Error processing CSCO: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,774 - ERROR - Error processing CSX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,791 - ERROR - Error processing CTAS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,806 - ERROR - Error processing CTSH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,821 - ERROR - Error processing CVNA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,834 - ERROR - Error processing DASH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,849 - ERROR - Error processing DDOG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,866 - ERROR - Error processing DLTR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,880 - ERROR - Error processing DOCU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,899 - ERROR - Error processing DXCM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,920 - ERROR - Error processing EA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,937 - ERROR - Error processing EBAY: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,952 - ERROR - Error processing ENPH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,968 - ERROR - Error processing EXC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:44,986 - ERROR - Error processing FANG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,005 - ERROR - Error processing FAST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,109 - ERROR - Error processing FTNT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,130 - ERROR - Error processing GILD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,152 - ERROR - Error processing GOOG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,182 - ERROR - Error processing GOOGL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,205 - ERROR - Error processing HON: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,227 - ERROR - Error processing IDXX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,246 - ERROR - Error processing ILMN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,263 - ERROR - Error processing INTC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,284 - ERROR - Error processing INTU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,299 - ERROR - Error processing ISRG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,313 - ERROR - Error processing KDP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,327 - ERROR - Error processing KHC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,345 - ERROR - Error processing KLAC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,369 - ERROR - Error processing LRCX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,388 - ERROR - Error processing MAR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,402 - ERROR - Error processing MCHP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,422 - ERROR - Error processing MDLZ: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,438 - ERROR - Error processing MELI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,455 - ERROR - Error processing META: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,475 - ERROR - Error processing MNST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,490 - ERROR - Error processing MRNA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,508 - ERROR - Error processing MRVL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,523 - ERROR - Error processing MSFT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,538 - ERROR - Error processing MTCH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,559 - ERROR - Error processing MU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,583 - ERROR - Error processing NFLX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,600 - ERROR - Error processing NVDA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,619 - ERROR - Error processing NXPI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,642 - ERROR - Error processing ODFL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,661 - ERROR - Error processing OKTA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,681 - ERROR - Error processing ORLY: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,701 - ERROR - Error processing PANW: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,719 - ERROR - Error processing PAYX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,732 - ERROR - Error processing PCAR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,746 - ERROR - Error processing PEP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,762 - ERROR - Error processing PYPL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,777 - ERROR - Error processing QCOM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,788 - ERROR - Error processing RBLX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,803 - ERROR - Error processing REGN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,815 - ERROR - Error processing ROKU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,830 - ERROR - Error processing ROST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,845 - ERROR - Error processing SBUX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,865 - ERROR - Error processing SIRI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,883 - ERROR - Error processing SNAP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,902 - ERROR - Error processing SNPS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,920 - ERROR - Error processing TEAM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,935 - ERROR - Error processing TMUS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,952 - ERROR - Error processing TSLA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,969 - ERROR - Error processing TTD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:45,985 - ERROR - Error processing TXN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,003 - ERROR - Error processing VRSK: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,021 - ERROR - Error processing VRTX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,039 - ERROR - Error processing WBD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,057 - ERROR - Error processing WDAY: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,074 - ERROR - Error processing XEL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,086 - ERROR - Error processing ZM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,103 - ERROR - Error processing ZS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:43:46,396 - ERROR - Error processing Communication_Services: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:46,484 - ERROR - Error processing Consumer_Discretionary: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:46,572 - ERROR - Error processing Consumer_Staples: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:46,652 - ERROR - Error processing Energy: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:46,726 - ERROR - Error processing Financials: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:46,816 - ERROR - Error processing Healthcare: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:47,040 - ERROR - Error processing Industrials: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:47,166 - ERROR - Error processing Materials: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:47,253 - ERROR - Error processing Real_Estate: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:47,395 - ERROR - Error processing Technology: Can only use .dt accessor with datetimelike values
+2025-07-26 05:43:47,530 - ERROR - Error processing Utilities: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:38,218 - INFO - Data validation configuration initialized
+2025-07-26 05:46:38,426 - ERROR - Error processing AAPL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,442 - ERROR - Error processing ABNB: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,461 - ERROR - Error processing ADBE: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,483 - ERROR - Error processing ADI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,504 - ERROR - Error processing ADP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,528 - ERROR - Error processing ADSK: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,550 - ERROR - Error processing AEP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,575 - ERROR - Error processing ALGN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,596 - ERROR - Error processing AMAT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,618 - ERROR - Error processing AMD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,644 - ERROR - Error processing AMGN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,662 - ERROR - Error processing AMZN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,685 - ERROR - Error processing ANSS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,704 - ERROR - Error processing ASML: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,730 - ERROR - Error processing AVGO: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,752 - ERROR - Error processing BIIB: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,774 - ERROR - Error processing BKNG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,790 - ERROR - Error processing BKR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,804 - ERROR - Error processing CDNS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,821 - ERROR - Error processing CHTR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,836 - ERROR - Error processing CMCSA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,854 - ERROR - Error processing COST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,870 - ERROR - Error processing CPRT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,883 - ERROR - Error processing CRWD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,898 - ERROR - Error processing CSCO: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,913 - ERROR - Error processing CSX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,930 - ERROR - Error processing CTAS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,945 - ERROR - Error processing CTSH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,961 - ERROR - Error processing CVNA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,973 - ERROR - Error processing DASH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:38,985 - ERROR - Error processing DDOG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,002 - ERROR - Error processing DLTR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,016 - ERROR - Error processing DOCU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,032 - ERROR - Error processing DXCM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,048 - ERROR - Error processing EA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,066 - ERROR - Error processing EBAY: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,081 - ERROR - Error processing ENPH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,098 - ERROR - Error processing EXC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,116 - ERROR - Error processing FANG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,131 - ERROR - Error processing FAST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,149 - ERROR - Error processing FTNT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,167 - ERROR - Error processing GILD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,185 - ERROR - Error processing GOOG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,200 - ERROR - Error processing GOOGL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,215 - ERROR - Error processing HON: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,231 - ERROR - Error processing IDXX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,247 - ERROR - Error processing ILMN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,263 - ERROR - Error processing INTC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,279 - ERROR - Error processing INTU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,294 - ERROR - Error processing ISRG: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,310 - ERROR - Error processing KDP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,325 - ERROR - Error processing KHC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,340 - ERROR - Error processing KLAC: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,356 - ERROR - Error processing LRCX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,373 - ERROR - Error processing MAR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,389 - ERROR - Error processing MCHP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,405 - ERROR - Error processing MDLZ: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,421 - ERROR - Error processing MELI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,445 - ERROR - Error processing META: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,468 - ERROR - Error processing MNST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,486 - ERROR - Error processing MRNA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,511 - ERROR - Error processing MRVL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,534 - ERROR - Error processing MSFT: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,558 - ERROR - Error processing MTCH: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,581 - ERROR - Error processing MU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,604 - ERROR - Error processing NFLX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,626 - ERROR - Error processing NVDA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,648 - ERROR - Error processing NXPI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,675 - ERROR - Error processing ODFL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,691 - ERROR - Error processing OKTA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,711 - ERROR - Error processing ORLY: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,729 - ERROR - Error processing PANW: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,747 - ERROR - Error processing PAYX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,770 - ERROR - Error processing PCAR: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,794 - ERROR - Error processing PEP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,813 - ERROR - Error processing PYPL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,834 - ERROR - Error processing QCOM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,847 - ERROR - Error processing RBLX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,864 - ERROR - Error processing REGN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,881 - ERROR - Error processing ROKU: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,898 - ERROR - Error processing ROST: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,913 - ERROR - Error processing SBUX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,927 - ERROR - Error processing SIRI: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,941 - ERROR - Error processing SNAP: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,955 - ERROR - Error processing SNPS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,969 - ERROR - Error processing TEAM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:39,984 - ERROR - Error processing TMUS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,003 - ERROR - Error processing TSLA: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,020 - ERROR - Error processing TTD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,038 - ERROR - Error processing TXN: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,054 - ERROR - Error processing VRSK: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,072 - ERROR - Error processing VRTX: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,088 - ERROR - Error processing WBD: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,106 - ERROR - Error processing WDAY: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,126 - ERROR - Error processing XEL: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,143 - ERROR - Error processing ZM: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,156 - ERROR - Error processing ZS: Already tz-aware, use tz_convert to convert.
+2025-07-26 05:46:40,462 - ERROR - Error processing Communication_Services: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:40,560 - ERROR - Error processing Consumer_Discretionary: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:40,631 - ERROR - Error processing Consumer_Staples: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:40,710 - ERROR - Error processing Energy: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:40,789 - ERROR - Error processing Financials: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:40,870 - ERROR - Error processing Healthcare: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:40,954 - ERROR - Error processing Industrials: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:41,036 - ERROR - Error processing Materials: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:41,125 - ERROR - Error processing Real_Estate: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:41,273 - ERROR - Error processing Technology: Can only use .dt accessor with datetimelike values
+2025-07-26 05:46:41,409 - ERROR - Error processing Utilities: Can only use .dt accessor with datetimelike values
+2025-07-26 05:51:16,666 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:51:16,676 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:51:16,698 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:51:16,720 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:51:16,742 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:51:16,773 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:51:16,797 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:51:16,818 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:51:16,835 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:51:16,854 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:51:16,881 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:51:16,983 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:51:17,006 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:51:17,031 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:51:17,053 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:51:17,076 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:51:17,099 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:51:17,117 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:51:17,130 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:51:17,150 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:51:17,168 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:51:17,187 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:51:17,201 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:51:17,211 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:51:17,224 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:51:17,242 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:51:17,258 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:51:17,273 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:51:17,286 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:51:17,295 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:51:17,307 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:51:17,328 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:51:17,345 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:51:17,367 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:51:17,389 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:51:17,412 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:51:17,431 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:51:17,449 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:51:17,467 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:51:17,483 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:51:17,504 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:51:17,527 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:51:17,545 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:51:17,563 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:51:17,579 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:51:17,597 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:51:17,615 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:51:17,633 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:51:17,649 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:51:17,665 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:51:17,682 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:51:17,696 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:51:17,711 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:51:17,728 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:51:17,750 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:51:17,767 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:51:17,782 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:51:17,798 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:51:17,814 - INFO - Validated META data: 2651 rows
+2025-07-26 05:51:17,829 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:51:17,843 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:51:17,860 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:51:17,878 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:51:17,894 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:51:17,909 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:51:17,926 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:51:17,942 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:51:17,967 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:51:17,988 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:51:18,005 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:51:18,024 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:51:18,041 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:51:18,059 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:51:18,076 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:51:18,097 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:51:18,118 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:51:18,136 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:51:18,150 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:51:18,167 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:51:18,182 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:51:18,202 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:51:18,218 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:51:18,235 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:51:18,250 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:51:18,267 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:51:18,285 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:51:18,307 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:51:18,331 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:51:18,362 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:51:18,384 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:51:18,409 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:51:18,438 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:51:18,466 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:51:18,492 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:51:18,525 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:51:18,565 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:51:18,594 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:51:18,666 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:51:18,738 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:51:18,816 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:51:18,905 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:51:18,982 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:51:19,067 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:51:19,161 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:51:19,253 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:51:19,322 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:51:19,408 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:51:19,492 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:51:19,540 - ERROR - Error validating AAPL: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,563 - INFO - ABNB: Passed validation (correlation: 0.599)
+2025-07-26 05:51:19,587 - ERROR - Error validating ADBE: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,617 - ERROR - Error validating ADI: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,644 - ERROR - Error validating ADP: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,673 - ERROR - Error validating ADSK: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,700 - ERROR - Error validating AEP: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,724 - ERROR - Error validating ALGN: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,755 - ERROR - Error validating AMAT: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,792 - ERROR - Error validating AMD: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,837 - ERROR - Error validating AMGN: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,869 - ERROR - Error validating AMZN: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:19,912 - ERROR - Error validating ANSS: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,088 - ERROR - Error validating ASML: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,112 - ERROR - Error validating AVGO: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,142 - ERROR - Error validating BIIB: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,168 - ERROR - Error validating BKNG: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,197 - ERROR - Error validating BKR: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,222 - ERROR - Error validating CDNS: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,245 - INFO - CHTR: Passed validation (correlation: 0.522)
+2025-07-26 05:51:20,272 - INFO - CMCSA: Passed validation (correlation: 0.625)
+2025-07-26 05:51:20,296 - ERROR - Error validating COST: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,320 - ERROR - Error validating CPRT: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,340 - INFO - CRWD: Passed validation (correlation: 0.521)
+2025-07-26 05:51:20,374 - ERROR - Error validating CSCO: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,408 - ERROR - Error validating CSX: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,437 - ERROR - Error validating CTAS: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,471 - ERROR - Error validating CTSH: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,505 - INFO - CVNA: Passed validation (correlation: 0.497)
+2025-07-26 05:51:20,529 - INFO - DASH: Passed validation (correlation: 0.520)
+2025-07-26 05:51:20,557 - INFO - DDOG: Passed validation (correlation: 0.535)
+2025-07-26 05:51:20,599 - ERROR - Error validating DLTR: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,629 - INFO - DOCU: Passed validation (correlation: 0.494)
+2025-07-26 05:51:20,663 - ERROR - Error validating DXCM: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,693 - ERROR - Error validating EA: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,718 - ERROR - Error validating EBAY: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,748 - ERROR - Error validating ENPH: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,773 - ERROR - Error validating EXC: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,797 - ERROR - Error validating FANG: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,819 - ERROR - Error validating FAST: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,841 - ERROR - Error validating FTNT: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,869 - ERROR - Error validating GILD: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,898 - ERROR - Error validating GOOG: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,921 - ERROR - Error validating GOOGL: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,947 - ERROR - Error validating HON: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,973 - ERROR - Error validating IDXX: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:20,998 - ERROR - Error validating ILMN: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,024 - ERROR - Error validating INTC: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,051 - ERROR - Error validating INTU: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,203 - ERROR - Error validating ISRG: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,237 - ERROR - Error validating KDP: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,276 - INFO - KHC: Passed validation (correlation: 0.616)
+2025-07-26 05:51:21,303 - ERROR - Error validating KLAC: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,328 - ERROR - Error validating LRCX: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,355 - ERROR - Error validating MAR: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,381 - ERROR - Error validating MCHP: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,407 - ERROR - Error validating MDLZ: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,437 - ERROR - Error validating MELI: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,468 - ERROR - Error validating META: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,498 - ERROR - Error validating MNST: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,518 - WARNING - MRNA: Low correlation with sector (0.225)
+2025-07-26 05:51:21,542 - ERROR - Error validating MRVL: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,571 - ERROR - Error validating MSFT: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,599 - ERROR - Error validating MTCH: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,624 - ERROR - Error validating MU: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,649 - INFO - NFLX: Passed validation (correlation: 0.614)
+2025-07-26 05:51:21,679 - ERROR - Error validating NVDA: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,715 - ERROR - Error validating NXPI: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,743 - ERROR - Error validating ODFL: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,767 - INFO - OKTA: Passed validation (correlation: 0.501)
+2025-07-26 05:51:21,793 - ERROR - Error validating ORLY: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,822 - ERROR - Error validating PANW: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,845 - ERROR - Error validating PAYX: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,873 - ERROR - Error validating PCAR: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:21,908 - ERROR - Error validating PEP: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,017 - INFO - PYPL: Passed validation (correlation: 0.614)
+2025-07-26 05:51:22,070 - ERROR - Error validating QCOM: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,101 - INFO - RBLX: Passed validation (correlation: 0.431)
+2025-07-26 05:51:22,134 - ERROR - Error validating REGN: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,168 - INFO - ROKU: Passed validation (correlation: 0.416)
+2025-07-26 05:51:22,189 - ERROR - Error validating ROST: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,344 - ERROR - Error validating SBUX: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,370 - INFO - SIRI: Passed validation (correlation: 0.381)
+2025-07-26 05:51:22,393 - INFO - SNAP: Passed validation (correlation: 0.376)
+2025-07-26 05:51:22,416 - ERROR - Error validating SNPS: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,439 - INFO - TEAM: Passed validation (correlation: 0.502)
+2025-07-26 05:51:22,460 - INFO - TMUS: Passed validation (correlation: 0.506)
+2025-07-26 05:51:22,489 - ERROR - Error validating TSLA: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,513 - INFO - TTD: Passed validation (correlation: 0.519)
+2025-07-26 05:51:22,541 - ERROR - Error validating TXN: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,577 - ERROR - Error validating VRSK: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,608 - ERROR - Error validating VRTX: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,631 - INFO - WBD: Passed validation (correlation: 0.497)
+2025-07-26 05:51:22,654 - ERROR - Error validating WDAY: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,675 - ERROR - Error validating XEL: 'Index' object has no attribute 'tz'
+2025-07-26 05:51:22,697 - INFO - ZM: Passed validation (correlation: 0.335)
+2025-07-26 05:51:22,718 - INFO - ZS: Passed validation (correlation: 0.508)
+2025-07-26 05:55:18,020 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:55:18,039 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:55:18,065 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:55:18,088 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:55:18,109 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:55:18,136 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:55:18,159 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:55:18,183 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:55:18,207 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:55:18,223 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:55:18,245 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:55:18,267 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:55:18,286 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:55:18,303 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:55:18,321 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:55:18,338 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:55:18,354 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:55:18,370 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:55:18,387 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:55:18,405 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:55:18,427 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:55:18,446 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:55:18,462 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:55:18,478 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:55:18,502 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:55:18,525 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:55:18,545 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:55:18,563 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:55:18,588 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:55:18,601 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:55:18,615 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:55:18,634 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:55:18,649 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:55:18,665 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:55:18,683 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:55:18,700 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:55:18,718 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:55:18,733 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:55:18,748 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:55:18,763 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:55:18,779 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:55:18,799 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:55:18,813 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:55:18,829 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:55:18,845 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:55:18,867 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:55:18,885 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:55:18,901 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:55:18,918 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:55:18,935 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:55:18,952 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:55:18,972 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:55:18,990 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:55:19,008 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:55:19,024 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:55:19,041 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:55:19,059 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:55:19,080 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:55:19,100 - INFO - Validated META data: 2651 rows
+2025-07-26 05:55:19,118 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:55:19,134 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:55:19,152 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:55:19,169 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:55:19,223 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:55:19,243 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:55:19,258 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:55:19,272 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:55:19,288 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:55:19,304 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:55:19,317 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:55:19,333 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:55:19,347 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:55:19,367 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:55:19,384 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:55:19,399 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:55:19,415 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:55:19,433 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:55:19,445 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:55:19,470 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:55:19,489 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:55:19,507 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:55:19,526 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:55:19,547 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:55:19,571 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:55:19,589 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:55:19,608 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:55:19,624 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:55:19,639 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:55:19,655 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:55:19,671 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:55:19,690 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:55:19,707 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:55:19,726 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:55:19,746 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:55:19,771 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:55:19,788 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:55:19,806 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:55:19,900 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:55:19,988 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:55:20,065 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:55:20,143 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:55:20,410 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:55:20,511 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:55:20,595 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:55:20,725 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:55:20,841 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:55:20,923 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:55:21,010 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:55:21,054 - INFO - AAPL: Passed validation (correlation: 0.823)
+2025-07-26 05:55:21,071 - INFO - ABNB: Passed validation (correlation: 0.599)
+2025-07-26 05:55:21,090 - INFO - ADBE: Passed validation (correlation: 0.744)
+2025-07-26 05:55:21,113 - INFO - ADI: Passed validation (correlation: 0.754)
+2025-07-26 05:55:21,134 - INFO - ADP: Passed validation (correlation: 0.644)
+2025-07-26 05:55:21,154 - INFO - ADSK: Passed validation (correlation: 0.698)
+2025-07-26 05:55:21,174 - INFO - AEP: Passed validation (correlation: 0.876)
+2025-07-26 05:55:21,192 - INFO - ALGN: Passed validation (correlation: 0.482)
+2025-07-26 05:55:21,207 - INFO - AMAT: Passed validation (correlation: 0.766)
+2025-07-26 05:55:21,221 - INFO - AMD: Passed validation (correlation: 0.570)
+2025-07-26 05:55:21,242 - INFO - AMGN: Passed validation (correlation: 0.706)
+2025-07-26 05:55:21,258 - INFO - AMZN: Passed validation (correlation: 0.733)
+2025-07-26 05:55:21,282 - INFO - ANSS: Passed validation (correlation: 0.768)
+2025-07-26 05:55:21,307 - INFO - ASML: Passed validation (correlation: 0.748)
+2025-07-26 05:55:21,329 - INFO - AVGO: Passed validation (correlation: 0.659)
+2025-07-26 05:55:21,347 - INFO - BIIB: Passed validation (correlation: 0.469)
+2025-07-26 05:55:21,362 - INFO - BKNG: Passed validation (correlation: 0.590)
+2025-07-26 05:55:21,386 - INFO - BKR: Passed validation (correlation: 0.777)
+2025-07-26 05:55:21,404 - INFO - CDNS: Passed validation (correlation: 0.762)
+2025-07-26 05:55:21,418 - INFO - CHTR: Passed validation (correlation: 0.522)
+2025-07-26 05:55:21,433 - INFO - CMCSA: Passed validation (correlation: 0.625)
+2025-07-26 05:55:21,452 - INFO - COST: Passed validation (correlation: 0.642)
+2025-07-26 05:55:21,469 - INFO - CPRT: Passed validation (correlation: 0.626)
+2025-07-26 05:55:21,485 - INFO - CRWD: Passed validation (correlation: 0.521)
+2025-07-26 05:55:21,506 - INFO - CSCO: Passed validation (correlation: 0.674)
+2025-07-26 05:55:21,529 - INFO - CSX: Passed validation (correlation: 0.734)
+2025-07-26 05:55:21,546 - INFO - CTAS: Passed validation (correlation: 0.711)
+2025-07-26 05:55:21,567 - INFO - CTSH: Passed validation (correlation: 0.625)
+2025-07-26 05:55:21,583 - INFO - CVNA: Passed validation (correlation: 0.497)
+2025-07-26 05:55:21,606 - INFO - DASH: Passed validation (correlation: 0.520)
+2025-07-26 05:55:21,622 - INFO - DDOG: Passed validation (correlation: 0.535)
+2025-07-26 05:55:21,640 - INFO - DLTR: Passed validation (correlation: 0.394)
+2025-07-26 05:55:21,656 - INFO - DOCU: Passed validation (correlation: 0.494)
+2025-07-26 05:55:21,673 - INFO - DXCM: Passed validation (correlation: 0.384)
+2025-07-26 05:55:21,689 - INFO - EA: Passed validation (correlation: 0.451)
+2025-07-26 05:55:21,706 - INFO - EBAY: Passed validation (correlation: 0.507)
+2025-07-26 05:55:21,722 - INFO - ENPH: Passed validation (correlation: 0.336)
+2025-07-26 05:55:21,740 - INFO - EXC: Passed validation (correlation: 0.827)
+2025-07-26 05:55:21,766 - INFO - FANG: Passed validation (correlation: 0.825)
+2025-07-26 05:55:21,804 - INFO - FAST: Passed validation (correlation: 0.659)
+2025-07-26 05:55:21,831 - INFO - FTNT: Passed validation (correlation: 0.578)
+2025-07-26 05:55:21,856 - INFO - GILD: Passed validation (correlation: 0.548)
+2025-07-26 05:55:21,877 - INFO - GOOG: Passed validation (correlation: 0.739)
+2025-07-26 05:55:21,901 - INFO - GOOGL: Passed validation (correlation: 0.741)
+2025-07-26 05:55:21,919 - INFO - HON: Passed validation (correlation: 0.834)
+2025-07-26 05:55:21,938 - INFO - IDXX: Passed validation (correlation: 0.562)
+2025-07-26 05:55:21,954 - INFO - ILMN: Passed validation (correlation: 0.518)
+2025-07-26 05:55:21,971 - INFO - INTC: Passed validation (correlation: 0.644)
+2025-07-26 05:55:21,988 - INFO - INTU: Passed validation (correlation: 0.759)
+2025-07-26 05:55:22,004 - INFO - ISRG: Passed validation (correlation: 0.635)
+2025-07-26 05:55:22,022 - INFO - KDP: Passed validation (correlation: 0.482)
+2025-07-26 05:55:22,041 - INFO - KHC: Passed validation (correlation: 0.616)
+2025-07-26 05:55:22,059 - INFO - KLAC: Passed validation (correlation: 0.763)
+2025-07-26 05:55:22,077 - INFO - LRCX: Passed validation (correlation: 0.766)
+2025-07-26 05:55:22,093 - INFO - MAR: Passed validation (correlation: 0.621)
+2025-07-26 05:55:22,112 - INFO - MCHP: Passed validation (correlation: 0.746)
+2025-07-26 05:55:22,127 - INFO - MDLZ: Passed validation (correlation: 0.775)
+2025-07-26 05:55:22,145 - INFO - MELI: Passed validation (correlation: 0.563)
+2025-07-26 05:55:22,165 - INFO - META: Passed validation (correlation: 0.629)
+2025-07-26 05:55:22,186 - INFO - MNST: Passed validation (correlation: 0.562)
+2025-07-26 05:55:22,203 - WARNING - MRNA: Low correlation with sector (0.225)
+2025-07-26 05:55:22,224 - INFO - MRVL: Passed validation (correlation: 0.674)
+2025-07-26 05:55:22,242 - INFO - MSFT: Passed validation (correlation: 0.864)
+2025-07-26 05:55:22,264 - INFO - MTCH: Passed validation (correlation: 0.452)
+2025-07-26 05:55:22,282 - INFO - MU: Passed validation (correlation: 0.650)
+2025-07-26 05:55:22,304 - INFO - NFLX: Passed validation (correlation: 0.614)
+2025-07-26 05:55:22,319 - INFO - NVDA: Passed validation (correlation: 0.668)
+2025-07-26 05:55:22,335 - INFO - NXPI: Passed validation (correlation: 0.665)
+2025-07-26 05:55:22,350 - INFO - ODFL: Passed validation (correlation: 0.639)
+2025-07-26 05:55:22,366 - INFO - OKTA: Passed validation (correlation: 0.501)
+2025-07-26 05:55:22,385 - INFO - ORLY: Passed validation (correlation: 0.468)
+2025-07-26 05:55:22,403 - INFO - PANW: Passed validation (correlation: 0.514)
+2025-07-26 05:55:22,421 - INFO - PAYX: Passed validation (correlation: 0.642)
+2025-07-26 05:55:22,440 - INFO - PCAR: Passed validation (correlation: 0.731)
+2025-07-26 05:55:22,458 - INFO - PEP: Passed validation (correlation: 0.838)
+2025-07-26 05:55:22,474 - INFO - PYPL: Passed validation (correlation: 0.614)
+2025-07-26 05:55:22,490 - INFO - QCOM: Passed validation (correlation: 0.688)
+2025-07-26 05:55:22,506 - INFO - RBLX: Passed validation (correlation: 0.431)
+2025-07-26 05:55:22,524 - INFO - REGN: Passed validation (correlation: 0.551)
+2025-07-26 05:55:22,542 - INFO - ROKU: Passed validation (correlation: 0.416)
+2025-07-26 05:55:22,564 - INFO - ROST: Passed validation (correlation: 0.609)
+2025-07-26 05:55:22,579 - INFO - SBUX: Passed validation (correlation: 0.635)
+2025-07-26 05:55:22,595 - INFO - SIRI: Passed validation (correlation: 0.381)
+2025-07-26 05:55:22,616 - INFO - SNAP: Passed validation (correlation: 0.376)
+2025-07-26 05:55:22,631 - INFO - SNPS: Passed validation (correlation: 0.787)
+2025-07-26 05:55:22,649 - INFO - TEAM: Passed validation (correlation: 0.502)
+2025-07-26 05:55:22,665 - INFO - TMUS: Passed validation (correlation: 0.506)
+2025-07-26 05:55:22,681 - INFO - TSLA: Passed validation (correlation: 0.615)
+2025-07-26 05:55:22,701 - INFO - TTD: Passed validation (correlation: 0.519)
+2025-07-26 05:55:22,723 - INFO - TXN: Passed validation (correlation: 0.766)
+2025-07-26 05:55:22,740 - INFO - VRSK: Passed validation (correlation: 0.562)
+2025-07-26 05:55:22,758 - INFO - VRTX: Passed validation (correlation: 0.591)
+2025-07-26 05:55:22,775 - INFO - WBD: Passed validation (correlation: 0.497)
+2025-07-26 05:55:22,793 - INFO - WDAY: Passed validation (correlation: 0.615)
+2025-07-26 05:55:22,812 - INFO - XEL: Passed validation (correlation: 0.870)
+2025-07-26 05:55:22,827 - INFO - ZM: Passed validation (correlation: 0.335)
+2025-07-26 05:55:22,844 - INFO - ZS: Passed validation (correlation: 0.508)
+2025-07-26 05:56:46,115 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:56:46,125 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:56:46,142 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:56:46,161 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:56:46,180 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:56:46,222 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:56:46,243 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:56:46,261 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:56:46,277 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:56:46,292 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:56:46,310 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:56:46,327 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:56:46,347 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:56:46,362 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:56:46,377 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:56:46,392 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:56:46,408 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:56:46,423 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:56:46,450 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:56:46,513 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:56:46,537 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:56:46,561 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:56:46,582 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:56:46,597 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:56:46,614 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:56:46,630 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:56:46,645 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:56:46,670 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:56:46,685 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:56:46,693 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:56:46,703 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:56:46,720 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:56:46,734 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:56:46,750 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:56:46,769 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:56:46,790 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:56:46,808 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:56:46,826 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:56:46,850 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:56:46,869 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:56:46,887 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:56:46,906 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:56:46,922 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:56:46,937 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:56:46,957 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:56:46,979 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:56:46,999 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:56:47,017 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:56:47,033 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:56:47,048 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:56:47,065 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:56:47,083 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:56:47,103 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:56:47,119 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:56:47,134 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:56:47,149 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:56:47,166 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:56:47,183 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:56:47,198 - INFO - Validated META data: 2651 rows
+2025-07-26 05:56:47,213 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:56:47,228 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:56:47,242 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:56:47,257 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:56:47,273 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:56:47,289 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:56:47,303 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:56:47,320 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:56:47,335 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:56:47,351 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:56:47,364 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:56:47,381 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:56:47,399 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:56:47,414 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:56:47,428 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:56:47,442 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:56:47,457 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:56:47,474 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:56:47,486 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:56:47,502 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:56:47,515 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:56:47,531 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:56:47,547 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:56:47,562 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:56:47,576 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:56:47,592 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:56:47,606 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:56:47,625 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:56:47,640 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:56:47,658 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:56:47,673 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:56:47,688 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:56:47,706 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:56:47,724 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:56:47,738 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:56:47,755 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:56:47,766 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:56:47,780 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:56:47,857 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:56:47,936 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:56:48,021 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:56:48,100 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:56:48,186 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:56:48,275 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:56:48,356 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:56:48,440 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:56:48,540 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:56:48,630 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:56:48,713 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:56:48,737 - INFO - AAPL: Passed validation (correlation: 0.823)
+2025-07-26 05:56:48,757 - INFO - ABNB: Passed validation (correlation: 0.599)
+2025-07-26 05:56:48,778 - INFO - ADBE: Passed validation (correlation: 0.744)
+2025-07-26 05:56:48,796 - INFO - ADI: Passed validation (correlation: 0.754)
+2025-07-26 05:56:48,814 - INFO - ADP: Passed validation (correlation: 0.644)
+2025-07-26 05:56:48,833 - INFO - ADSK: Passed validation (correlation: 0.698)
+2025-07-26 05:56:48,851 - INFO - AEP: Passed validation (correlation: 0.876)
+2025-07-26 05:56:48,870 - INFO - ALGN: Passed validation (correlation: 0.482)
+2025-07-26 05:56:48,885 - INFO - AMAT: Passed validation (correlation: 0.766)
+2025-07-26 05:56:48,900 - INFO - AMD: Passed validation (correlation: 0.570)
+2025-07-26 05:56:48,916 - INFO - AMGN: Passed validation (correlation: 0.706)
+2025-07-26 05:56:48,932 - INFO - AMZN: Passed validation (correlation: 0.733)
+2025-07-26 05:56:48,952 - INFO - ANSS: Passed validation (correlation: 0.768)
+2025-07-26 05:56:48,972 - INFO - ASML: Passed validation (correlation: 0.748)
+2025-07-26 05:56:48,993 - INFO - AVGO: Passed validation (correlation: 0.659)
+2025-07-26 05:56:49,012 - INFO - BIIB: Passed validation (correlation: 0.469)
+2025-07-26 05:56:49,029 - INFO - BKNG: Passed validation (correlation: 0.590)
+2025-07-26 05:56:49,067 - INFO - BKR: Passed validation (correlation: 0.777)
+2025-07-26 05:56:49,090 - INFO - CDNS: Passed validation (correlation: 0.762)
+2025-07-26 05:56:49,112 - INFO - CHTR: Passed validation (correlation: 0.522)
+2025-07-26 05:56:49,127 - INFO - CMCSA: Passed validation (correlation: 0.625)
+2025-07-26 05:56:49,143 - INFO - COST: Passed validation (correlation: 0.642)
+2025-07-26 05:56:49,158 - INFO - CPRT: Passed validation (correlation: 0.626)
+2025-07-26 05:56:49,178 - INFO - CRWD: Passed validation (correlation: 0.521)
+2025-07-26 05:56:49,197 - INFO - CSCO: Passed validation (correlation: 0.674)
+2025-07-26 05:56:49,213 - INFO - CSX: Passed validation (correlation: 0.734)
+2025-07-26 05:56:49,235 - INFO - CTAS: Passed validation (correlation: 0.711)
+2025-07-26 05:56:49,256 - INFO - CTSH: Passed validation (correlation: 0.625)
+2025-07-26 05:56:49,276 - INFO - CVNA: Passed validation (correlation: 0.497)
+2025-07-26 05:56:49,300 - INFO - DASH: Passed validation (correlation: 0.520)
+2025-07-26 05:56:49,319 - INFO - DDOG: Passed validation (correlation: 0.535)
+2025-07-26 05:56:49,341 - INFO - DLTR: Passed validation (correlation: 0.394)
+2025-07-26 05:56:49,367 - INFO - DOCU: Passed validation (correlation: 0.494)
+2025-07-26 05:56:49,389 - INFO - DXCM: Passed validation (correlation: 0.384)
+2025-07-26 05:56:49,413 - INFO - EA: Passed validation (correlation: 0.451)
+2025-07-26 05:56:49,431 - INFO - EBAY: Passed validation (correlation: 0.507)
+2025-07-26 05:56:49,447 - INFO - ENPH: Passed validation (correlation: 0.336)
+2025-07-26 05:56:49,463 - INFO - EXC: Passed validation (correlation: 0.827)
+2025-07-26 05:56:49,481 - INFO - FANG: Passed validation (correlation: 0.825)
+2025-07-26 05:56:49,495 - INFO - FAST: Passed validation (correlation: 0.659)
+2025-07-26 05:56:49,510 - INFO - FTNT: Passed validation (correlation: 0.578)
+2025-07-26 05:56:49,528 - INFO - GILD: Passed validation (correlation: 0.548)
+2025-07-26 05:56:49,546 - INFO - GOOG: Passed validation (correlation: 0.739)
+2025-07-26 05:56:49,562 - INFO - GOOGL: Passed validation (correlation: 0.741)
+2025-07-26 05:56:49,586 - INFO - HON: Passed validation (correlation: 0.834)
+2025-07-26 05:56:49,610 - INFO - IDXX: Passed validation (correlation: 0.562)
+2025-07-26 05:56:49,631 - INFO - ILMN: Passed validation (correlation: 0.518)
+2025-07-26 05:56:49,651 - INFO - INTC: Passed validation (correlation: 0.644)
+2025-07-26 05:56:49,670 - INFO - INTU: Passed validation (correlation: 0.759)
+2025-07-26 05:56:49,687 - INFO - ISRG: Passed validation (correlation: 0.635)
+2025-07-26 05:56:49,714 - INFO - KDP: Passed validation (correlation: 0.482)
+2025-07-26 05:56:49,738 - INFO - KHC: Passed validation (correlation: 0.616)
+2025-07-26 05:56:49,759 - INFO - KLAC: Passed validation (correlation: 0.763)
+2025-07-26 05:56:49,775 - INFO - LRCX: Passed validation (correlation: 0.766)
+2025-07-26 05:56:49,795 - INFO - MAR: Passed validation (correlation: 0.621)
+2025-07-26 05:56:49,819 - INFO - MCHP: Passed validation (correlation: 0.746)
+2025-07-26 05:56:49,840 - INFO - MDLZ: Passed validation (correlation: 0.775)
+2025-07-26 05:56:49,858 - INFO - MELI: Passed validation (correlation: 0.563)
+2025-07-26 05:56:49,873 - INFO - META: Passed validation (correlation: 0.629)
+2025-07-26 05:56:49,918 - INFO - MNST: Passed validation (correlation: 0.562)
+2025-07-26 05:56:49,956 - INFO - MRNA: Passed validation (correlation: 0.225)
+2025-07-26 05:56:49,993 - INFO - MRVL: Passed validation (correlation: 0.674)
+2025-07-26 05:56:50,040 - INFO - MSFT: Passed validation (correlation: 0.864)
+2025-07-26 05:56:50,064 - INFO - MTCH: Passed validation (correlation: 0.452)
+2025-07-26 05:56:50,083 - INFO - MU: Passed validation (correlation: 0.650)
+2025-07-26 05:56:50,096 - INFO - NFLX: Passed validation (correlation: 0.614)
+2025-07-26 05:56:50,116 - INFO - NVDA: Passed validation (correlation: 0.668)
+2025-07-26 05:56:50,132 - INFO - NXPI: Passed validation (correlation: 0.665)
+2025-07-26 05:56:50,152 - INFO - ODFL: Passed validation (correlation: 0.639)
+2025-07-26 05:56:50,174 - INFO - OKTA: Passed validation (correlation: 0.501)
+2025-07-26 05:56:50,200 - INFO - ORLY: Passed validation (correlation: 0.468)
+2025-07-26 05:56:50,216 - INFO - PANW: Passed validation (correlation: 0.514)
+2025-07-26 05:56:50,231 - INFO - PAYX: Passed validation (correlation: 0.642)
+2025-07-26 05:56:50,249 - INFO - PCAR: Passed validation (correlation: 0.731)
+2025-07-26 05:56:50,265 - INFO - PEP: Passed validation (correlation: 0.838)
+2025-07-26 05:56:50,283 - INFO - PYPL: Passed validation (correlation: 0.614)
+2025-07-26 05:56:50,297 - INFO - QCOM: Passed validation (correlation: 0.688)
+2025-07-26 05:56:50,314 - INFO - RBLX: Passed validation (correlation: 0.431)
+2025-07-26 05:56:50,337 - INFO - REGN: Passed validation (correlation: 0.551)
+2025-07-26 05:56:50,353 - INFO - ROKU: Passed validation (correlation: 0.416)
+2025-07-26 05:56:50,369 - INFO - ROST: Passed validation (correlation: 0.609)
+2025-07-26 05:56:50,383 - INFO - SBUX: Passed validation (correlation: 0.635)
+2025-07-26 05:56:50,398 - INFO - SIRI: Passed validation (correlation: 0.381)
+2025-07-26 05:56:50,411 - INFO - SNAP: Passed validation (correlation: 0.376)
+2025-07-26 05:56:50,428 - INFO - SNPS: Passed validation (correlation: 0.787)
+2025-07-26 05:56:50,446 - INFO - TEAM: Passed validation (correlation: 0.502)
+2025-07-26 05:56:50,467 - INFO - TMUS: Passed validation (correlation: 0.506)
+2025-07-26 05:56:50,487 - INFO - TSLA: Passed validation (correlation: 0.615)
+2025-07-26 05:56:50,509 - INFO - TTD: Passed validation (correlation: 0.519)
+2025-07-26 05:56:50,531 - INFO - TXN: Passed validation (correlation: 0.766)
+2025-07-26 05:56:50,549 - INFO - VRSK: Passed validation (correlation: 0.562)
+2025-07-26 05:56:50,571 - INFO - VRTX: Passed validation (correlation: 0.591)
+2025-07-26 05:56:50,588 - INFO - WBD: Passed validation (correlation: 0.497)
+2025-07-26 05:56:50,609 - INFO - WDAY: Passed validation (correlation: 0.615)
+2025-07-26 05:56:50,628 - INFO - XEL: Passed validation (correlation: 0.870)
+2025-07-26 05:56:50,645 - INFO - ZM: Passed validation (correlation: 0.335)
+2025-07-26 05:56:50,659 - INFO - ZS: Passed validation (correlation: 0.508)
+2025-07-26 06:02:14,945 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 06:02:14,958 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 06:02:14,978 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 06:02:15,002 - INFO - Validated ADI data: 2651 rows
+2025-07-26 06:02:15,024 - INFO - Validated ADP data: 2651 rows
+2025-07-26 06:02:15,044 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 06:02:15,061 - INFO - Validated AEP data: 2651 rows
+2025-07-26 06:02:15,082 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 06:02:15,102 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 06:02:15,122 - INFO - Validated AMD data: 2651 rows
+2025-07-26 06:02:15,141 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 06:02:15,165 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 06:02:15,185 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 06:02:15,205 - INFO - Validated ASML data: 2651 rows
+2025-07-26 06:02:15,227 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 06:02:15,250 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 06:02:15,271 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 06:02:15,297 - INFO - Validated BKR data: 2651 rows
+2025-07-26 06:02:15,318 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 06:02:15,337 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 06:02:15,370 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 06:02:15,395 - INFO - Validated COST data: 2651 rows
+2025-07-26 06:02:15,414 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 06:02:15,429 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 06:02:15,448 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 06:02:15,467 - INFO - Validated CSX data: 2651 rows
+2025-07-26 06:02:15,487 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 06:02:15,510 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 06:02:15,525 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 06:02:15,535 - INFO - Validated DASH data: 1156 rows
+2025-07-26 06:02:15,549 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 06:02:15,567 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 06:02:15,582 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 06:02:15,600 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 06:02:15,676 - INFO - Validated EA data: 2651 rows
+2025-07-26 06:02:15,707 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 06:02:15,727 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 06:02:15,767 - INFO - Validated EXC data: 2651 rows
+2025-07-26 06:02:15,787 - INFO - Validated FANG data: 2651 rows
+2025-07-26 06:02:15,803 - INFO - Validated FAST data: 2651 rows
+2025-07-26 06:02:15,824 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 06:02:15,846 - INFO - Validated GILD data: 2651 rows
+2025-07-26 06:02:15,869 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 06:02:15,885 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 06:02:15,903 - INFO - Validated HON data: 2651 rows
+2025-07-26 06:02:15,921 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 06:02:15,937 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 06:02:15,953 - INFO - Validated INTC data: 2651 rows
+2025-07-26 06:02:15,976 - INFO - Validated INTU data: 2651 rows
+2025-07-26 06:02:15,997 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 06:02:16,014 - INFO - Validated KDP data: 2651 rows
+2025-07-26 06:02:16,033 - INFO - Validated KHC data: 2525 rows
+2025-07-26 06:02:16,048 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 06:02:16,063 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 06:02:16,079 - INFO - Validated MAR data: 2651 rows
+2025-07-26 06:02:16,096 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 06:02:16,113 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 06:02:16,133 - INFO - Validated MELI data: 2651 rows
+2025-07-26 06:02:16,152 - INFO - Validated META data: 2651 rows
+2025-07-26 06:02:16,170 - INFO - Validated MNST data: 2651 rows
+2025-07-26 06:02:16,183 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 06:02:16,201 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 06:02:16,217 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 06:02:16,236 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 06:02:16,258 - INFO - Validated MU data: 2651 rows
+2025-07-26 06:02:16,275 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 06:02:16,292 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 06:02:16,309 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 06:02:16,329 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 06:02:16,345 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 06:02:16,362 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 06:02:16,379 - INFO - Validated PANW data: 2651 rows
+2025-07-26 06:02:16,394 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 06:02:16,410 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 06:02:16,428 - INFO - Validated PEP data: 2651 rows
+2025-07-26 06:02:16,446 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 06:02:16,467 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 06:02:16,477 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 06:02:16,494 - INFO - Validated REGN data: 2651 rows
+2025-07-26 06:02:16,510 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 06:02:16,530 - INFO - Validated ROST data: 2651 rows
+2025-07-26 06:02:16,550 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 06:02:16,576 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 06:02:16,594 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 06:02:16,613 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 06:02:16,632 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 06:02:16,654 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 06:02:16,672 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 06:02:16,691 - INFO - Validated TTD data: 2218 rows
+2025-07-26 06:02:16,712 - INFO - Validated TXN data: 2651 rows
+2025-07-26 06:02:16,728 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 06:02:16,743 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 06:02:16,759 - INFO - Validated WBD data: 2651 rows
+2025-07-26 06:02:16,775 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 06:02:16,792 - INFO - Validated XEL data: 2651 rows
+2025-07-26 06:02:16,803 - INFO - Validated ZM data: 1571 rows
+2025-07-26 06:02:16,815 - INFO - Validated ZS data: 1845 rows
+2025-07-26 06:02:16,891 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 06:02:16,975 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 06:02:17,078 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 06:02:17,162 - INFO - Validated Energy data: 2653 rows
+2025-07-26 06:02:17,236 - INFO - Validated Financials data: 2653 rows
+2025-07-26 06:02:17,316 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 06:02:17,414 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 06:02:17,498 - INFO - Validated Materials data: 2656 rows
+2025-07-26 06:02:17,575 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 06:02:17,667 - INFO - Validated Technology data: 2653 rows
+2025-07-26 06:02:17,752 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 06:02:17,777 - INFO - AAPL: Passed validation (correlation: 0.823)
+2025-07-26 06:02:17,936 - INFO - ABNB: Passed validation (correlation: 0.599)
+2025-07-26 06:02:17,975 - INFO - ADBE: Passed validation (correlation: 0.744)
+2025-07-26 06:02:18,000 - INFO - ADI: Passed validation (correlation: 0.754)
+2025-07-26 06:02:18,015 - INFO - ADP: Passed validation (correlation: 0.644)
+2025-07-26 06:02:18,031 - INFO - ADSK: Passed validation (correlation: 0.698)
+2025-07-26 06:02:18,056 - INFO - AEP: Passed validation (correlation: 0.876)
+2025-07-26 06:02:18,211 - INFO - ALGN: Passed validation (correlation: 0.482)
+2025-07-26 06:02:18,238 - INFO - AMAT: Passed validation (correlation: 0.766)
+2025-07-26 06:02:18,257 - INFO - AMD: Passed validation (correlation: 0.570)
+2025-07-26 06:02:18,278 - INFO - AMGN: Passed validation (correlation: 0.706)
+2025-07-26 06:02:18,294 - INFO - AMZN: Passed validation (correlation: 0.733)
+2025-07-26 06:02:18,312 - INFO - ANSS: Passed validation (correlation: 0.768)
+2025-07-26 06:02:18,330 - INFO - ASML: Passed validation (correlation: 0.748)
+2025-07-26 06:02:18,348 - INFO - AVGO: Passed validation (correlation: 0.659)
+2025-07-26 06:02:18,368 - INFO - BIIB: Passed validation (correlation: 0.469)
+2025-07-26 06:02:18,387 - INFO - BKNG: Passed validation (correlation: 0.590)
+2025-07-26 06:02:18,404 - INFO - BKR: Passed validation (correlation: 0.777)
+2025-07-26 06:02:18,421 - INFO - CDNS: Passed validation (correlation: 0.762)
+2025-07-26 06:02:18,436 - INFO - CHTR: Passed validation (correlation: 0.522)
+2025-07-26 06:02:18,453 - INFO - CMCSA: Passed validation (correlation: 0.625)
+2025-07-26 06:02:18,471 - INFO - COST: Passed validation (correlation: 0.642)
+2025-07-26 06:02:18,498 - INFO - CPRT: Passed validation (correlation: 0.626)
+2025-07-26 06:02:18,515 - INFO - CRWD: Passed validation (correlation: 0.521)
+2025-07-26 06:02:18,535 - INFO - CSCO: Passed validation (correlation: 0.674)
+2025-07-26 06:02:18,551 - INFO - CSX: Passed validation (correlation: 0.734)
+2025-07-26 06:02:18,567 - INFO - CTAS: Passed validation (correlation: 0.711)
+2025-07-26 06:02:18,587 - INFO - CTSH: Passed validation (correlation: 0.625)
+2025-07-26 06:02:18,608 - INFO - CVNA: Passed validation (correlation: 0.497)
+2025-07-26 06:02:18,625 - INFO - DASH: Passed validation (correlation: 0.520)
+2025-07-26 06:02:18,643 - INFO - DDOG: Passed validation (correlation: 0.535)
+2025-07-26 06:02:18,659 - INFO - DLTR: Passed validation (correlation: 0.394)
+2025-07-26 06:02:18,674 - INFO - DOCU: Passed validation (correlation: 0.494)
+2025-07-26 06:02:18,691 - INFO - DXCM: Passed validation (correlation: 0.384)
+2025-07-26 06:02:18,730 - INFO - EA: Passed validation (correlation: 0.451)
+2025-07-26 06:02:18,754 - INFO - EBAY: Passed validation (correlation: 0.507)
+2025-07-26 06:02:18,772 - INFO - ENPH: Passed validation (correlation: 0.336)
+2025-07-26 06:02:18,795 - INFO - EXC: Passed validation (correlation: 0.827)
+2025-07-26 06:02:18,813 - INFO - FANG: Passed validation (correlation: 0.825)
+2025-07-26 06:02:18,833 - INFO - FAST: Passed validation (correlation: 0.659)
+2025-07-26 06:02:18,854 - INFO - FTNT: Passed validation (correlation: 0.578)
+2025-07-26 06:02:18,871 - INFO - GILD: Passed validation (correlation: 0.548)
+2025-07-26 06:02:18,887 - INFO - GOOG: Passed validation (correlation: 0.739)
+2025-07-26 06:02:18,910 - INFO - GOOGL: Passed validation (correlation: 0.741)
+2025-07-26 06:02:18,930 - INFO - HON: Passed validation (correlation: 0.834)
+2025-07-26 06:02:18,948 - INFO - IDXX: Passed validation (correlation: 0.562)
+2025-07-26 06:02:18,966 - INFO - ILMN: Passed validation (correlation: 0.518)
+2025-07-26 06:02:18,995 - INFO - INTC: Passed validation (correlation: 0.644)
+2025-07-26 06:02:19,018 - INFO - INTU: Passed validation (correlation: 0.759)
+2025-07-26 06:02:19,040 - INFO - ISRG: Passed validation (correlation: 0.635)
+2025-07-26 06:02:19,059 - INFO - KDP: Passed validation (correlation: 0.482)
+2025-07-26 06:02:19,078 - INFO - KHC: Passed validation (correlation: 0.616)
+2025-07-26 06:02:19,098 - INFO - KLAC: Passed validation (correlation: 0.763)
+2025-07-26 06:02:19,119 - INFO - LRCX: Passed validation (correlation: 0.766)
+2025-07-26 06:02:19,141 - INFO - MAR: Passed validation (correlation: 0.621)
+2025-07-26 06:02:19,159 - INFO - MCHP: Passed validation (correlation: 0.746)
+2025-07-26 06:02:19,177 - INFO - MDLZ: Passed validation (correlation: 0.775)
+2025-07-26 06:02:19,198 - INFO - MELI: Passed validation (correlation: 0.563)
+2025-07-26 06:02:19,219 - INFO - META: Passed validation (correlation: 0.629)
+2025-07-26 06:02:19,238 - INFO - MNST: Passed validation (correlation: 0.562)
+2025-07-26 06:02:19,253 - INFO - MRNA: Passed validation (correlation: 0.225)
+2025-07-26 06:02:19,272 - INFO - MRVL: Passed validation (correlation: 0.674)
+2025-07-26 06:02:19,288 - INFO - MSFT: Passed validation (correlation: 0.864)
+2025-07-26 06:02:19,308 - INFO - MTCH: Passed validation (correlation: 0.452)
+2025-07-26 06:02:19,326 - INFO - MU: Passed validation (correlation: 0.650)
+2025-07-26 06:02:19,339 - INFO - NFLX: Passed validation (correlation: 0.614)
+2025-07-26 06:02:19,356 - INFO - NVDA: Passed validation (correlation: 0.668)
+2025-07-26 06:02:19,376 - INFO - NXPI: Passed validation (correlation: 0.665)
+2025-07-26 06:02:19,400 - INFO - ODFL: Passed validation (correlation: 0.639)
+2025-07-26 06:02:19,419 - INFO - OKTA: Passed validation (correlation: 0.501)
+2025-07-26 06:02:19,437 - INFO - ORLY: Passed validation (correlation: 0.468)
+2025-07-26 06:02:19,455 - INFO - PANW: Passed validation (correlation: 0.514)
+2025-07-26 06:02:19,470 - INFO - PAYX: Passed validation (correlation: 0.642)
+2025-07-26 06:02:19,485 - INFO - PCAR: Passed validation (correlation: 0.731)
+2025-07-26 06:02:19,501 - INFO - PEP: Passed validation (correlation: 0.838)
+2025-07-26 06:02:19,533 - INFO - PYPL: Passed validation (correlation: 0.614)
+2025-07-26 06:02:19,556 - INFO - QCOM: Passed validation (correlation: 0.688)
+2025-07-26 06:02:19,579 - INFO - RBLX: Passed validation (correlation: 0.431)
+2025-07-26 06:02:19,595 - INFO - REGN: Passed validation (correlation: 0.551)
+2025-07-26 06:02:19,610 - INFO - ROKU: Passed validation (correlation: 0.416)
+2025-07-26 06:02:19,626 - INFO - ROST: Passed validation (correlation: 0.609)
+2025-07-26 06:02:19,644 - INFO - SBUX: Passed validation (correlation: 0.635)
+2025-07-26 06:02:19,661 - INFO - SIRI: Passed validation (correlation: 0.381)
+2025-07-26 06:02:19,683 - INFO - SNAP: Passed validation (correlation: 0.376)
+2025-07-26 06:02:19,700 - INFO - SNPS: Passed validation (correlation: 0.787)
+2025-07-26 06:02:19,718 - INFO - TEAM: Passed validation (correlation: 0.502)
+2025-07-26 06:02:19,735 - INFO - TMUS: Passed validation (correlation: 0.506)
+2025-07-26 06:02:19,760 - INFO - TSLA: Passed validation (correlation: 0.615)
+2025-07-26 06:02:19,779 - INFO - TTD: Passed validation (correlation: 0.519)
+2025-07-26 06:02:19,798 - INFO - TXN: Passed validation (correlation: 0.766)
+2025-07-26 06:02:19,816 - INFO - VRSK: Passed validation (correlation: 0.562)
+2025-07-26 06:02:19,832 - INFO - VRTX: Passed validation (correlation: 0.591)
+2025-07-26 06:02:19,848 - INFO - WBD: Passed validation (correlation: 0.497)
+2025-07-26 06:02:19,864 - INFO - WDAY: Passed validation (correlation: 0.615)
+2025-07-26 06:02:19,882 - INFO - XEL: Passed validation (correlation: 0.870)
+2025-07-26 06:02:19,901 - INFO - ZM: Passed validation (correlation: 0.335)
+2025-07-26 06:02:19,919 - INFO - ZS: Passed validation (correlation: 0.508)

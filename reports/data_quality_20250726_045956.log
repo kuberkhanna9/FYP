@@ -1,0 +1,36 @@
+NASDAQ-100 Data Quality Report
+==================================================
+
+Generated: 2025-07-26 05:00:07.159595
+Total stocks processed: 98
+
+Validation Results:
+- Passed: 73 stocks
+- Failed: 25 stocks
+
+Failed Validations:
+- NVDA (Technology)
+- META (Technology)
+- AVGO (Technology)
+- NFLX (Communication Services)
+- AMD (Technology)
+- BKNG (Consumer Discretionary)
+- GILD (Healthcare)
+- REGN (Healthcare)
+- MU (Technology)
+- MRVL (Technology)
+- ABNB (Consumer Discretionary)
+- BIIB (Healthcare)
+- WBD (Communication Services)
+- TEAM (Technology)
+- ILMN (Healthcare)
+- BKR (Energy)
+- ALGN (Healthcare)
+- PYPL (Technology)
+- ATVI (Technology)
+- ZM (Technology)
+- ENPH (Technology)
+- MRNA (Healthcare)
+- ROKU (Technology)
+- RBLX (Technology)
+- SNAP (Technology )

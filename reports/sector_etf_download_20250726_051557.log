@@ -1,0 +1,101 @@
+2025-07-26 05:15:57,229 - INFO - Configured to download 11 sector ETFs from 2015-01-01 to 2025-07-26
+2025-07-26 05:15:57,275 - INFO - Processing XLK (Technology)
+2025-07-26 05:15:57,319 - INFO - Loaded existing data for Technology
+2025-07-26 05:15:57,326 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:15:57,328 - INFO - Processing XLF (Financials)
+2025-07-26 05:15:57,367 - INFO - Loaded existing data for Financials
+2025-07-26 05:15:57,374 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:15:57,374 - INFO - Processing XLV (Healthcare)
+2025-07-26 05:15:57,420 - INFO - Loaded existing data for Healthcare
+2025-07-26 05:15:57,427 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:15:57,431 - INFO - Processing XLE (Energy)
+2025-07-26 05:15:57,470 - INFO - Loaded existing data for Energy
+2025-07-26 05:15:57,476 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:15:57,478 - INFO - Processing XLY (Consumer_Discretionary)
+2025-07-26 05:15:57,511 - INFO - Loaded existing data for Consumer_Discretionary
+2025-07-26 05:15:57,519 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:15:57,520 - INFO - Processing XLP (Consumer_Staples)
+2025-07-26 05:15:57,528 - INFO - Downloading data for XLP (Consumer_Staples)
+2025-07-26 05:16:02,045 - WARNING - 'Adj Close' missing for XLP, fallback to 'Close' used.
+2025-07-26 05:16:02,128 - INFO - Saved Consumer_Staples data to ../data/sectors/Consumer_Staples.csv
+2025-07-26 05:16:02,132 - INFO - All downloads completed successfully
+2025-07-26 05:16:02,133 - ERROR - Failed to download data for XLP
+2025-07-26 05:16:02,135 - INFO - Processing XLI (Industrials)
+2025-07-26 05:16:02,186 - INFO - Loaded existing data for Industrials
+2025-07-26 05:16:02,192 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:16:02,194 - INFO - Processing XLB (Materials)
+2025-07-26 05:16:02,202 - INFO - Downloading data for XLB (Materials)
+2025-07-26 05:16:05,196 - WARNING - 'Adj Close' missing for XLB, fallback to 'Close' used.
+2025-07-26 05:16:05,251 - INFO - Saved Materials data to ../data/sectors/Materials.csv
+2025-07-26 05:16:05,256 - INFO - All downloads completed successfully
+2025-07-26 05:16:05,256 - ERROR - Failed to download data for XLB
+2025-07-26 05:16:05,259 - INFO - Processing XLU (Utilities)
+2025-07-26 05:16:05,308 - INFO - Loaded existing data for Utilities
+2025-07-26 05:16:05,314 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:16:05,315 - INFO - Processing XLRE (Real_Estate)
+2025-07-26 05:16:05,346 - INFO - Loaded existing data for Real_Estate
+2025-07-26 05:16:05,354 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:16:05,355 - INFO - Processing XLC (Communication_Services)
+2025-07-26 05:16:05,360 - INFO - Downloading data for XLC (Communication_Services)
+2025-07-26 05:16:08,346 - WARNING - 'Adj Close' missing for XLC, fallback to 'Close' used.
+2025-07-26 05:16:08,397 - INFO - Saved Communication_Services data to ../data/sectors/Communication_Services.csv
+2025-07-26 05:16:08,402 - INFO - All downloads completed successfully
+2025-07-26 05:16:08,403 - ERROR - Failed to download data for XLC
+2025-07-26 05:19:02,791 - INFO - Configured to download 11 sector ETFs from 2015-01-01 to 2025-07-26
+2025-07-26 05:19:02,835 - INFO - Processing XLK (Technology)
+2025-07-26 05:19:02,851 - INFO - Loaded existing data for Technology
+2025-07-26 05:19:02,857 - INFO - Validated Technology data: 2653 rows
+2025-07-26 05:19:02,857 - INFO - Processing XLF (Financials)
+2025-07-26 05:19:02,870 - INFO - Loaded existing data for Financials
+2025-07-26 05:19:02,877 - INFO - Validated Financials data: 2653 rows
+2025-07-26 05:19:02,878 - INFO - Processing XLV (Healthcare)
+2025-07-26 05:19:02,890 - INFO - Loaded existing data for Healthcare
+2025-07-26 05:19:02,901 - INFO - Validated Healthcare data: 2653 rows
+2025-07-26 05:19:02,902 - INFO - Processing XLE (Energy)
+2025-07-26 05:19:02,912 - INFO - Loaded existing data for Energy
+2025-07-26 05:19:02,920 - INFO - Validated Energy data: 2653 rows
+2025-07-26 05:19:02,921 - INFO - Processing XLY (Consumer_Discretionary)
+2025-07-26 05:19:02,936 - INFO - Loaded existing data for Consumer_Discretionary
+2025-07-26 05:19:02,942 - INFO - Validated Consumer_Discretionary data: 2653 rows
+2025-07-26 05:19:02,946 - INFO - Processing XLP (Consumer_Staples)
+2025-07-26 05:19:02,989 - INFO - Loaded existing data for Consumer_Staples
+2025-07-26 05:19:02,995 - INFO - Validated Consumer_Staples data: 2656 rows
+2025-07-26 05:19:02,996 - INFO - Processing XLI (Industrials)
+2025-07-26 05:19:03,008 - INFO - Loaded existing data for Industrials
+2025-07-26 05:19:03,017 - INFO - Validated Industrials data: 2653 rows
+2025-07-26 05:19:03,018 - INFO - Processing XLB (Materials)
+2025-07-26 05:19:03,055 - INFO - Loaded existing data for Materials
+2025-07-26 05:19:03,061 - INFO - Validated Materials data: 2656 rows
+2025-07-26 05:19:03,062 - INFO - Processing XLU (Utilities)
+2025-07-26 05:19:03,074 - INFO - Loaded existing data for Utilities
+2025-07-26 05:19:03,080 - INFO - Validated Utilities data: 2653 rows
+2025-07-26 05:19:03,083 - INFO - Processing XLRE (Real_Estate)
+2025-07-26 05:19:03,096 - INFO - Loaded existing data for Real_Estate
+2025-07-26 05:19:03,105 - INFO - Validated Real_Estate data: 2460 rows
+2025-07-26 05:19:03,112 - INFO - Processing XLC (Communication_Services)
+2025-07-26 05:19:03,158 - INFO - Loaded existing data for Communication_Services
+2025-07-26 05:19:03,166 - INFO - Validated Communication_Services data: 1785 rows
+2025-07-26 05:19:03,202 - INFO - Loading existing data for XLK (Technology)
+2025-07-26 05:19:03,243 - INFO - Processed 2653 rows for XLK
+2025-07-26 05:19:03,244 - INFO - Loading existing data for XLF (Financials)
+2025-07-26 05:19:03,273 - INFO - Processed 2653 rows for XLF
+2025-07-26 05:19:03,275 - INFO - Loading existing data for XLV (Healthcare)
+2025-07-26 05:19:03,305 - INFO - Processed 2653 rows for XLV
+2025-07-26 05:19:03,307 - INFO - Loading existing data for XLE (Energy)
+2025-07-26 05:19:03,336 - INFO - Processed 2653 rows for XLE
+2025-07-26 05:19:03,337 - INFO - Loading existing data for XLY (Consumer_Discretionary)
+2025-07-26 05:19:03,369 - INFO - Processed 2653 rows for XLY
+2025-07-26 05:19:03,371 - INFO - Loading existing data for XLP (Consumer_Staples)
+2025-07-26 05:19:03,405 - INFO - Processed 2656 rows for XLP
+2025-07-26 05:19:03,407 - INFO - Loading existing data for XLI (Industrials)
+2025-07-26 05:19:03,439 - INFO - Processed 2653 rows for XLI
+2025-07-26 05:19:03,440 - INFO - Loading existing data for XLB (Materials)
+2025-07-26 05:19:03,472 - INFO - Processed 2656 rows for XLB
+2025-07-26 05:19:03,474 - INFO - Loading existing data for XLU (Utilities)
+2025-07-26 05:19:03,504 - INFO - Processed 2653 rows for XLU
+2025-07-26 05:19:03,505 - INFO - Loading existing data for XLRE (Real_Estate)
+2025-07-26 05:19:03,533 - INFO - Processed 2460 rows for XLRE
+2025-07-26 05:19:03,535 - INFO - Loading existing data for XLC (Communication_Services)
+2025-07-26 05:19:03,562 - INFO - Processed 1785 rows for XLC
+2025-07-26 05:19:04,044 - INFO - Saved merged sector data to ../data/processed/sector_indices_merged.csv
+2025-07-26 05:19:05,369 - INFO - Saved enriched sector dataset to ../data/enriched/sector_indices.csv

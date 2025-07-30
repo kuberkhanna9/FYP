@@ -1,0 +1,15 @@
+2025-07-23 21:21:34,139 - INFO - Configuration complete. Starting feature selection analysis.
+2025-07-23 21:21:48,513 - INFO - Processing AAPL
+2025-07-23 21:25:57,834 - INFO - Configuration complete. Starting feature selection analysis.
+2025-07-23 21:25:57,958 - INFO - Processing AAPL
+2025-07-23 21:25:58,005 - WARNING - Missing values found in AAPL features, filling with 0...
+2025-07-23 21:25:59,572 - INFO - Saved plot to ../reports/figures/AAPL_feature_importance.png
+2025-07-23 21:25:59,748 - INFO - Processing MSFT
+2025-07-23 21:25:59,753 - WARNING - Missing values found in MSFT features, filling with 0...
+2025-07-23 21:26:00,685 - INFO - Saved plot to ../reports/figures/MSFT_feature_importance.png
+2025-07-23 21:26:00,879 - INFO - Processing TSLA
+2025-07-23 21:26:00,885 - WARNING - Missing values found in TSLA features, filling with 0...
+2025-07-23 21:26:01,750 - INFO - Saved plot to ../reports/figures/TSLA_feature_importance.png
+2025-07-23 21:26:03,134 - INFO - Saved scores for AAPL to ../data/processed/AAPL_feature_scores.csv
+2025-07-23 21:26:03,137 - INFO - Saved scores for MSFT to ../data/processed/MSFT_feature_scores.csv
+2025-07-23 21:26:03,140 - INFO - Saved scores for TSLA to ../data/processed/TSLA_feature_scores.csv

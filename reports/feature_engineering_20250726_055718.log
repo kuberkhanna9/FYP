@@ -1,0 +1,4 @@
+2025-07-26 05:57:19,031 - ERROR - Error loading data: [Errno 2] No such file or directory: '../data/enriched/nasdaq_validated.csv'
+2025-07-26 06:02:50,426 - INFO - Loaded data from ..\data\processed\merged_data.csv
+2025-07-26 06:02:50,497 - INFO - Successfully loaded data: 238050 rows, 97 stocks
+2025-07-26 06:02:50,501 - INFO - Date range: 2015-01-02 to 2025-07-18

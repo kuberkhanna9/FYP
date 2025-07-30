@@ -1,0 +1,42 @@
+GICS Sector ETF Data Quality Report
+==================================================
+
+Generated: 2025-07-26 06:32:55.069894
+Total sectors processed: 11
+
+Validation Results:
+- Passed: 11 sectors
+- Failed: 0 sectors
+
+
+Cross-Sector Analysis
+==================================================
+
+Correlation matrix saved to: ../reports/figures/sector_correlations.png
+
+Weak Correlations (below threshold):
+- XLK vs XLRE: -0.002
+- XLK vs XLC: 0.012
+- XLF vs XLRE: -0.002
+- XLF vs XLC: 0.019
+- XLV vs XLRE: -0.022
+- XLV vs XLC: 0.013
+- XLE vs XLRE: -0.010
+- XLE vs XLC: 0.003
+- XLY vs XLRE: 0.003
+- XLY vs XLC: -0.014
+- XLP vs XLRE: -0.030
+- XLP vs XLC: -0.014
+- XLI vs XLRE: -0.011
+- XLI vs XLC: 0.014
+- XLB vs XLRE: -0.018
+- XLB vs XLC: -0.003
+- XLU vs XLRE: -0.043
+- XLU vs XLC: -0.020
+- XLRE vs XLC: 0.000
+
+Data Completeness:
+- Trading days: 3,856
+- Expected rows: 42,416
+- Actual rows: 28,152
+- Data coverage: 66.4%

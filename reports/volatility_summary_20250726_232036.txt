@@ -1,0 +1,138 @@
+NASDAQ-100 Sector Volatility Analysis
+==================================================
+
+Risk Metrics by Sector:
+------------------------------
+
+Materials:
+- VaR: 1.959
+- ES: 3.045
+- High_Vol_Days: 12.000
+- High_Vol_Pct: 2.308
+- Skewness: -0.413
+- Kurtosis: 9.449
+- Jarque_Bera: 9951.601
+
+Communication Services:
+- VaR: 2.250
+- ES: 3.547
+- High_Vol_Days: 10.000
+- High_Vol_Pct: 2.899
+- Skewness: -0.484
+- Kurtosis: 6.880
+- Jarque_Bera: 3587.740
+
+Energy:
+- VaR: 2.792
+- ES: 4.401
+- High_Vol_Days: 10.000
+- High_Vol_Pct: 1.923
+- Skewness: -0.871
+- Kurtosis: 15.520
+- Jarque_Bera: 26981.699
+
+Financials:
+- VaR: 2.072
+- ES: 3.333
+- High_Vol_Days: 14.000
+- High_Vol_Pct: 2.692
+- Skewness: -0.567
+- Kurtosis: 14.923
+- Jarque_Bera: 24776.926
+
+Industrials:
+- VaR: 1.871
+- ES: 2.966
+- High_Vol_Days: 17.000
+- High_Vol_Pct: 3.269
+- Skewness: -0.533
+- Kurtosis: 13.716
+- Jarque_Bera: 20937.880
+
+Information Technology:
+- VaR: 2.405
+- ES: 3.617
+- High_Vol_Days: 13.000
+- High_Vol_Pct: 2.500
+- Skewness: -0.295
+- Kurtosis: 9.899
+- Jarque_Bera: 10877.834
+
+Consumer Staples:
+- VaR: 1.338
+- ES: 2.168
+- High_Vol_Days: 11.000
+- High_Vol_Pct: 2.115
+- Skewness: -0.476
+- Kurtosis: 14.801
+- Jarque_Bera: 24335.120
+
+Real Estate:
+- VaR: 1.906
+- ES: 3.133
+- High_Vol_Days: 10.000
+- High_Vol_Pct: 2.079
+- Skewness: -1.043
+- Kurtosis: 18.115
+- Jarque_Bera: 34107.788
+
+Utilities:
+- VaR: 1.746
+- ES: 2.856
+- High_Vol_Days: 10.000
+- High_Vol_Pct: 1.923
+- Skewness: -0.315
+- Kurtosis: 15.109
+- Jarque_Bera: 25297.048
+
+Healthcare:
+- VaR: 1.582
+- ES: 2.543
+- High_Vol_Days: 11.000
+- High_Vol_Pct: 2.115
+- Skewness: -0.434
+- Kurtosis: 9.057
+- Jarque_Bera: 9157.090
+
+Consumer Discretionary:
+- VaR: 2.192
+- ES: 3.365
+- High_Vol_Days: 15.000
+- High_Vol_Pct: 2.885
+- Skewness: -0.592
+- Kurtosis: 9.178
+- Jarque_Bera: 9472.842
+
+Strong Sector Correlations:
+------------------------------
+- Materials <-> Financials: 0.822
+- Materials <-> Industrials: 0.883
+- Materials <-> Information Technology: 0.707
+- Materials <-> Consumer Discretionary: 0.742
+- Communication Services <-> Industrials: 0.700
+- Communication Services <-> Information Technology: 0.841
+- Communication Services <-> Consumer Discretionary: 0.820
+- Financials <-> Industrials: 0.879
+- Financials <-> Consumer Discretionary: 0.736
+- Industrials <-> Information Technology: 0.750
+- Industrials <-> Healthcare: 0.719
+- Industrials <-> Consumer Discretionary: 0.785
+- Information Technology <-> Consumer Discretionary: 0.846
+- Consumer Staples <-> Utilities: 0.703
+- Consumer Staples <-> Healthcare: 0.709
+- Real Estate <-> Utilities: 0.737
+
+Key Event Analysis:
+------------------------------
+
+COVID-19 Crash (2020-03-23):
+
+Fed First Hike (2022-03-16):
+
+Tech Selloff (2022-01-03):
+
+SVB Collapse (2023-03-10):
+
+AI Rally Start (2023-11-01):
+
+Rate Peak (2023-07-26):

@@ -1,0 +1,16 @@
+2025-07-26 03:33:06,556 - ERROR - Error loading data: [Errno 2] No such file or directory: '../data/final_sector_model_data.csv'
+2025-07-26 03:33:42,586 - ERROR - Error loading data: 'Sector'
+2025-07-26 03:34:41,304 - INFO - Loaded sector mapping with 98 stocks
+2025-07-26 03:34:41,336 - INFO - Loaded stock data with shape: (3762, 18)
+2025-07-26 03:34:41,402 - INFO - 
+Processing Technology sector (2 stocks)
+2025-07-26 03:34:41,433 - INFO - 
+Processing Consumer Discretionary sector (1 stocks)
+2025-07-26 03:34:43,432 - INFO - Saved labeled dataset to: ../data/labeled_sector_model_data.csv
+2025-07-26 03:52:14,147 - INFO - Found 98 stocks in sector mapping
+2025-07-26 03:52:14,176 - INFO - Loaded stock data with shape: (3759, 22)
+2025-07-26 03:52:14,180 - WARNING - Missing data for 95 stocks
+2025-07-26 03:52:14,263 - INFO - Processing TSLA (Consumer Discretionary)
+2025-07-26 03:52:14,272 - INFO - Processing AAPL (Technology)
+2025-07-26 03:52:14,281 - INFO - Processing MSFT (Technology)
+2025-07-26 03:52:14,449 - INFO - Saved labeled dataset to: ../data/labeled_signals_nasdaq.csv

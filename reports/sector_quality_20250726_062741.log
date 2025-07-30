@@ -1,0 +1,22 @@
+GICS Sector ETF Data Quality Report
+==================================================
+
+Generated: 2025-07-26 06:27:41.922896
+Total sectors processed: 11
+
+Validation Results:
+- Passed: 0 sectors
+- Failed: 11 sectors
+
+Failed Validations:
+- Information Technology (XLK)
+- Financials (XLF)
+- Healthcare (XLV)
+- Energy (XLE)
+- Consumer Discretionary (XLY)
+- Consumer Staples (XLP)
+- Industrials (XLI)
+- Materials (XLB)
+- Utilities (XLU)
+- Real Estate (XLRE)
+- Communication Services (XLC)

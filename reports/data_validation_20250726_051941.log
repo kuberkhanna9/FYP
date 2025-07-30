@@ -1,0 +1,438 @@
+2025-07-26 05:19:41,274 - INFO - Data validation configuration initialized
+2025-07-26 05:19:41,392 - WARNING - AAPL: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,440 - WARNING - ABNB: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,478 - WARNING - ADBE: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,506 - WARNING - ADI: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,543 - WARNING - ADP: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,578 - WARNING - ADSK: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,616 - WARNING - AEP: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,653 - WARNING - ALGN: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,683 - WARNING - AMAT: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,721 - WARNING - AMD: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,751 - WARNING - AMGN: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,780 - WARNING - AMZN: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,810 - WARNING - ANSS: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,904 - WARNING - ASML: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,936 - WARNING - AVGO: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,970 - WARNING - BIIB: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:41,999 - WARNING - BKNG: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,030 - WARNING - BKR: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,062 - WARNING - CDNS: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,093 - WARNING - CHTR: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,124 - WARNING - CMCSA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,157 - WARNING - COST: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,185 - WARNING - CPRT: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,212 - WARNING - CRWD: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,243 - WARNING - CSCO: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,271 - WARNING - CSX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,299 - WARNING - CTAS: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,340 - WARNING - CTSH: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,365 - WARNING - CVNA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,393 - WARNING - DASH: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,419 - WARNING - DDOG: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,451 - WARNING - DLTR: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,483 - WARNING - DOCU: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,517 - WARNING - DXCM: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,549 - WARNING - EA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,583 - WARNING - EBAY: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,611 - WARNING - ENPH: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,642 - WARNING - EXC: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,736 - WARNING - FANG: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,769 - WARNING - FAST: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,796 - WARNING - FTNT: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,834 - WARNING - GILD: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:42,869 - WARNING - GOOG: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,025 - WARNING - GOOGL: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,061 - WARNING - HON: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,109 - WARNING - IDXX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,162 - WARNING - ILMN: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,217 - WARNING - INTC: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,256 - WARNING - INTU: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,297 - WARNING - ISRG: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,332 - WARNING - KDP: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,364 - WARNING - KHC: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,399 - WARNING - KLAC: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,429 - WARNING - LRCX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,458 - WARNING - MAR: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,486 - WARNING - MCHP: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,517 - WARNING - MDLZ: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,549 - WARNING - MELI: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,579 - WARNING - META: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,605 - WARNING - MNST: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,639 - WARNING - MRNA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,673 - WARNING - MRVL: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,705 - WARNING - MSFT: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,745 - WARNING - MTCH: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,782 - WARNING - MU: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,871 - WARNING - NFLX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,898 - WARNING - NVDA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,934 - WARNING - NXPI: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,968 - WARNING - ODFL: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:43,995 - WARNING - OKTA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,023 - WARNING - ORLY: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,075 - WARNING - PANW: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,106 - WARNING - PAYX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,135 - WARNING - PCAR: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,167 - WARNING - PEP: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,195 - WARNING - PYPL: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,230 - WARNING - QCOM: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,259 - WARNING - RBLX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,299 - WARNING - REGN: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,337 - WARNING - ROKU: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,367 - WARNING - ROST: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,399 - WARNING - SBUX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,433 - WARNING - SIRI: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,459 - WARNING - SNAP: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,490 - WARNING - SNPS: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,516 - WARNING - TEAM: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,560 - WARNING - TMUS: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,589 - WARNING - TSLA: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,614 - WARNING - TTD: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,645 - WARNING - TXN: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,680 - WARNING - VRSK: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,705 - WARNING - VRTX: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,734 - WARNING - WBD: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,767 - WARNING - WDAY: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,818 - WARNING - XEL: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,848 - WARNING - ZM: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,877 - WARNING - ZS: Missing columns: {'Adj Close', 'Symbol'}
+2025-07-26 05:19:44,894 - WARNING - Communication_Services: Missing columns: {'Sector'}
+2025-07-26 05:19:44,907 - WARNING - Consumer_Discretionary: Missing columns: {'Sector'}
+2025-07-26 05:19:44,925 - WARNING - Consumer_Staples: Missing columns: {'Sector'}
+2025-07-26 05:19:44,940 - WARNING - Energy: Missing columns: {'Sector'}
+2025-07-26 05:19:44,957 - WARNING - Financials: Missing columns: {'Sector'}
+2025-07-26 05:19:44,970 - WARNING - Healthcare: Missing columns: {'Sector'}
+2025-07-26 05:19:44,982 - WARNING - Industrials: Missing columns: {'Sector'}
+2025-07-26 05:19:44,993 - WARNING - Materials: Missing columns: {'Sector'}
+2025-07-26 05:19:45,005 - WARNING - Real_Estate: Missing columns: {'Sector'}
+2025-07-26 05:19:45,018 - WARNING - Technology: Missing columns: {'Sector'}
+2025-07-26 05:19:45,030 - WARNING - Utilities: Missing columns: {'Sector'}
+
+Initial Data Validation Summary
+==================================================
+
+Stock Data:
+- Passed: 0 stocks
+- Failed: 97 stocks
+
+Failed Stock Validations:
+- AAPL: missing_columns
+- ABNB: missing_columns
+- ADBE: missing_columns
+- ADI: missing_columns
+- ADP: missing_columns
+- ADSK: missing_columns
+- AEP: missing_columns
+- ALGN: missing_columns
+- AMAT: missing_columns
+- AMD: missing_columns
+- AMGN: missing_columns
+- AMZN: missing_columns
+- ANSS: missing_columns
+- ASML: missing_columns
+- AVGO: missing_columns
+- BIIB: missing_columns
+- BKNG: missing_columns
+- BKR: missing_columns
+- CDNS: missing_columns
+- CHTR: missing_columns
+- CMCSA: missing_columns
+- COST: missing_columns
+- CPRT: missing_columns
+- CRWD: missing_columns
+- CSCO: missing_columns
+- CSX: missing_columns
+- CTAS: missing_columns
+- CTSH: missing_columns
+- CVNA: missing_columns
+- DASH: missing_columns
+- DDOG: missing_columns
+- DLTR: missing_columns
+- DOCU: missing_columns
+- DXCM: missing_columns
+- EA: missing_columns
+- EBAY: missing_columns
+- ENPH: missing_columns
+- EXC: missing_columns
+- FANG: missing_columns
+- FAST: missing_columns
+- FTNT: missing_columns
+- GILD: missing_columns
+- GOOG: missing_columns
+- GOOGL: missing_columns
+- HON: missing_columns
+- IDXX: missing_columns
+- ILMN: missing_columns
+- INTC: missing_columns
+- INTU: missing_columns
+- ISRG: missing_columns
+- KDP: missing_columns
+- KHC: missing_columns
+- KLAC: missing_columns
+- LRCX: missing_columns
+- MAR: missing_columns
+- MCHP: missing_columns
+- MDLZ: missing_columns
+- MELI: missing_columns
+- META: missing_columns
+- MNST: missing_columns
+- MRNA: missing_columns
+- MRVL: missing_columns
+- MSFT: missing_columns
+- MTCH: missing_columns
+- MU: missing_columns
+- NFLX: missing_columns
+- NVDA: missing_columns
+- NXPI: missing_columns
+- ODFL: missing_columns
+- OKTA: missing_columns
+- ORLY: missing_columns
+- PANW: missing_columns
+- PAYX: missing_columns
+- PCAR: missing_columns
+- PEP: missing_columns
+- PYPL: missing_columns
+- QCOM: missing_columns
+- RBLX: missing_columns
+- REGN: missing_columns
+- ROKU: missing_columns
+- ROST: missing_columns
+- SBUX: missing_columns
+- SIRI: missing_columns
+- SNAP: missing_columns
+- SNPS: missing_columns
+- TEAM: missing_columns
+- TMUS: missing_columns
+- TSLA: missing_columns
+- TTD: missing_columns
+- TXN: missing_columns
+- VRSK: missing_columns
+- VRTX: missing_columns
+- WBD: missing_columns
+- WDAY: missing_columns
+- XEL: missing_columns
+- ZM: missing_columns
+- ZS: missing_columns
+
+Sector Data:
+- Passed: 0 sectors
+- Failed: 11 sectors
+
+Failed Sector Validations:
+- Communication_Services: missing_columns
+- Consumer_Discretionary: missing_columns
+- Consumer_Staples: missing_columns
+- Energy: missing_columns
+- Financials: missing_columns
+- Healthcare: missing_columns
+- Industrials: missing_columns
+- Materials: missing_columns
+- Real_Estate: missing_columns
+- Technology: missing_columns
+- Utilities: missing_columns
+2025-07-26 05:22:11,625 - INFO - Data validation configuration initialized
+2025-07-26 05:22:11,794 - INFO - Validated AAPL data: 2651 rows
+2025-07-26 05:22:11,854 - INFO - Validated ABNB data: 1155 rows
+2025-07-26 05:22:11,907 - INFO - Validated ADBE data: 2651 rows
+2025-07-26 05:22:11,966 - INFO - Validated ADI data: 2651 rows
+2025-07-26 05:22:12,018 - INFO - Validated ADP data: 2651 rows
+2025-07-26 05:22:12,071 - INFO - Validated ADSK data: 2651 rows
+2025-07-26 05:22:12,128 - INFO - Validated AEP data: 2651 rows
+2025-07-26 05:22:12,195 - INFO - Validated ALGN data: 2651 rows
+2025-07-26 05:22:12,253 - INFO - Validated AMAT data: 2651 rows
+2025-07-26 05:22:12,319 - INFO - Validated AMD data: 2651 rows
+2025-07-26 05:22:12,377 - INFO - Validated AMGN data: 2651 rows
+2025-07-26 05:22:12,433 - INFO - Validated AMZN data: 2651 rows
+2025-07-26 05:22:12,501 - INFO - Validated ANSS data: 2650 rows
+2025-07-26 05:22:12,577 - INFO - Validated ASML data: 2651 rows
+2025-07-26 05:22:12,634 - INFO - Validated AVGO data: 2651 rows
+2025-07-26 05:22:12,691 - INFO - Validated BIIB data: 2651 rows
+2025-07-26 05:22:12,739 - INFO - Validated BKNG data: 2651 rows
+2025-07-26 05:22:12,793 - INFO - Validated BKR data: 2651 rows
+2025-07-26 05:22:12,857 - INFO - Validated CDNS data: 2651 rows
+2025-07-26 05:22:12,927 - INFO - Validated CHTR data: 2651 rows
+2025-07-26 05:22:13,001 - INFO - Validated CMCSA data: 2651 rows
+2025-07-26 05:22:13,071 - INFO - Validated COST data: 2651 rows
+2025-07-26 05:22:13,146 - INFO - Validated CPRT data: 2651 rows
+2025-07-26 05:22:13,211 - INFO - Validated CRWD data: 1534 rows
+2025-07-26 05:22:13,268 - INFO - Validated CSCO data: 2651 rows
+2025-07-26 05:22:13,314 - INFO - Validated CSX data: 2651 rows
+2025-07-26 05:22:13,372 - INFO - Validated CTAS data: 2651 rows
+2025-07-26 05:22:13,434 - INFO - Validated CTSH data: 2651 rows
+2025-07-26 05:22:13,492 - INFO - Validated CVNA data: 2067 rows
+2025-07-26 05:22:13,547 - INFO - Validated DASH data: 1156 rows
+2025-07-26 05:22:13,619 - INFO - Validated DDOG data: 1465 rows
+2025-07-26 05:22:13,691 - INFO - Validated DLTR data: 2651 rows
+2025-07-26 05:22:13,750 - INFO - Validated DOCU data: 1816 rows
+2025-07-26 05:22:13,808 - INFO - Validated DXCM data: 2651 rows
+2025-07-26 05:22:13,870 - INFO - Validated EA data: 2651 rows
+2025-07-26 05:22:13,927 - INFO - Validated EBAY data: 2651 rows
+2025-07-26 05:22:13,985 - INFO - Validated ENPH data: 2651 rows
+2025-07-26 05:22:14,047 - INFO - Validated EXC data: 2651 rows
+2025-07-26 05:22:14,210 - INFO - Validated FANG data: 2651 rows
+2025-07-26 05:22:14,275 - INFO - Validated FAST data: 2651 rows
+2025-07-26 05:22:14,333 - INFO - Validated FTNT data: 2651 rows
+2025-07-26 05:22:14,391 - INFO - Validated GILD data: 2651 rows
+2025-07-26 05:22:14,443 - INFO - Validated GOOG data: 2651 rows
+2025-07-26 05:22:14,526 - INFO - Validated GOOGL data: 2651 rows
+2025-07-26 05:22:14,614 - INFO - Validated HON data: 2651 rows
+2025-07-26 05:22:14,713 - INFO - Validated IDXX data: 2651 rows
+2025-07-26 05:22:14,803 - INFO - Validated ILMN data: 2651 rows
+2025-07-26 05:22:14,883 - INFO - Validated INTC data: 2651 rows
+2025-07-26 05:22:14,971 - INFO - Validated INTU data: 2651 rows
+2025-07-26 05:22:15,056 - INFO - Validated ISRG data: 2651 rows
+2025-07-26 05:22:15,135 - INFO - Validated KDP data: 2651 rows
+2025-07-26 05:22:15,215 - INFO - Validated KHC data: 2525 rows
+2025-07-26 05:22:15,298 - INFO - Validated KLAC data: 2651 rows
+2025-07-26 05:22:15,389 - INFO - Validated LRCX data: 2651 rows
+2025-07-26 05:22:15,474 - INFO - Validated MAR data: 2651 rows
+2025-07-26 05:22:15,547 - INFO - Validated MCHP data: 2651 rows
+2025-07-26 05:22:15,631 - INFO - Validated MDLZ data: 2651 rows
+2025-07-26 05:22:15,714 - INFO - Validated MELI data: 2651 rows
+2025-07-26 05:22:15,812 - INFO - Validated META data: 2651 rows
+2025-07-26 05:22:15,893 - INFO - Validated MNST data: 2651 rows
+2025-07-26 05:22:15,962 - INFO - Validated MRNA data: 1661 rows
+2025-07-26 05:22:16,029 - INFO - Validated MRVL data: 2651 rows
+2025-07-26 05:22:16,084 - INFO - Validated MSFT data: 2651 rows
+2025-07-26 05:22:16,144 - INFO - Validated MTCH data: 2651 rows
+2025-07-26 05:22:16,194 - INFO - Validated MU data: 2651 rows
+2025-07-26 05:22:16,259 - INFO - Validated NFLX data: 2651 rows
+2025-07-26 05:22:16,322 - INFO - Validated NVDA data: 2651 rows
+2025-07-26 05:22:16,386 - INFO - Validated NXPI data: 2651 rows
+2025-07-26 05:22:16,451 - INFO - Validated ODFL data: 2651 rows
+2025-07-26 05:22:16,503 - INFO - Validated OKTA data: 2081 rows
+2025-07-26 05:22:16,575 - INFO - Validated ORLY data: 2651 rows
+2025-07-26 05:22:16,645 - INFO - Validated PANW data: 2651 rows
+2025-07-26 05:22:16,696 - INFO - Validated PAYX data: 2651 rows
+2025-07-26 05:22:16,766 - INFO - Validated PCAR data: 2651 rows
+2025-07-26 05:22:16,829 - INFO - Validated PEP data: 2651 rows
+2025-07-26 05:22:16,905 - INFO - Validated PYPL data: 2525 rows
+2025-07-26 05:22:16,968 - INFO - Validated QCOM data: 2651 rows
+2025-07-26 05:22:17,023 - INFO - Validated RBLX data: 1095 rows
+2025-07-26 05:22:17,081 - INFO - Validated REGN data: 2651 rows
+2025-07-26 05:22:17,154 - INFO - Validated ROKU data: 1961 rows
+2025-07-26 05:22:17,230 - INFO - Validated ROST data: 2651 rows
+2025-07-26 05:22:17,293 - INFO - Validated SBUX data: 2651 rows
+2025-07-26 05:22:17,360 - INFO - Validated SIRI data: 2651 rows
+2025-07-26 05:22:17,426 - INFO - Validated SNAP data: 2107 rows
+2025-07-26 05:22:17,507 - INFO - Validated SNPS data: 2651 rows
+2025-07-26 05:22:17,586 - INFO - Validated TEAM data: 2415 rows
+2025-07-26 05:22:17,666 - INFO - Validated TMUS data: 2651 rows
+2025-07-26 05:22:17,733 - INFO - Validated TSLA data: 2651 rows
+2025-07-26 05:22:17,809 - INFO - Validated TTD data: 2218 rows
+2025-07-26 05:22:17,879 - INFO - Validated TXN data: 2651 rows
+2025-07-26 05:22:17,950 - INFO - Validated VRSK data: 2651 rows
+2025-07-26 05:22:18,010 - INFO - Validated VRTX data: 2651 rows
+2025-07-26 05:22:18,100 - INFO - Validated WBD data: 2651 rows
+2025-07-26 05:22:18,192 - INFO - Validated WDAY data: 2651 rows
+2025-07-26 05:22:18,304 - INFO - Validated XEL data: 2651 rows
+2025-07-26 05:22:18,392 - INFO - Validated ZM data: 1571 rows
+2025-07-26 05:22:18,464 - INFO - Validated ZS data: 1845 rows
+2025-07-26 05:22:18,480 - WARNING - Communication_Services: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,497 - WARNING - Consumer_Discretionary: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,516 - WARNING - Consumer_Staples: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,529 - WARNING - Energy: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,544 - WARNING - Financials: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,559 - WARNING - Healthcare: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,578 - WARNING - Industrials: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,590 - WARNING - Materials: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,602 - WARNING - Real_Estate: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,614 - WARNING - Technology: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,627 - WARNING - Utilities: Missing columns: {'Ticker', 'Sector'}
+2025-07-26 05:22:18,685 - WARNING - AAPL: Sector Technology not found in sector data
+2025-07-26 05:22:18,686 - WARNING - ABNB: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,689 - WARNING - ADBE: Sector Technology not found in sector data
+2025-07-26 05:22:18,693 - WARNING - ADI: Sector Technology not found in sector data
+2025-07-26 05:22:18,695 - WARNING - ADP: Sector Technology not found in sector data
+2025-07-26 05:22:18,697 - WARNING - ADSK: Sector Technology not found in sector data
+2025-07-26 05:22:18,699 - WARNING - AEP: Sector Utilities not found in sector data
+2025-07-26 05:22:18,702 - WARNING - ALGN: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,703 - WARNING - AMAT: Sector Technology not found in sector data
+2025-07-26 05:22:18,705 - WARNING - AMD: Sector Technology not found in sector data
+2025-07-26 05:22:18,707 - WARNING - AMGN: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,709 - WARNING - AMZN: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,710 - WARNING - ANSS: Sector Technology not found in sector data
+2025-07-26 05:22:18,712 - WARNING - ASML: Sector Technology not found in sector data
+2025-07-26 05:22:18,714 - WARNING - AVGO: Sector Technology not found in sector data
+2025-07-26 05:22:18,715 - WARNING - BIIB: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,718 - WARNING - BKNG: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,720 - WARNING - BKR: Sector Energy not found in sector data
+2025-07-26 05:22:18,722 - WARNING - CDNS: Sector Technology not found in sector data
+2025-07-26 05:22:18,724 - WARNING - CHTR: Sector Communication Services not found in sector data
+2025-07-26 05:22:18,726 - WARNING - CMCSA: Sector Communication Services not found in sector data
+2025-07-26 05:22:18,727 - WARNING - COST: Sector Consumer Staples not found in sector data
+2025-07-26 05:22:18,730 - WARNING - CPRT: Sector Industrials not found in sector data
+2025-07-26 05:22:18,732 - WARNING - CRWD: Sector Technology not found in sector data
+2025-07-26 05:22:18,734 - WARNING - CSCO: Sector Technology not found in sector data
+2025-07-26 05:22:18,736 - WARNING - CSX: Sector Industrials not found in sector data
+2025-07-26 05:22:18,738 - WARNING - CTAS: Sector Industrials not found in sector data
+2025-07-26 05:22:18,739 - WARNING - CTSH: Sector Technology not found in sector data
+2025-07-26 05:22:18,742 - WARNING - CVNA: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,743 - WARNING - DASH: Sector Technology not found in sector data
+2025-07-26 05:22:18,744 - WARNING - DDOG: Sector Technology not found in sector data
+2025-07-26 05:22:18,745 - WARNING - DLTR: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,748 - WARNING - DOCU: Sector Technology not found in sector data
+2025-07-26 05:22:18,749 - WARNING - DXCM: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,751 - WARNING - EA: Sector Technology not found in sector data
+2025-07-26 05:22:18,754 - WARNING - EBAY: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,756 - WARNING - ENPH: Sector Technology not found in sector data
+2025-07-26 05:22:18,757 - WARNING - EXC: Sector Utilities not found in sector data
+2025-07-26 05:22:18,759 - WARNING - FANG: Sector Energy not found in sector data
+2025-07-26 05:22:18,760 - WARNING - FAST: Sector Industrials not found in sector data
+2025-07-26 05:22:18,761 - WARNING - FTNT: Sector Technology not found in sector data
+2025-07-26 05:22:18,762 - WARNING - GILD: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,765 - WARNING - GOOG: Sector Technology not found in sector data
+2025-07-26 05:22:18,767 - WARNING - GOOGL: Sector Technology not found in sector data
+2025-07-26 05:22:18,769 - WARNING - HON: Sector Industrials not found in sector data
+2025-07-26 05:22:18,770 - WARNING - IDXX: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,773 - WARNING - ILMN: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,774 - WARNING - INTC: Sector Technology not found in sector data
+2025-07-26 05:22:18,775 - WARNING - INTU: Sector Technology not found in sector data
+2025-07-26 05:22:18,777 - WARNING - ISRG: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,778 - WARNING - KDP: Sector Consumer Staples not found in sector data
+2025-07-26 05:22:18,779 - WARNING - KHC: Sector Consumer Staples not found in sector data
+2025-07-26 05:22:18,782 - WARNING - KLAC: Sector Technology not found in sector data
+2025-07-26 05:22:18,785 - WARNING - LRCX: Sector Technology not found in sector data
+2025-07-26 05:22:18,786 - WARNING - MAR: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,787 - WARNING - MCHP: Sector Technology not found in sector data
+2025-07-26 05:22:18,788 - WARNING - MDLZ: Sector Consumer Staples not found in sector data
+2025-07-26 05:22:18,790 - WARNING - MELI: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,791 - WARNING - META: Sector Technology not found in sector data
+2025-07-26 05:22:18,793 - WARNING - MNST: Sector Consumer Staples not found in sector data
+2025-07-26 05:22:18,795 - WARNING - MRNA: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,796 - WARNING - MRVL: Sector Technology not found in sector data
+2025-07-26 05:22:18,799 - WARNING - MSFT: Sector Technology not found in sector data
+2025-07-26 05:22:18,801 - WARNING - MTCH: Sector Technology not found in sector data
+2025-07-26 05:22:18,804 - WARNING - MU: Sector Technology not found in sector data
+2025-07-26 05:22:18,805 - WARNING - NFLX: Sector Communication Services not found in sector data
+2025-07-26 05:22:18,806 - WARNING - NVDA: Sector Technology not found in sector data
+2025-07-26 05:22:18,808 - WARNING - NXPI: Sector Technology not found in sector data
+2025-07-26 05:22:18,810 - WARNING - ODFL: Sector Industrials not found in sector data
+2025-07-26 05:22:18,812 - WARNING - OKTA: Sector Technology not found in sector data
+2025-07-26 05:22:18,813 - WARNING - ORLY: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,815 - WARNING - PANW: Sector Technology not found in sector data
+2025-07-26 05:22:18,816 - WARNING - PAYX: Sector Technology not found in sector data
+2025-07-26 05:22:18,818 - WARNING - PCAR: Sector Industrials not found in sector data
+2025-07-26 05:22:18,819 - WARNING - PEP: Sector Consumer Staples not found in sector data
+2025-07-26 05:22:18,822 - WARNING - PYPL: Sector Technology not found in sector data
+2025-07-26 05:22:18,824 - WARNING - QCOM: Sector Technology not found in sector data
+2025-07-26 05:22:18,825 - WARNING - RBLX: Sector Technology not found in sector data
+2025-07-26 05:22:18,828 - WARNING - REGN: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,830 - WARNING - ROKU: Sector Technology not found in sector data
+2025-07-26 05:22:18,832 - WARNING - ROST: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,834 - WARNING - SBUX: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,836 - WARNING - SIRI: Sector Communication Services not found in sector data
+2025-07-26 05:22:18,837 - WARNING - SNAP: Sector Technology  not found in sector data
+2025-07-26 05:22:18,839 - WARNING - SNPS: Sector Technology not found in sector data
+2025-07-26 05:22:18,840 - WARNING - TEAM: Sector Technology not found in sector data
+2025-07-26 05:22:18,842 - WARNING - TMUS: Sector Communication Services not found in sector data
+2025-07-26 05:22:18,843 - WARNING - TSLA: Sector Consumer Discretionary not found in sector data
+2025-07-26 05:22:18,845 - WARNING - TTD: Sector Technology not found in sector data
+2025-07-26 05:22:18,846 - WARNING - TXN: Sector Technology not found in sector data
+2025-07-26 05:22:18,848 - WARNING - VRSK: Sector Technology not found in sector data
+2025-07-26 05:22:18,851 - WARNING - VRTX: Sector Healthcare not found in sector data
+2025-07-26 05:22:18,853 - WARNING - WBD: Sector Communication Services not found in sector data
+2025-07-26 05:22:18,855 - WARNING - WDAY: Sector Technology not found in sector data
+2025-07-26 05:22:18,857 - WARNING - XEL: Sector Utilities not found in sector data
+2025-07-26 05:22:18,859 - WARNING - ZM: Sector Technology not found in sector data
+2025-07-26 05:22:18,861 - WARNING - ZS: Sector Technology not found in sector data

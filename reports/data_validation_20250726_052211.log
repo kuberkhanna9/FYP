@@ -1,0 +1,25 @@
+
+Initial Data Validation Summary
+==================================================
+
+Stock Data:
+- Passed: 97 stocks
+- Failed: 0 stocks
+
+
+Sector Data:
+- Passed: 0 sectors
+- Failed: 11 sectors
+
+Failed Sector Validations:
+- Communication_Services: missing_columns
+- Consumer_Discretionary: missing_columns
+- Consumer_Staples: missing_columns
+- Energy: missing_columns
+- Financials: missing_columns
+- Healthcare: missing_columns
+- Industrials: missing_columns
+- Materials: missing_columns
+- Real_Estate: missing_columns
+- Technology: missing_columns
+- Utilities: missing_columns

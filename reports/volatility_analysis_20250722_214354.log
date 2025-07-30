@@ -1,0 +1,92 @@
+2025-07-22 21:49:20,008 - INFO - Configuration complete. Starting volatility analysis.
+2025-07-22 21:49:31,646 - INFO - Configuration complete. Starting volatility analysis.
+2025-07-22 21:49:31,700 - INFO - Found 8 sector ETF files
+2025-07-22 21:52:48,998 - INFO - Configuration complete. Starting volatility analysis.
+2025-07-22 21:52:49,044 - INFO - Found 8 sector ETF files
+2025-07-22 21:52:49,079 - INFO - Processing Consumer_Discretionary sector
+2025-07-22 21:52:49,168 - WARNING - Error fitting GARCH model for Consumer_Discretionary at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 21:54:14,679 - INFO - Saved results to ../data/volatility/Consumer_Discretionary_garch.csv
+2025-07-22 21:54:15,669 - INFO - Created volatility plot for Consumer_Discretionary
+2025-07-22 21:54:15,676 - INFO - Processing Energy sector
+2025-07-22 21:54:15,748 - WARNING - Error fitting GARCH model for Energy at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 21:55:26,135 - INFO - Saved results to ../data/volatility/Energy_garch.csv
+2025-07-22 21:55:27,125 - INFO - Created volatility plot for Energy
+2025-07-22 21:55:27,132 - INFO - Processing Financials sector
+2025-07-22 21:55:27,199 - WARNING - Error fitting GARCH model for Financials at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 21:57:32,109 - INFO - Saved results to ../data/volatility/Financials_garch.csv
+2025-07-22 21:57:33,065 - INFO - Created volatility plot for Financials
+2025-07-22 21:57:33,077 - INFO - Processing Healthcare sector
+2025-07-22 21:57:33,165 - WARNING - Error fitting GARCH model for Healthcare at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 21:58:43,646 - INFO - Saved results to ../data/volatility/Healthcare_garch.csv
+2025-07-22 21:58:44,554 - INFO - Created volatility plot for Healthcare
+2025-07-22 21:58:44,560 - INFO - Processing Industrials sector
+2025-07-22 21:58:44,623 - WARNING - Error fitting GARCH model for Industrials at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 21:59:52,888 - INFO - Saved results to ../data/volatility/Industrials_garch.csv
+2025-07-22 21:59:53,915 - INFO - Created volatility plot for Industrials
+2025-07-22 21:59:53,923 - INFO - Processing Real_Estate sector
+2025-07-22 21:59:53,989 - WARNING - Error fitting GARCH model for Real_Estate at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 22:01:09,594 - INFO - Saved results to ../data/volatility/Real_Estate_garch.csv
+2025-07-22 22:01:10,613 - INFO - Created volatility plot for Real_Estate
+2025-07-22 22:01:10,621 - INFO - Processing Technology sector
+2025-07-22 22:01:10,720 - WARNING - Error fitting GARCH model for Technology at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 22:02:21,197 - INFO - Saved results to ../data/volatility/Technology_garch.csv
+2025-07-22 22:02:22,206 - INFO - Created volatility plot for Technology
+2025-07-22 22:02:22,212 - INFO - Processing Utilities sector
+2025-07-22 22:02:22,265 - WARNING - Error fitting GARCH model for Utilities at index 90: NaN or inf values found in y. y must contains only finite values.
+2025-07-22 22:03:31,207 - INFO - Saved results to ../data/volatility/Utilities_garch.csv
+2025-07-22 22:03:32,254 - INFO - Created volatility plot for Utilities
+2025-07-22 22:03:32,287 - INFO - Volatility analysis complete
+2025-07-23 19:59:45,668 - INFO - Configuration complete. Starting volatility analysis.
+2025-07-23 19:59:45,711 - INFO - Found 8 sector ETF files
+2025-07-23 19:59:45,737 - INFO - Processing Consumer_Discretionary sector
+2025-07-23 20:01:27,442 - INFO - Saved results to ../data/volatility/Consumer_Discretionary_garch.csv
+2025-07-23 20:01:28,989 - INFO - Created volatility plot for Consumer_Discretionary
+2025-07-23 20:01:29,000 - INFO - Processing Energy sector
+2025-07-23 20:03:16,395 - INFO - Saved results to ../data/volatility/Energy_garch.csv
+2025-07-23 20:03:17,798 - INFO - Created volatility plot for Energy
+2025-07-23 20:03:17,808 - INFO - Processing Financials sector
+2025-07-23 20:04:59,030 - INFO - Saved results to ../data/volatility/Financials_garch.csv
+2025-07-23 20:05:00,493 - INFO - Created volatility plot for Financials
+2025-07-23 20:05:00,501 - INFO - Processing Healthcare sector
+2025-07-23 20:06:41,257 - INFO - Saved results to ../data/volatility/Healthcare_garch.csv
+2025-07-23 20:06:43,423 - INFO - Created volatility plot for Healthcare
+2025-07-23 20:06:43,436 - INFO - Processing Industrials sector
+2025-07-23 20:08:37,669 - INFO - Saved results to ../data/volatility/Industrials_garch.csv
+2025-07-23 20:08:38,815 - INFO - Created volatility plot for Industrials
+2025-07-23 20:08:38,827 - INFO - Processing Real_Estate sector
+2025-07-23 20:10:15,607 - INFO - Saved results to ../data/volatility/Real_Estate_garch.csv
+2025-07-23 20:10:16,978 - INFO - Created volatility plot for Real_Estate
+2025-07-23 20:10:16,985 - INFO - Processing Technology sector
+2025-07-23 20:12:01,886 - INFO - Saved results to ../data/volatility/Technology_garch.csv
+2025-07-23 20:12:03,116 - INFO - Created volatility plot for Technology
+2025-07-23 20:12:03,126 - INFO - Processing Utilities sector
+2025-07-23 20:13:54,108 - INFO - Saved results to ../data/volatility/Utilities_garch.csv
+2025-07-23 20:13:55,405 - INFO - Created volatility plot for Utilities
+2025-07-23 20:13:55,417 - INFO - Volatility analysis complete
+2025-07-23 20:23:06,640 - INFO - Configuration complete. Starting volatility analysis.
+2025-07-23 20:23:06,675 - INFO - Found 8 sector ETF files
+2025-07-23 20:23:06,704 - INFO - Processing Consumer_Discretionary sector
+2025-07-23 20:24:46,261 - INFO - Saved results to ../data/volatility/Consumer_Discretionary_garch.csv
+2025-07-23 20:24:47,755 - INFO - Created volatility plot for Consumer_Discretionary
+2025-07-23 20:24:47,762 - INFO - Processing Energy sector
+2025-07-23 20:26:35,740 - INFO - Saved results to ../data/volatility/Energy_garch.csv
+2025-07-23 20:26:37,172 - INFO - Created volatility plot for Energy
+2025-07-23 20:26:37,181 - INFO - Processing Financials sector
+2025-07-23 20:28:15,288 - INFO - Saved results to ../data/volatility/Financials_garch.csv
+2025-07-23 20:28:16,646 - INFO - Created volatility plot for Financials
+2025-07-23 20:28:16,660 - INFO - Processing Healthcare sector
+2025-07-23 20:30:02,039 - INFO - Saved results to ../data/volatility/Healthcare_garch.csv
+2025-07-23 20:30:03,370 - INFO - Created volatility plot for Healthcare
+2025-07-23 20:30:03,381 - INFO - Processing Industrials sector
+2025-07-23 20:31:47,457 - INFO - Saved results to ../data/volatility/Industrials_garch.csv
+2025-07-23 20:31:48,880 - INFO - Created volatility plot for Industrials
+2025-07-23 20:31:48,893 - INFO - Processing Real_Estate sector
+2025-07-23 20:33:21,685 - INFO - Saved results to ../data/volatility/Real_Estate_garch.csv
+2025-07-23 20:33:23,088 - INFO - Created volatility plot for Real_Estate
+2025-07-23 20:33:23,098 - INFO - Processing Technology sector
+2025-07-23 20:35:08,913 - INFO - Saved results to ../data/volatility/Technology_garch.csv
+2025-07-23 20:35:10,215 - INFO - Created volatility plot for Technology
+2025-07-23 20:35:10,225 - INFO - Processing Utilities sector
+2025-07-23 20:37:00,786 - INFO - Saved results to ../data/volatility/Utilities_garch.csv
+2025-07-23 20:37:02,151 - INFO - Created volatility plot for Utilities
+2025-07-23 20:37:02,162 - INFO - Volatility analysis complete

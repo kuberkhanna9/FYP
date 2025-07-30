@@ -1,0 +1,36 @@
+2025-07-26 03:38:50,870 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:38:50,940 - ERROR - Error loading data: Missing features in dataset: ['Open_Return', 'High_Return', 'Low_Return', 'Close_Return']
+2025-07-26 03:40:00,870 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:40:00,944 - INFO - Calculating return features...
+2025-07-26 03:40:02,014 - ERROR - Error processing stock: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-07-26 03:40:02,027 - ERROR - Error processing stock: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-07-26 03:40:02,028 - ERROR - Error processing stock: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-07-26 03:40:02,036 - INFO - Saved feature importance summary to feature_importance_smi.csv
+2025-07-26 03:42:20,195 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:42:20,287 - INFO - Calculating return features...
+2025-07-26 03:42:20,816 - ERROR - Future execution failed: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-07-26 03:42:20,818 - ERROR - Future execution failed: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-07-26 03:42:20,819 - ERROR - Future execution failed: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-07-26 03:43:29,830 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:43:29,907 - INFO - Calculating return features...
+2025-07-26 03:43:30,131 - INFO - Processing TSLA (Consumer Discretionary)
+2025-07-26 03:43:30,340 - INFO - Processing AAPL (Technology)
+2025-07-26 03:43:30,508 - INFO - Processing MSFT (Technology)
+2025-07-26 03:43:30,692 - INFO - Saved feature importance summary to feature_importance_smi.csv
+2025-07-26 03:46:26,431 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:46:26,511 - INFO - Calculating return features...
+2025-07-26 03:46:26,662 - INFO - Processing TSLA (Consumer Discretionary)
+2025-07-26 03:46:26,871 - INFO - Processing AAPL (Technology)
+2025-07-26 03:46:27,050 - INFO - Processing MSFT (Technology)
+2025-07-26 03:47:41,980 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:47:42,106 - INFO - Calculating return features...
+2025-07-26 03:47:42,257 - INFO - Processing TSLA (Consumer Discretionary)
+2025-07-26 03:47:42,422 - INFO - Processing AAPL (Technology)
+2025-07-26 03:47:42,593 - INFO - Processing MSFT (Technology)
+2025-07-26 03:53:45,499 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 03:53:45,577 - INFO - Calculating return features...
+2025-07-26 03:53:45,690 - INFO - Processing TSLA (Consumer Discretionary)
+2025-07-26 03:53:45,913 - INFO - Processing AAPL (Technology)
+2025-07-26 03:53:46,097 - INFO - Processing MSFT (Technology)
+2025-07-26 04:02:42,127 - INFO - Configuration complete. Using 19 processes for parallel computation.
+2025-07-26 04:02:42,323 - INFO - Calculating return features...

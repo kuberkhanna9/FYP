@@ -1,0 +1,154 @@
+NASDAQ-100 Feature Selection Summary
+==================================================
+
+Analysis Coverage:
+- Total stocks analyzed: 108
+- Sectors covered: 11
+
+Sector-wise Feature Importance:
+
+Information Technology:
+- Stocks analyzed: 51
+- Top 5 features:
+  * OBV: score=0.0182, stability=-0.3417
+  * High: score=0.0182, stability=-0.4488
+  * Log_Return: score=0.0172, stability=-0.4283
+  * Daily_Return: score=0.0171, stability=-0.4157
+  * Close: score=0.0170, stability=-0.4274
+
+Consumer Discretionary:
+- Stocks analyzed: 14
+- Top 5 features:
+  * Log_Return: score=0.0158, stability=-0.7391
+  * Daily_Return: score=0.0155, stability=-0.7402
+  * Open: score=0.0141, stability=-0.3362
+  * OBV: score=0.0128, stability=-0.3967
+  * High: score=0.0119, stability=-0.5128
+
+Utilities:
+- Stocks analyzed: 3
+- Top 5 features:
+  * Close: score=0.0081, stability=-0.3720
+  * Low: score=0.0056, stability=-0.3727
+  * Open: score=0.0053, stability=-0.1870
+  * Sector_Return: score=0.0053, stability=-0.2427
+  * MACD_Signal: score=0.0046, stability=-0.8806
+
+Healthcare:
+- Stocks analyzed: 11
+- Top 5 features:
+  * OBV: score=0.0180, stability=-0.3214
+  * Open: score=0.0168, stability=-0.3520
+  * Low: score=0.0151, stability=-0.2658
+  * Log_Return: score=0.0147, stability=-0.6227
+  * Daily_Return: score=0.0146, stability=-0.5629
+
+Materials:
+- Stocks analyzed: 3
+- Top 5 features:
+  * RSI: score=0.0125, stability=-0.8399
+  * MACD: score=0.0102, stability=-0.7017
+  * Volume: score=0.0089, stability=0.0677
+  * RS_MA: score=0.0083, stability=-0.1926
+  * Volume_MA: score=0.0079, stability=-0.4415
+
+Energy:
+- Stocks analyzed: 2
+- Top 5 features:
+  * BB_Lower: score=0.0079, stability=-0.7238
+  * High: score=0.0078, stability=-0.3430
+  * BB_Width: score=0.0073, stability=-0.3862
+  * Volume: score=0.0053, stability=-0.2744
+  * MACD_Hist: score=0.0050, stability=-0.3147
+
+Communication Services:
+- Stocks analyzed: 6
+- Top 5 features:
+  * Daily_Return: score=0.0186, stability=-0.2765
+  * Log_Return: score=0.0184, stability=-0.2860
+  * Low: score=0.0151, stability=-0.3839
+  * MACD_Signal: score=0.0095, stability=-0.1741
+  * Close: score=0.0094, stability=-0.3970
+
+Financials:
+- Stocks analyzed: 2
+- Top 5 features:
+  * RSI: score=0.0567, stability=-0.3984
+  * Close: score=0.0545, stability=-0.2199
+  * EMA_50: score=0.0538, stability=-0.2798
+  * MACD_Signal: score=0.0538, stability=-0.2323
+  * BB_Upper: score=0.0534, stability=-0.2116
+
+Consumer Staples:
+- Stocks analyzed: 6
+- Top 5 features:
+  * Log_Return: score=0.0085, stability=-0.3959
+  * Daily_Return: score=0.0084, stability=-0.4128
+  * BB_Width: score=0.0080, stability=-0.4409
+  * Sector_Return: score=0.0079, stability=-0.3965
+  * BB_Upper: score=0.0074, stability=-0.6828
+
+Industrials:
+- Stocks analyzed: 7
+- Top 5 features:
+  * Close: score=0.0133, stability=-0.1869
+  * RSI: score=0.0130, stability=-0.6606
+  * High: score=0.0113, stability=-0.1683
+  * OBV: score=0.0102, stability=-0.1435
+  * EMA_10: score=0.0085, stability=-0.4043
+
+Real Estate:
+- Stocks analyzed: 3
+- Top 5 features:
+  * Open: score=0.0085, stability=-0.5150
+  * Sector_Return: score=0.0075, stability=0.0225
+  * Volume_MA: score=0.0067, stability=-1.2361
+  * Low: score=0.0060, stability=-0.6695
+  * Volume: score=0.0058, stability=-0.0782
+
+Highly Correlated Features:
+- Information Technology ↔ Healthcare: 0.9095
+- Information Technology ↔ Financials: 0.7849
+- Consumer Discretionary ↔ Healthcare: 0.7088
+
+Global Feature Ranking:
+- Close (Price):
+  * Global rank: 0.0128
+  * Rank stability: -0.1528
+  * Best sectors: Financials, Information Technology, Industrials
+- Open (Price):
+  * Global rank: 0.0123
+  * Rank stability: -0.0346
+  * Best sectors: Financials, Information Technology, Healthcare
+- Log_Return (Volatility):
+  * Global rank: 0.0119
+  * Rank stability: -0.0310
+  * Best sectors: Financials, Communication Services, Information Technology
+- Daily_Return (Volatility):
+  * Global rank: 0.0119
+  * Rank stability: -0.0215
+  * Best sectors: Financials, Communication Services, Information Technology
+- High (Price):
+  * Global rank: 0.0118
+  * Rank stability: -0.1855
+  * Best sectors: Financials, Information Technology, Healthcare
+- Low (Price):
+  * Global rank: 0.0117
+  * Rank stability: -0.1619
+  * Best sectors: Financials, Communication Services, Healthcare
+- BB_Lower (Technical):
+  * Global rank: 0.0109
+  * Rank stability: -0.1510
+  * Best sectors: Financials, Healthcare, Information Technology
+- RSI (Technical):
+  * Global rank: 0.0108
+  * Rank stability: -0.5060
+  * Best sectors: Financials, Information Technology, Industrials
+- BB_Upper (Technical):
+  * Global rank: 0.0106
+  * Rank stability: -0.4033
+  * Best sectors: Financials, Information Technology, Healthcare
+- BB_Width (Technical):
+  * Global rank: 0.0103
+  * Rank stability: -0.1292
+  * Best sectors: Financials, Information Technology, Healthcare

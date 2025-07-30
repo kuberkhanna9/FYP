@@ -1,0 +1,331 @@
+2025-07-22 20:44:40,100 - INFO - Configured to download 100 stocks from 2015-01-01 to 2025-07-22
+2025-07-22 20:44:44,120 - ERROR - Error downloading AAPL: Missing columns: {'Adj Close'}
+2025-07-22 20:44:45,766 - ERROR - Error downloading MSFT: Missing columns: {'Adj Close'}
+2025-07-22 20:44:47,877 - ERROR - Error downloading AMZN: Missing columns: {'Adj Close'}
+2025-07-22 20:44:51,017 - ERROR - Error downloading NVDA: Missing columns: {'Adj Close'}
+2025-07-22 20:44:53,398 - ERROR - Error downloading META: Missing columns: {'Adj Close'}
+2025-07-22 20:44:55,542 - ERROR - Error downloading GOOGL: Missing columns: {'Adj Close'}
+2025-07-22 20:44:57,837 - ERROR - Error downloading GOOG: Missing columns: {'Adj Close'}
+2025-07-22 20:45:00,169 - ERROR - Error downloading TSLA: Missing columns: {'Adj Close'}
+2025-07-22 20:45:02,289 - ERROR - Error downloading AVGO: Missing columns: {'Adj Close'}
+2025-07-22 20:45:04,976 - ERROR - Error downloading PEP: Missing columns: {'Adj Close'}
+2025-07-22 20:45:07,039 - ERROR - Error downloading COST: Missing columns: {'Adj Close'}
+2025-07-22 20:45:09,128 - ERROR - Error downloading CSCO: Missing columns: {'Adj Close'}
+2025-07-22 20:45:11,931 - ERROR - Error downloading TMUS: Missing columns: {'Adj Close'}
+2025-07-22 20:45:14,641 - ERROR - Error downloading ADBE: Missing columns: {'Adj Close'}
+2025-07-22 20:45:16,712 - ERROR - Error downloading NFLX: Missing columns: {'Adj Close'}
+2025-07-22 20:45:19,533 - ERROR - Error downloading CMCSA: Missing columns: {'Adj Close'}
+2025-07-22 20:45:22,153 - ERROR - Error downloading AMD: Missing columns: {'Adj Close'}
+2025-07-22 20:45:24,427 - ERROR - Error downloading TXN: Missing columns: {'Adj Close'}
+2025-07-22 20:45:26,496 - ERROR - Error downloading INTC: Missing columns: {'Adj Close'}
+2025-07-22 20:45:28,604 - ERROR - Error downloading QCOM: Missing columns: {'Adj Close'}
+2025-07-22 20:45:31,387 - ERROR - Error downloading INTU: Missing columns: {'Adj Close'}
+2025-07-22 20:45:33,639 - ERROR - Error downloading AMGN: Missing columns: {'Adj Close'}
+2025-07-22 20:45:35,818 - ERROR - Error downloading HON: Missing columns: {'Adj Close'}
+2025-07-22 20:45:37,753 - ERROR - Error downloading AMAT: Missing columns: {'Adj Close'}
+2025-07-22 20:45:40,413 - ERROR - Error downloading ISRG: Missing columns: {'Adj Close'}
+2025-07-22 20:45:42,727 - ERROR - Error downloading SBUX: Missing columns: {'Adj Close'}
+2025-07-22 20:45:45,003 - ERROR - Error downloading ADP: Missing columns: {'Adj Close'}
+2025-07-22 20:45:47,079 - ERROR - Error downloading MDLZ: Missing columns: {'Adj Close'}
+2025-07-22 20:45:49,639 - ERROR - Error downloading ADI: Missing columns: {'Adj Close'}
+2025-07-22 20:45:52,018 - ERROR - Error downloading BKNG: Missing columns: {'Adj Close'}
+2025-07-22 20:45:54,649 - ERROR - Error downloading GILD: Missing columns: {'Adj Close'}
+2025-07-22 20:45:57,398 - ERROR - Error downloading REGN: Missing columns: {'Adj Close'}
+2025-07-22 20:46:00,078 - ERROR - Error downloading VRTX: Missing columns: {'Adj Close'}
+2025-07-22 20:46:01,792 - ERROR - Error downloading PANW: Missing columns: {'Adj Close'}
+2025-07-22 20:46:03,715 - ERROR - Error downloading SNPS: Missing columns: {'Adj Close'}
+2025-07-22 20:46:06,114 - ERROR - Error downloading CDNS: Missing columns: {'Adj Close'}
+2025-07-22 20:46:08,408 - ERROR - Error downloading KLAC: Missing columns: {'Adj Close'}
+2025-07-22 20:46:11,032 - ERROR - Error downloading MELI: Missing columns: {'Adj Close'}
+2025-07-22 20:46:13,901 - ERROR - Error downloading LRCX: Missing columns: {'Adj Close'}
+2025-07-22 20:46:16,448 - ERROR - Error downloading MU: Missing columns: {'Adj Close'}
+2025-07-22 20:46:18,407 - ERROR - Error downloading ASML: Missing columns: {'Adj Close'}
+2025-07-22 20:46:22,117 - ERROR - Error downloading CHTR: Missing columns: {'Adj Close'}
+2025-07-22 20:46:24,286 - ERROR - Error downloading MAR: Missing columns: {'Adj Close'}
+2025-07-22 20:46:26,638 - ERROR - Error downloading ORLY: Missing columns: {'Adj Close'}
+2025-07-22 20:46:28,473 - ERROR - Error downloading MNST: Missing columns: {'Adj Close'}
+2025-07-22 20:46:30,730 - ERROR - Error downloading FTNT: Missing columns: {'Adj Close'}
+2025-07-22 20:46:33,023 - ERROR - Error downloading CTAS: Missing columns: {'Adj Close'}
+2025-07-22 20:46:35,743 - ERROR - Error downloading PAYX: Missing columns: {'Adj Close'}
+2025-07-22 20:46:37,661 - ERROR - Error downloading MRVL: Missing columns: {'Adj Close'}
+2025-07-22 20:46:40,290 - ERROR - Error downloading ABNB: Missing columns: {'Adj Close'}
+2025-07-22 20:46:42,799 - ERROR - Error downloading ADSK: Missing columns: {'Adj Close'}
+2025-07-22 20:46:45,665 - ERROR - Error downloading ODFL: Missing columns: {'Adj Close'}
+2025-07-22 20:46:47,719 - ERROR - Error downloading IDXX: Missing columns: {'Adj Close'}
+2025-07-22 20:46:50,174 - ERROR - Error downloading BIIB: Missing columns: {'Adj Close'}
+2025-07-22 20:46:52,400 - ERROR - Error downloading KDP: Missing columns: {'Adj Close'}
+2025-07-22 20:46:54,250 - ERROR - Error downloading KHC: Missing columns: {'Adj Close'}
+2025-07-22 20:46:56,599 - ERROR - Error downloading DXCM: Missing columns: {'Adj Close'}
+2025-07-22 20:46:58,533 - ERROR - Error downloading NXPI: Missing columns: {'Adj Close'}
+2025-07-22 20:47:00,638 - ERROR - Error downloading MCHP: Missing columns: {'Adj Close'}
+2025-07-22 20:47:02,442 - ERROR - Error downloading WDAY: Missing columns: {'Adj Close'}
+2025-07-22 20:47:04,519 - ERROR - Error downloading PCAR: Missing columns: {'Adj Close'}
+2025-07-22 20:47:07,418 - ERROR - Error downloading ROST: Missing columns: {'Adj Close'}
+2025-07-22 20:47:10,303 - ERROR - Error downloading CPRT: Missing columns: {'Adj Close'}
+2025-07-22 20:47:12,467 - ERROR - Error downloading SIRI: Missing columns: {'Adj Close'}
+2025-07-22 20:47:14,978 - ERROR - Error downloading EXC: Missing columns: {'Adj Close'}
+2025-07-22 20:47:17,624 - ERROR - Error downloading AEP: Missing columns: {'Adj Close'}
+2025-07-22 20:47:20,058 - ERROR - Error downloading VRSK: Missing columns: {'Adj Close'}
+2025-07-22 20:47:22,162 - ERROR - Error downloading FAST: Missing columns: {'Adj Close'}
+2025-07-22 20:47:24,117 - ERROR - Error downloading DDOG: Missing columns: {'Adj Close'}
+2025-07-22 20:47:27,009 - ERROR - Error downloading ANSS: Missing columns: {'Adj Close'}
+2025-07-22 20:47:28,865 - ERROR - Error downloading DLTR: Missing columns: {'Adj Close'}
+2025-07-22 20:47:31,301 - ERROR - Error downloading CTSH: Missing columns: {'Adj Close'}
+2025-07-22 20:47:33,632 - ERROR - Error downloading WBD: Missing columns: {'Adj Close'}
+2025-07-22 20:47:36,130 - ERROR - Error downloading FANG: Missing columns: {'Adj Close'}
+2025-07-22 20:47:38,262 - ERROR - Error downloading XEL: Missing columns: {'Adj Close'}
+2025-07-22 20:47:40,813 - ERROR - Error downloading TEAM: Missing columns: {'Adj Close'}
+2025-07-22 20:47:43,069 - ERROR - Error downloading ILMN: Missing columns: {'Adj Close'}
+2025-07-22 20:47:45,669 - ERROR - Error downloading EA: Missing columns: {'Adj Close'}
+2025-07-22 20:47:48,105 - ERROR - Error downloading BKR: Missing columns: {'Adj Close'}
+2025-07-22 20:47:50,225 - ERROR - Error downloading ALGN: Missing columns: {'Adj Close'}
+2025-07-22 20:47:52,572 - ERROR - Error downloading EBAY: Missing columns: {'Adj Close'}
+2025-07-22 20:47:54,768 - ERROR - Error downloading ZS: Missing columns: {'Adj Close'}
+2025-07-22 20:47:56,683 - ERROR - Error downloading CRWD: Missing columns: {'Adj Close'}
+2025-07-22 20:47:58,456 - ERROR - Error downloading LCID: Missing columns: {'Adj Close'}
+2025-07-22 20:48:00,762 - ERROR - Error downloading RIVN: Missing columns: {'Adj Close'}
+2025-07-22 20:48:02,758 - ERROR - Error downloading PYPL: Missing columns: {'Adj Close'}
+2025-07-22 20:48:04,798 - ERROR - Error downloading CSX: Missing columns: {'Adj Close'}
+2025-07-22 20:48:11,904 - ERROR - $ATVI: possibly delisted; no timezone found
+2025-07-22 20:48:11,908 - ERROR - Error downloading ATVI: No data downloaded
+2025-07-22 20:48:13,986 - ERROR - Error downloading ZM: Missing columns: {'Adj Close'}
+2025-07-22 20:48:16,274 - ERROR - Error downloading MTCH: Missing columns: {'Adj Close'}
+2025-07-22 20:48:18,806 - ERROR - Error downloading ENPH: Missing columns: {'Adj Close'}
+2025-07-22 20:48:21,128 - ERROR - Error downloading MRNA: Missing columns: {'Adj Close'}
+2025-07-22 20:48:23,492 - ERROR - Error downloading OKTA: Missing columns: {'Adj Close'}
+2025-07-22 20:48:25,100 - ERROR - Error downloading DASH: Missing columns: {'Adj Close'}
+2025-07-22 20:48:27,012 - ERROR - Error downloading ROKU: Missing columns: {'Adj Close'}
+2025-07-22 20:48:29,556 - ERROR - Error downloading TTD: Missing columns: {'Adj Close'}
+2025-07-22 20:48:31,398 - ERROR - Error downloading CVNA: Missing columns: {'Adj Close'}
+2025-07-22 20:48:32,989 - ERROR - Error downloading RBLX: Missing columns: {'Adj Close'}
+2025-07-22 20:48:35,101 - ERROR - Error downloading DOCU: Missing columns: {'Adj Close'}
+2025-07-22 20:48:37,718 - ERROR - Error downloading SNAP: Missing columns: {'Adj Close'}
+2025-07-22 20:48:37,727 - INFO - Successfully downloaded 0 stocks
+2025-07-22 20:48:37,730 - WARNING - Failed to download 100 stocks: AAPL, MSFT, AMZN, NVDA, META, GOOGL, GOOG, TSLA, AVGO, PEP, COST, CSCO, TMUS, ADBE, NFLX, CMCSA, AMD, TXN, INTC, QCOM, INTU, AMGN, HON, AMAT, ISRG, SBUX, ADP, MDLZ, ADI, BKNG, GILD, REGN, VRTX, PANW, SNPS, CDNS, KLAC, MELI, LRCX, MU, ASML, CHTR, MAR, ORLY, MNST, FTNT, CTAS, PAYX, MRVL, ABNB, ADSK, ODFL, IDXX, BIIB, KDP, KHC, DXCM, NXPI, MCHP, WDAY, PCAR, ROST, CPRT, SIRI, EXC, AEP, VRSK, FAST, DDOG, ANSS, DLTR, CTSH, WBD, FANG, XEL, TEAM, ILMN, EA, BKR, ALGN, EBAY, ZS, CRWD, LCID, RIVN, PYPL, CSX, ATVI, ZM, MTCH, ENPH, MRNA, OKTA, DASH, ROKU, TTD, CVNA, RBLX, DOCU, SNAP
+2025-07-22 20:48:37,768 - ERROR - No data available to merge
+2025-07-22 21:00:26,010 - INFO - Configured to download 100 stocks from 2015-01-01 to 2025-07-22
+2025-07-22 21:00:29,133 - WARNING - 'Adj Close' missing for AAPL, fallback to 'Close' used.
+2025-07-22 21:00:29,190 - INFO - Saved AAPL data to ../data/raw/AAPL.csv
+2025-07-22 21:00:30,570 - WARNING - 'Adj Close' missing for MSFT, fallback to 'Close' used.
+2025-07-22 21:00:30,605 - INFO - Saved MSFT data to ../data/raw/MSFT.csv
+2025-07-22 21:00:32,293 - WARNING - 'Adj Close' missing for AMZN, fallback to 'Close' used.
+2025-07-22 21:00:32,339 - INFO - Saved AMZN data to ../data/raw/AMZN.csv
+2025-07-22 21:00:34,318 - WARNING - 'Adj Close' missing for NVDA, fallback to 'Close' used.
+2025-07-22 21:00:34,377 - INFO - Saved NVDA data to ../data/raw/NVDA.csv
+2025-07-22 21:00:36,207 - WARNING - 'Adj Close' missing for META, fallback to 'Close' used.
+2025-07-22 21:00:36,246 - INFO - Saved META data to ../data/raw/META.csv
+2025-07-22 21:00:38,050 - WARNING - 'Adj Close' missing for GOOGL, fallback to 'Close' used.
+2025-07-22 21:00:38,095 - INFO - Saved GOOGL data to ../data/raw/GOOGL.csv
+2025-07-22 21:00:39,876 - WARNING - 'Adj Close' missing for GOOG, fallback to 'Close' used.
+2025-07-22 21:00:39,928 - INFO - Saved GOOG data to ../data/raw/GOOG.csv
+2025-07-22 21:00:42,270 - WARNING - 'Adj Close' missing for TSLA, fallback to 'Close' used.
+2025-07-22 21:00:42,342 - INFO - Saved TSLA data to ../data/raw/TSLA.csv
+2025-07-22 21:00:44,413 - WARNING - 'Adj Close' missing for AVGO, fallback to 'Close' used.
+2025-07-22 21:00:44,496 - INFO - Saved AVGO data to ../data/raw/AVGO.csv
+2025-07-22 21:00:46,392 - WARNING - 'Adj Close' missing for PEP, fallback to 'Close' used.
+2025-07-22 21:00:46,450 - INFO - Saved PEP data to ../data/raw/PEP.csv
+2025-07-22 21:00:48,064 - WARNING - 'Adj Close' missing for COST, fallback to 'Close' used.
+2025-07-22 21:00:48,138 - INFO - Saved COST data to ../data/raw/COST.csv
+2025-07-22 21:00:49,653 - WARNING - 'Adj Close' missing for CSCO, fallback to 'Close' used.
+2025-07-22 21:00:49,692 - INFO - Saved CSCO data to ../data/raw/CSCO.csv
+2025-07-22 21:00:51,476 - WARNING - 'Adj Close' missing for TMUS, fallback to 'Close' used.
+2025-07-22 21:00:51,511 - INFO - Saved TMUS data to ../data/raw/TMUS.csv
+2025-07-22 21:00:53,728 - WARNING - 'Adj Close' missing for ADBE, fallback to 'Close' used.
+2025-07-22 21:00:53,800 - INFO - Saved ADBE data to ../data/raw/ADBE.csv
+2025-07-22 21:00:55,813 - WARNING - 'Adj Close' missing for NFLX, fallback to 'Close' used.
+2025-07-22 21:00:55,850 - INFO - Saved NFLX data to ../data/raw/NFLX.csv
+2025-07-22 21:00:57,615 - WARNING - 'Adj Close' missing for CMCSA, fallback to 'Close' used.
+2025-07-22 21:00:57,652 - INFO - Saved CMCSA data to ../data/raw/CMCSA.csv
+2025-07-22 21:00:59,747 - WARNING - 'Adj Close' missing for AMD, fallback to 'Close' used.
+2025-07-22 21:00:59,797 - INFO - Saved AMD data to ../data/raw/AMD.csv
+2025-07-22 21:01:02,212 - WARNING - 'Adj Close' missing for TXN, fallback to 'Close' used.
+2025-07-22 21:01:02,249 - INFO - Saved TXN data to ../data/raw/TXN.csv
+2025-07-22 21:01:03,960 - WARNING - 'Adj Close' missing for INTC, fallback to 'Close' used.
+2025-07-22 21:01:04,005 - INFO - Saved INTC data to ../data/raw/INTC.csv
+2025-07-22 21:01:05,666 - WARNING - 'Adj Close' missing for QCOM, fallback to 'Close' used.
+2025-07-22 21:01:05,704 - INFO - Saved QCOM data to ../data/raw/QCOM.csv
+2025-07-22 21:01:07,929 - WARNING - 'Adj Close' missing for INTU, fallback to 'Close' used.
+2025-07-22 21:01:07,984 - INFO - Saved INTU data to ../data/raw/INTU.csv
+2025-07-22 21:01:09,308 - WARNING - 'Adj Close' missing for AMGN, fallback to 'Close' used.
+2025-07-22 21:01:09,424 - INFO - Saved AMGN data to ../data/raw/AMGN.csv
+2025-07-22 21:01:11,552 - WARNING - 'Adj Close' missing for HON, fallback to 'Close' used.
+2025-07-22 21:01:11,593 - INFO - Saved HON data to ../data/raw/HON.csv
+2025-07-22 21:01:13,105 - WARNING - 'Adj Close' missing for AMAT, fallback to 'Close' used.
+2025-07-22 21:01:13,146 - INFO - Saved AMAT data to ../data/raw/AMAT.csv
+2025-07-22 21:01:14,512 - WARNING - 'Adj Close' missing for ISRG, fallback to 'Close' used.
+2025-07-22 21:01:14,548 - INFO - Saved ISRG data to ../data/raw/ISRG.csv
+2025-07-22 21:01:16,367 - WARNING - 'Adj Close' missing for SBUX, fallback to 'Close' used.
+2025-07-22 21:01:16,425 - INFO - Saved SBUX data to ../data/raw/SBUX.csv
+2025-07-22 21:01:18,461 - WARNING - 'Adj Close' missing for ADP, fallback to 'Close' used.
+2025-07-22 21:01:18,565 - INFO - Saved ADP data to ../data/raw/ADP.csv
+2025-07-22 21:01:20,249 - WARNING - 'Adj Close' missing for MDLZ, fallback to 'Close' used.
+2025-07-22 21:01:20,476 - INFO - Saved MDLZ data to ../data/raw/MDLZ.csv
+2025-07-22 21:01:22,080 - WARNING - 'Adj Close' missing for ADI, fallback to 'Close' used.
+2025-07-22 21:01:22,288 - INFO - Saved ADI data to ../data/raw/ADI.csv
+2025-07-22 21:01:23,983 - WARNING - 'Adj Close' missing for BKNG, fallback to 'Close' used.
+2025-07-22 21:01:24,224 - INFO - Saved BKNG data to ../data/raw/BKNG.csv
+2025-07-22 21:01:26,286 - WARNING - 'Adj Close' missing for GILD, fallback to 'Close' used.
+2025-07-22 21:01:26,473 - INFO - Saved GILD data to ../data/raw/GILD.csv
+2025-07-22 21:01:27,875 - WARNING - 'Adj Close' missing for REGN, fallback to 'Close' used.
+2025-07-22 21:01:28,075 - INFO - Saved REGN data to ../data/raw/REGN.csv
+2025-07-22 21:01:30,030 - WARNING - 'Adj Close' missing for VRTX, fallback to 'Close' used.
+2025-07-22 21:01:30,304 - INFO - Saved VRTX data to ../data/raw/VRTX.csv
+2025-07-22 21:01:32,574 - WARNING - 'Adj Close' missing for PANW, fallback to 'Close' used.
+2025-07-22 21:01:32,798 - INFO - Saved PANW data to ../data/raw/PANW.csv
+2025-07-22 21:01:34,223 - WARNING - 'Adj Close' missing for SNPS, fallback to 'Close' used.
+2025-07-22 21:01:34,458 - INFO - Saved SNPS data to ../data/raw/SNPS.csv
+2025-07-22 21:01:36,461 - WARNING - 'Adj Close' missing for CDNS, fallback to 'Close' used.
+2025-07-22 21:01:36,620 - INFO - Saved CDNS data to ../data/raw/CDNS.csv
+2025-07-22 21:01:38,632 - WARNING - 'Adj Close' missing for KLAC, fallback to 'Close' used.
+2025-07-22 21:01:38,789 - INFO - Saved KLAC data to ../data/raw/KLAC.csv
+2025-07-22 21:01:40,598 - WARNING - 'Adj Close' missing for MELI, fallback to 'Close' used.
+2025-07-22 21:01:40,772 - INFO - Saved MELI data to ../data/raw/MELI.csv
+2025-07-22 21:01:42,384 - WARNING - 'Adj Close' missing for LRCX, fallback to 'Close' used.
+2025-07-22 21:01:42,563 - INFO - Saved LRCX data to ../data/raw/LRCX.csv
+2025-07-22 21:01:44,081 - WARNING - 'Adj Close' missing for MU, fallback to 'Close' used.
+2025-07-22 21:01:44,295 - INFO - Saved MU data to ../data/raw/MU.csv
+2025-07-22 21:01:46,052 - WARNING - 'Adj Close' missing for ASML, fallback to 'Close' used.
+2025-07-22 21:01:46,218 - INFO - Saved ASML data to ../data/raw/ASML.csv
+2025-07-22 21:01:48,469 - WARNING - 'Adj Close' missing for CHTR, fallback to 'Close' used.
+2025-07-22 21:01:48,704 - INFO - Saved CHTR data to ../data/raw/CHTR.csv
+2025-07-22 21:01:50,236 - WARNING - 'Adj Close' missing for MAR, fallback to 'Close' used.
+2025-07-22 21:01:50,421 - INFO - Saved MAR data to ../data/raw/MAR.csv
+2025-07-22 21:01:52,676 - WARNING - 'Adj Close' missing for ORLY, fallback to 'Close' used.
+2025-07-22 21:01:52,909 - INFO - Saved ORLY data to ../data/raw/ORLY.csv
+2025-07-22 21:01:54,421 - WARNING - 'Adj Close' missing for MNST, fallback to 'Close' used.
+2025-07-22 21:01:54,612 - INFO - Saved MNST data to ../data/raw/MNST.csv
+2025-07-22 21:01:56,766 - WARNING - 'Adj Close' missing for FTNT, fallback to 'Close' used.
+2025-07-22 21:01:56,953 - INFO - Saved FTNT data to ../data/raw/FTNT.csv
+2025-07-22 21:01:58,993 - WARNING - 'Adj Close' missing for CTAS, fallback to 'Close' used.
+2025-07-22 21:01:59,123 - INFO - Saved CTAS data to ../data/raw/CTAS.csv
+2025-07-22 21:02:01,330 - WARNING - 'Adj Close' missing for PAYX, fallback to 'Close' used.
+2025-07-22 21:02:01,494 - INFO - Saved PAYX data to ../data/raw/PAYX.csv
+2025-07-22 21:02:02,880 - WARNING - 'Adj Close' missing for MRVL, fallback to 'Close' used.
+2025-07-22 21:02:03,034 - INFO - Saved MRVL data to ../data/raw/MRVL.csv
+2025-07-22 21:02:04,215 - WARNING - 'Adj Close' missing for ABNB, fallback to 'Close' used.
+2025-07-22 21:02:04,284 - INFO - Saved ABNB data to ../data/raw/ABNB.csv
+2025-07-22 21:02:05,919 - WARNING - 'Adj Close' missing for ADSK, fallback to 'Close' used.
+2025-07-22 21:02:06,055 - INFO - Saved ADSK data to ../data/raw/ADSK.csv
+2025-07-22 21:02:07,620 - WARNING - 'Adj Close' missing for ODFL, fallback to 'Close' used.
+2025-07-22 21:02:07,784 - INFO - Saved ODFL data to ../data/raw/ODFL.csv
+2025-07-22 21:02:09,577 - WARNING - 'Adj Close' missing for IDXX, fallback to 'Close' used.
+2025-07-22 21:02:09,770 - INFO - Saved IDXX data to ../data/raw/IDXX.csv
+2025-07-22 21:02:11,052 - WARNING - 'Adj Close' missing for BIIB, fallback to 'Close' used.
+2025-07-22 21:02:11,230 - INFO - Saved BIIB data to ../data/raw/BIIB.csv
+2025-07-22 21:02:12,748 - WARNING - 'Adj Close' missing for KDP, fallback to 'Close' used.
+2025-07-22 21:02:12,921 - INFO - Saved KDP data to ../data/raw/KDP.csv
+2025-07-22 21:02:15,006 - WARNING - 'Adj Close' missing for KHC, fallback to 'Close' used.
+2025-07-22 21:02:15,210 - INFO - Saved KHC data to ../data/raw/KHC.csv
+2025-07-22 21:02:17,598 - WARNING - 'Adj Close' missing for DXCM, fallback to 'Close' used.
+2025-07-22 21:02:17,867 - INFO - Saved DXCM data to ../data/raw/DXCM.csv
+2025-07-22 21:02:19,790 - WARNING - 'Adj Close' missing for NXPI, fallback to 'Close' used.
+2025-07-22 21:02:19,994 - INFO - Saved NXPI data to ../data/raw/NXPI.csv
+2025-07-22 21:02:22,203 - WARNING - 'Adj Close' missing for MCHP, fallback to 'Close' used.
+2025-07-22 21:02:22,244 - INFO - Saved MCHP data to ../data/raw/MCHP.csv
+2025-07-22 21:02:24,034 - WARNING - 'Adj Close' missing for WDAY, fallback to 'Close' used.
+2025-07-22 21:02:24,080 - INFO - Saved WDAY data to ../data/raw/WDAY.csv
+2025-07-22 21:02:25,728 - WARNING - 'Adj Close' missing for PCAR, fallback to 'Close' used.
+2025-07-22 21:02:25,761 - INFO - Saved PCAR data to ../data/raw/PCAR.csv
+2025-07-22 21:02:27,421 - WARNING - 'Adj Close' missing for ROST, fallback to 'Close' used.
+2025-07-22 21:02:27,488 - INFO - Saved ROST data to ../data/raw/ROST.csv
+2025-07-22 21:02:29,055 - WARNING - 'Adj Close' missing for CPRT, fallback to 'Close' used.
+2025-07-22 21:02:29,094 - INFO - Saved CPRT data to ../data/raw/CPRT.csv
+2025-07-22 21:02:31,227 - WARNING - 'Adj Close' missing for SIRI, fallback to 'Close' used.
+2025-07-22 21:02:31,288 - INFO - Saved SIRI data to ../data/raw/SIRI.csv
+2025-07-22 21:02:32,855 - WARNING - 'Adj Close' missing for EXC, fallback to 'Close' used.
+2025-07-22 21:02:32,911 - INFO - Saved EXC data to ../data/raw/EXC.csv
+2025-07-22 21:02:35,107 - WARNING - 'Adj Close' missing for AEP, fallback to 'Close' used.
+2025-07-22 21:02:35,146 - INFO - Saved AEP data to ../data/raw/AEP.csv
+2025-07-22 21:02:37,162 - WARNING - 'Adj Close' missing for VRSK, fallback to 'Close' used.
+2025-07-22 21:02:37,235 - INFO - Saved VRSK data to ../data/raw/VRSK.csv
+2025-07-22 21:02:39,209 - WARNING - 'Adj Close' missing for FAST, fallback to 'Close' used.
+2025-07-22 21:02:39,247 - INFO - Saved FAST data to ../data/raw/FAST.csv
+2025-07-22 21:02:40,515 - WARNING - 'Adj Close' missing for DDOG, fallback to 'Close' used.
+2025-07-22 21:02:40,572 - INFO - Saved DDOG data to ../data/raw/DDOG.csv
+2025-07-22 21:02:42,250 - WARNING - 'Adj Close' missing for ANSS, fallback to 'Close' used.
+2025-07-22 21:02:42,302 - INFO - Saved ANSS data to ../data/raw/ANSS.csv
+2025-07-22 21:02:43,845 - WARNING - 'Adj Close' missing for DLTR, fallback to 'Close' used.
+2025-07-22 21:02:43,920 - INFO - Saved DLTR data to ../data/raw/DLTR.csv
+2025-07-22 21:02:45,286 - WARNING - 'Adj Close' missing for CTSH, fallback to 'Close' used.
+2025-07-22 21:02:45,350 - INFO - Saved CTSH data to ../data/raw/CTSH.csv
+2025-07-22 21:02:47,476 - WARNING - 'Adj Close' missing for WBD, fallback to 'Close' used.
+2025-07-22 21:02:47,546 - INFO - Saved WBD data to ../data/raw/WBD.csv
+2025-07-22 21:02:49,018 - WARNING - 'Adj Close' missing for FANG, fallback to 'Close' used.
+2025-07-22 21:02:49,057 - INFO - Saved FANG data to ../data/raw/FANG.csv
+2025-07-22 21:02:51,485 - WARNING - 'Adj Close' missing for XEL, fallback to 'Close' used.
+2025-07-22 21:02:51,518 - INFO - Saved XEL data to ../data/raw/XEL.csv
+2025-07-22 21:02:53,396 - WARNING - 'Adj Close' missing for TEAM, fallback to 'Close' used.
+2025-07-22 21:02:53,466 - INFO - Saved TEAM data to ../data/raw/TEAM.csv
+2025-07-22 21:02:55,460 - WARNING - 'Adj Close' missing for ILMN, fallback to 'Close' used.
+2025-07-22 21:02:55,512 - INFO - Saved ILMN data to ../data/raw/ILMN.csv
+2025-07-22 21:02:57,788 - WARNING - 'Adj Close' missing for EA, fallback to 'Close' used.
+2025-07-22 21:02:57,835 - INFO - Saved EA data to ../data/raw/EA.csv
+2025-07-22 21:02:59,669 - WARNING - 'Adj Close' missing for BKR, fallback to 'Close' used.
+2025-07-22 21:02:59,704 - INFO - Saved BKR data to ../data/raw/BKR.csv
+2025-07-22 21:03:01,591 - WARNING - 'Adj Close' missing for ALGN, fallback to 'Close' used.
+2025-07-22 21:03:01,649 - INFO - Saved ALGN data to ../data/raw/ALGN.csv
+2025-07-22 21:03:03,758 - WARNING - 'Adj Close' missing for EBAY, fallback to 'Close' used.
+2025-07-22 21:03:03,803 - INFO - Saved EBAY data to ../data/raw/EBAY.csv
+2025-07-22 21:03:06,068 - WARNING - 'Adj Close' missing for ZS, fallback to 'Close' used.
+2025-07-22 21:03:06,122 - INFO - Saved ZS data to ../data/raw/ZS.csv
+2025-07-22 21:03:08,270 - WARNING - 'Adj Close' missing for CRWD, fallback to 'Close' used.
+2025-07-22 21:03:08,333 - INFO - Saved CRWD data to ../data/raw/CRWD.csv
+2025-07-22 21:03:09,957 - WARNING - 'Adj Close' missing for LCID, fallback to 'Close' used.
+2025-07-22 21:03:09,985 - INFO - Saved LCID data to ../data/raw/LCID.csv
+2025-07-22 21:03:11,634 - WARNING - 'Adj Close' missing for RIVN, fallback to 'Close' used.
+2025-07-22 21:03:11,672 - INFO - Saved RIVN data to ../data/raw/RIVN.csv
+2025-07-22 21:03:13,252 - WARNING - 'Adj Close' missing for PYPL, fallback to 'Close' used.
+2025-07-22 21:03:13,299 - INFO - Saved PYPL data to ../data/raw/PYPL.csv
+2025-07-22 21:03:15,365 - WARNING - 'Adj Close' missing for CSX, fallback to 'Close' used.
+2025-07-22 21:03:15,437 - INFO - Saved CSX data to ../data/raw/CSX.csv
+2025-07-22 21:03:21,687 - ERROR - $ATVI: possibly delisted; no timezone found
+2025-07-22 21:03:21,690 - ERROR - No data downloaded for ATVI
+2025-07-22 21:03:23,762 - WARNING - 'Adj Close' missing for ZM, fallback to 'Close' used.
+2025-07-22 21:03:23,823 - INFO - Saved ZM data to ../data/raw/ZM.csv
+2025-07-22 21:03:25,694 - WARNING - 'Adj Close' missing for MTCH, fallback to 'Close' used.
+2025-07-22 21:03:25,727 - INFO - Saved MTCH data to ../data/raw/MTCH.csv
+2025-07-22 21:03:27,509 - WARNING - 'Adj Close' missing for ENPH, fallback to 'Close' used.
+2025-07-22 21:03:27,562 - INFO - Saved ENPH data to ../data/raw/ENPH.csv
+2025-07-22 21:03:29,673 - WARNING - 'Adj Close' missing for MRNA, fallback to 'Close' used.
+2025-07-22 21:03:29,723 - INFO - Saved MRNA data to ../data/raw/MRNA.csv
+2025-07-22 21:03:32,033 - WARNING - 'Adj Close' missing for OKTA, fallback to 'Close' used.
+2025-07-22 21:03:32,113 - INFO - Saved OKTA data to ../data/raw/OKTA.csv
+2025-07-22 21:03:34,158 - WARNING - 'Adj Close' missing for DASH, fallback to 'Close' used.
+2025-07-22 21:03:34,190 - INFO - Saved DASH data to ../data/raw/DASH.csv
+2025-07-22 21:03:35,523 - WARNING - 'Adj Close' missing for ROKU, fallback to 'Close' used.
+2025-07-22 21:03:35,568 - INFO - Saved ROKU data to ../data/raw/ROKU.csv
+2025-07-22 21:03:36,918 - WARNING - 'Adj Close' missing for TTD, fallback to 'Close' used.
+2025-07-22 21:03:36,949 - INFO - Saved TTD data to ../data/raw/TTD.csv
+2025-07-22 21:03:38,667 - WARNING - 'Adj Close' missing for CVNA, fallback to 'Close' used.
+2025-07-22 21:03:38,738 - INFO - Saved CVNA data to ../data/raw/CVNA.csv
+2025-07-22 21:03:40,010 - WARNING - 'Adj Close' missing for RBLX, fallback to 'Close' used.
+2025-07-22 21:03:40,073 - INFO - Saved RBLX data to ../data/raw/RBLX.csv
+2025-07-22 21:03:42,023 - WARNING - 'Adj Close' missing for DOCU, fallback to 'Close' used.
+2025-07-22 21:03:42,111 - INFO - Saved DOCU data to ../data/raw/DOCU.csv
+2025-07-22 21:03:43,479 - WARNING - 'Adj Close' missing for SNAP, fallback to 'Close' used.
+2025-07-22 21:03:43,533 - INFO - Saved SNAP data to ../data/raw/SNAP.csv
+2025-07-22 21:03:43,536 - INFO - Successfully downloaded 99 stocks
+2025-07-22 21:03:43,537 - WARNING - Failed to download 1 stocks: ATVI
+2025-07-22 21:03:43,554 - INFO - Configured to download 100 stocks from 2015-01-01 to 2025-07-22
+2025-07-22 21:03:45,347 - WARNING - 'Adj Close' missing for AAPL, fallback to 'Close' used.
+2025-07-22 21:03:45,397 - INFO - Saved AAPL data to ../data/raw/AAPL.csv
+2025-07-22 21:03:47,366 - WARNING - 'Adj Close' missing for MSFT, fallback to 'Close' used.
+2025-07-22 21:03:47,418 - INFO - Saved MSFT data to ../data/raw/MSFT.csv
+2025-07-22 21:03:49,071 - WARNING - 'Adj Close' missing for AMZN, fallback to 'Close' used.
+2025-07-22 21:03:49,107 - INFO - Saved AMZN data to ../data/raw/AMZN.csv
+2025-07-22 21:03:50,918 - WARNING - 'Adj Close' missing for NVDA, fallback to 'Close' used.
+2025-07-22 21:03:50,969 - INFO - Saved NVDA data to ../data/raw/NVDA.csv
+2025-07-22 21:03:53,087 - WARNING - 'Adj Close' missing for META, fallback to 'Close' used.
+2025-07-22 21:03:53,127 - INFO - Saved META data to ../data/raw/META.csv
+2025-07-22 21:03:54,966 - WARNING - 'Adj Close' missing for GOOGL, fallback to 'Close' used.
+2025-07-22 21:03:55,022 - INFO - Saved GOOGL data to ../data/raw/GOOGL.csv
+2025-07-22 21:03:59,114 - WARNING - 'Adj Close' missing for GOOG, fallback to 'Close' used.
+2025-07-22 21:03:59,147 - INFO - Saved GOOG data to ../data/raw/GOOG.csv
+2025-07-22 21:04:00,839 - WARNING - 'Adj Close' missing for TSLA, fallback to 'Close' used.
+2025-07-22 21:04:00,871 - INFO - Saved TSLA data to ../data/raw/TSLA.csv
+2025-07-22 21:04:03,068 - WARNING - 'Adj Close' missing for AVGO, fallback to 'Close' used.
+2025-07-22 21:04:03,109 - INFO - Saved AVGO data to ../data/raw/AVGO.csv
+2025-07-22 21:04:05,196 - WARNING - 'Adj Close' missing for PEP, fallback to 'Close' used.
+2025-07-22 21:04:05,258 - INFO - Saved PEP data to ../data/raw/PEP.csv
+2025-07-22 21:04:07,675 - WARNING - 'Adj Close' missing for COST, fallback to 'Close' used.
+2025-07-22 21:04:07,713 - INFO - Saved COST data to ../data/raw/COST.csv

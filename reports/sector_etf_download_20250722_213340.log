@@ -1,0 +1,52 @@
+2025-07-22 21:33:40,085 - INFO - Configured to download 8 sector ETFs from 2015-01-01 to 2025-07-22
+2025-07-22 21:33:40,106 - INFO - Downloading data for XLK (Technology)
+2025-07-22 21:33:44,414 - WARNING - 'Adj Close' missing for XLK, fallback to 'Close' used.
+2025-07-22 21:33:44,470 - INFO - Saved Technology data to ../data/sectors/Technology.csv
+2025-07-22 21:33:44,472 - INFO - Downloading data for XLF (Financials)
+2025-07-22 21:33:46,361 - WARNING - 'Adj Close' missing for XLF, fallback to 'Close' used.
+2025-07-22 21:33:46,405 - INFO - Saved Financials data to ../data/sectors/Financials.csv
+2025-07-22 21:33:46,408 - INFO - Downloading data for XLV (Healthcare)
+2025-07-22 21:33:49,103 - WARNING - 'Adj Close' missing for XLV, fallback to 'Close' used.
+2025-07-22 21:33:49,162 - INFO - Saved Healthcare data to ../data/sectors/Healthcare.csv
+2025-07-22 21:33:49,164 - INFO - Downloading data for XLE (Energy)
+2025-07-22 21:33:52,081 - WARNING - 'Adj Close' missing for XLE, fallback to 'Close' used.
+2025-07-22 21:33:52,182 - INFO - Saved Energy data to ../data/sectors/Energy.csv
+2025-07-22 21:33:52,184 - INFO - Downloading data for XLY (Consumer_Discretionary)
+2025-07-22 21:33:54,859 - WARNING - 'Adj Close' missing for XLY, fallback to 'Close' used.
+2025-07-22 21:33:54,895 - INFO - Saved Consumer_Discretionary data to ../data/sectors/Consumer_Discretionary.csv
+2025-07-22 21:33:54,897 - INFO - Downloading data for XLI (Industrials)
+2025-07-22 21:33:57,247 - WARNING - 'Adj Close' missing for XLI, fallback to 'Close' used.
+2025-07-22 21:33:57,315 - INFO - Saved Industrials data to ../data/sectors/Industrials.csv
+2025-07-22 21:33:57,317 - INFO - Downloading data for XLU (Utilities)
+2025-07-22 21:33:59,602 - WARNING - 'Adj Close' missing for XLU, fallback to 'Close' used.
+2025-07-22 21:33:59,651 - INFO - Saved Utilities data to ../data/sectors/Utilities.csv
+2025-07-22 21:33:59,654 - INFO - Downloading data for XLRE (Real_Estate)
+2025-07-22 21:34:02,021 - WARNING - 'Adj Close' missing for XLRE, fallback to 'Close' used.
+2025-07-22 21:34:02,131 - INFO - Saved Real_Estate data to ../data/sectors/Real_Estate.csv
+2025-07-22 21:34:02,140 - INFO - All downloads completed successfully
+2025-07-23 20:21:14,823 - INFO - Configured to download 8 sector ETFs from 2015-01-01 to 2025-07-23
+2025-07-23 20:21:14,852 - INFO - Downloading data for XLK (Technology)
+2025-07-23 20:21:18,274 - WARNING - 'Adj Close' missing for XLK, fallback to 'Close' used.
+2025-07-23 20:21:18,334 - INFO - Saved Technology data to ../data/sectors/Technology.csv
+2025-07-23 20:21:18,338 - INFO - Downloading data for XLF (Financials)
+2025-07-23 20:21:21,190 - WARNING - 'Adj Close' missing for XLF, fallback to 'Close' used.
+2025-07-23 20:21:21,272 - INFO - Saved Financials data to ../data/sectors/Financials.csv
+2025-07-23 20:21:21,276 - INFO - Downloading data for XLV (Healthcare)
+2025-07-23 20:21:24,012 - WARNING - 'Adj Close' missing for XLV, fallback to 'Close' used.
+2025-07-23 20:21:24,083 - INFO - Saved Healthcare data to ../data/sectors/Healthcare.csv
+2025-07-23 20:21:24,086 - INFO - Downloading data for XLE (Energy)
+2025-07-23 20:21:26,339 - WARNING - 'Adj Close' missing for XLE, fallback to 'Close' used.
+2025-07-23 20:21:26,426 - INFO - Saved Energy data to ../data/sectors/Energy.csv
+2025-07-23 20:21:26,430 - INFO - Downloading data for XLY (Consumer_Discretionary)
+2025-07-23 20:21:28,974 - WARNING - 'Adj Close' missing for XLY, fallback to 'Close' used.
+2025-07-23 20:21:29,057 - INFO - Saved Consumer_Discretionary data to ../data/sectors/Consumer_Discretionary.csv
+2025-07-23 20:21:29,061 - INFO - Downloading data for XLI (Industrials)
+2025-07-23 20:21:31,565 - WARNING - 'Adj Close' missing for XLI, fallback to 'Close' used.
+2025-07-23 20:21:31,646 - INFO - Saved Industrials data to ../data/sectors/Industrials.csv
+2025-07-23 20:21:31,651 - INFO - Downloading data for XLU (Utilities)
+2025-07-23 20:21:34,057 - WARNING - 'Adj Close' missing for XLU, fallback to 'Close' used.
+2025-07-23 20:21:34,112 - INFO - Saved Utilities data to ../data/sectors/Utilities.csv
+2025-07-23 20:21:34,115 - INFO - Downloading data for XLRE (Real_Estate)
+2025-07-23 20:21:36,432 - WARNING - 'Adj Close' missing for XLRE, fallback to 'Close' used.
+2025-07-23 20:21:36,507 - INFO - Saved Real_Estate data to ../data/sectors/Real_Estate.csv
+2025-07-23 20:21:36,511 - INFO - All downloads completed successfully
